@@ -45,7 +45,7 @@ updated: 2026-08-20
 
 ## 결제
 
-Stripe 카드 결제(Visa, Mastercard, American Express, 대부분의 법인카드)는 즉시 처리되어 당일 영업일에 확인서가 발급됩니다. 송금도 가능하며 입금 후 발급되고 보통 은행 영업일 1~2일이 걸립니다. 송장은 USD로 발행되며 견적송장(proforma invoice)을 제공합니다. 연간 플랜은 구매주문서를 받습니다.
+Stripe 카드 결제(Visa, Mastercard, American Express, 대부분의 법인카드)는 즉시 처리되어 당일 영업일에 확인서가 발급됩니다. 송금도 가능하며 입금 후 발급되고 보통 은행 영업일 1~3일이 걸립니다. 송장은 USD로 발행되며 견적송장(proforma invoice)을 제공합니다. 연간 플랜은 구매주문서를 받습니다.
 
 ## 수정과 갱신
 
