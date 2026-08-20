@@ -19,6 +19,8 @@ updated: 2026-08-20
 </ul>
 </div>
 
+<!--trust-->
+
 <div class="answer" markdown="1">
 **In one paragraph.** A Canadian Representative is the person or company in Canada that a non-Canadian applicant names on its ISED certification application. Under [RSP-100, section 4.1](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), the representative is "responsible for responding to all enquiries from ISED regarding the certified product(s), including providing audit samples at no charge to ISED," and the applicant must keep the arrangement in place "for as long as the certified product is offered on the Canadian market." Your certification body will ask for a signed letter from the representative before it issues the certificate. We provide that letter and then stand behind it.
 </div>
