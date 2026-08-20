@@ -81,9 +81,10 @@ ORG_JSON = {
     "foundingDate": "2010",
     "address": {"@type": "PostalAddress", "addressLocality": "Ottawa", "addressRegion": "ON", "addressCountry": "CA"},
     "areaServed": [{"@type": "Country", "name": "Canada"}, {"@type": "Place", "name": "Worldwide (applicants outside Canada)"}],
-    "knowsLanguage": ["en", "fr"],
-    "availableLanguage": [{"@type": "Language", "name": n, "alternateName": c} for n, c in
-                          [("English", "en"), ("French", "fr"), ("Chinese (Simplified)", "zh"), ("Chinese (Traditional)", "zh-TW"), ("Korean", "ko"), ("Japanese", "ja"), ("German", "de")]],
+    "knowsLanguage": ["en", "fr", "zh", "zh-TW", "ko", "ja", "de"],
+    "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": PHONE, "email": EMAIL,
+                     "areaServed": "Worldwide", "availableLanguage": ["English"],
+                     "hoursAvailable": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "17:00"}},
     "priceRange": "$499 - $999 USD",
     "sameAs": [
         "https://lawyercorporation.ca/canadian-representative/",
@@ -531,6 +532,10 @@ def main():
     if INDEXNOW_KEY:
         (DIST / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
 
+    # Netlify serves /404.html for unmatched routes
+    p404 = DIST / "404" / "index.html"
+    if p404.exists():
+        shutil.move(p404, DIST / "404.html"); (DIST / "404").rmdir()
     shutil.copy(ROOT / "_redirects", DIST / "_redirects")
     shutil.copy(ROOT / "_headers", DIST / "_headers")
     print(f"built {len(pages)} pages -> {DIST}")
