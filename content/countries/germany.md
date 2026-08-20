@@ -31,7 +31,7 @@ The RED's authorised representative acts for a non-EU manufacturer in respect of
 
 **Entity naming.** Use the legal form as registered (GmbH, AG, SE, GmbH & Co. KG) consistently with the CB's application.
 
-**Data protection.** Our handling of personal data is described in the [privacy policy](/privacy/); we hold only the contact details needed to operate the appointment, in Canada, under PIPEDA.
+**Data protection.** Our handling of personal data is described in the [privacy policy](/privacy/); we hold only the contact details needed to operate the appointment, handled under Canada's PIPEDA; our payment and form processors are named in the policy.
 
 **Procurement.** Supplier onboarding forms and a pro-forma invoice are provided on request. Purchase orders accepted for annual plans.
 

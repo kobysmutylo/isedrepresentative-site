@@ -21,7 +21,7 @@ Most US TCBs are recognized by ISED as foreign certification bodies under the Ca
 
 **"Our TCB handles Canada."** It handles the certification; it is not your representative. The representative must have a Canadian address. See [the requirement explained](/guides/canadian-representative-requirement-rsp-100/).
 
-**"Our Canadian distributor can sign."** It can, if it has a real Canadian place of business and accepts in writing the duty to respond to ISED and provide audit samples for as long as the product is sold in Canada. Most distributors decline, or sign without reading and disappear when the distribution agreement ends. See [representative vs certification body vs test lab](/guides/representative-vs-certification-body-vs-test-lab/).
+**"Our Canadian distributor can sign."** It can, if it has a real Canadian place of business and accepts in writing the duty to respond to ISED and provide audit samples for as long as the product is sold in Canada. In our experience distributors often decline, and an appointment tied to a distribution agreement tends to lapse when that agreement ends. See [representative vs certification body vs test lab](/guides/representative-vs-certification-body-vs-test-lab/).
 
 **"We have a Canadian subsidiary."** If the subsidiary is the applicant on the ISED application and has a genuine place of business, no separate representative is needed. If the US parent is the applicant, it is.
 

@@ -19,7 +19,7 @@ Taiwanese manufacturers can complete ISED certification entirely in Taiwan, beca
 
 ## How certification usually runs from Taiwan
 
-Taiwan's labs and certification bodies are among the most experienced in the world with FCC and ISED work, and several Taiwanese CBs are recognized by ISED as foreign certification bodies under the APEC TEL MRA. A Taiwanese applicant can therefore test in Hsinchu or Taoyuan and have a Taiwanese FCB issue the ISED certificate. The FCB will ask for the Canadian Representative's details and letter before issuing, exactly as a Canadian CB would. Confirm your CB's current recognition status on ISED's list if in doubt.
+Taiwan's labs and certification bodies handle a large volume of FCC and ISED work, and several Taiwanese CBs are recognized by ISED as foreign certification bodies under the APEC TEL MRA. A Taiwanese applicant can therefore test in Hsinchu or Taoyuan and have a Taiwanese FCB issue the ISED certificate. The FCB will ask for the Canadian Representative's details and letter before issuing, exactly as a Canadian CB would. Confirm your CB's current recognition status on ISED's list if in doubt.
 
 ## What we see from Taiwanese applicants
 
