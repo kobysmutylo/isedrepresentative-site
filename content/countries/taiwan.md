@@ -9,6 +9,10 @@ updated: 2026-08-20
 order: 2
 ---
 
+<div class="native" lang="zh-TW" markdown="1">
+**中文摘要。** 依據加拿大 ISED（前身為 Industry Canada）RSP-100 第 4.1 條，公司地址位於加拿大境外的申請人辦理 IC 認證（ISED 無線設備認證）時，必須指定一名加拿大代表（Canadian Representative）。我們是位於渥太華的加拿大律師事務所 Smutylo Law+，自 2010 年起為境外製造商擔任加拿大代表：每件認證 499 美元（10 年任期）或每年 999 美元不限件數，付款後當個工作日簽發簽署代表函（PDF），可直接提交給您的認證機構。申請表為英文，我們以英文回覆。[繁體中文網站](/zh-tw/) · [立即申請](/quote/)
+</div>
+
 <div class="answer" markdown="1">
 Taiwanese manufacturers can complete ISED certification entirely in Taiwan, because ISED recognizes Taiwanese certification bodies under the APEC TEL mutual recognition arrangement, but the Canadian Representative requirement in RSP-100 section 4.1 still applies: the CB is recognized, the applicant is still outside Canada. Taiwan's ODM and module industries produce a particular pattern of who needs the letter.
 </div>

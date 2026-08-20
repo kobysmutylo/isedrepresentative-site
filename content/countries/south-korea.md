@@ -9,6 +9,10 @@ updated: 2026-08-20
 order: 3
 ---
 
+<div class="native" lang="ko" markdown="1">
+**한국어 요약.** 캐나다 ISED(구 Industry Canada)의 RSP-100 제4.1조에 따라, 회사 주소가 캐나다 밖에 있는 신청인은 IC 인증(ISED 무선기기 인증)을 받을 때 캐나다 대리인(Canadian Representative)을 지정해야 합니다. 저희는 오타와 소재 캐나다 법률사무소 Smutylo Law+로, 2010년부터 해외 제조사의 캐나다 대리인을 맡고 있습니다. 인증 1건당 US$499(10년 임기) 또는 연 US$999로 건수 무제한이며, 결제 후 당일 영업일 내 서명된 대리인 확인서(PDF)를 발급하여 인증기관에 바로 제출하실 수 있습니다. 신청서는 영문이며 회신도 영문으로 드립니다. [한국어 페이지](/ko/) · [신청하기](/quote/)
+</div>
+
 <div class="answer" markdown="1">
 Korean manufacturers can certify for Canada through Korean certification bodies recognized by ISED under the APEC TEL mutual recognition arrangement, but still need a Canadian Representative under RSP-100 section 4.1 because the applicant is outside Canada. Korea's profile of large product families, module makers and automotive tier-one suppliers shapes how letters are structured.
 </div>

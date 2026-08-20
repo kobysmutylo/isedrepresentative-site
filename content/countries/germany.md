@@ -9,6 +9,10 @@ updated: 2026-08-20
 order: 6
 ---
 
+<div class="native" lang="de" markdown="1">
+**Zusammenfassung auf Deutsch.** Nach RSP-100 Abs. 4.1 der kanadischen Behörde ISED (früher Industry Canada) muss jeder Antragsteller mit Firmensitz außerhalb Kanadas für die IC-Zertifizierung (ISED-Funkzulassung) einen kanadischen Vertreter (Canadian Representative) benennen. Wir sind die Anwaltskanzlei Smutylo Law+ in Ottawa und übernehmen diese Rolle seit 2010 für ausländische Hersteller: US$ 499 je Zertifizierung (10 Jahre) oder US$ 999 pro Jahr für beliebig viele Zertifizierungen, unterzeichnetes Bestätigungsschreiben (PDF) am selben Werktag nach Zahlungseingang, direkt an Ihre Zertifizierungsstelle weiterleitbar. Das Formular ist auf Englisch; wir antworten auf Englisch. [Deutsche Seite](/de/) · [Jetzt anfordern](/quote/)
+</div>
+
 <div class="answer" markdown="1">
 German and other EU manufacturers can have their ISED certificate issued by a European certification body recognized by ISED under the Canada–EU mutual recognition arrangement, but still need a Canadian Representative under RSP-100 section 4.1. The role is not the same as the EU authorised representative under the Radio Equipment Directive: it is narrower, ISED-specific, and lasts for the life of the product in Canada.
 </div>

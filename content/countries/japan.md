@@ -9,6 +9,10 @@ updated: 2026-08-20
 order: 4
 ---
 
+<div class="native" lang="ja" markdown="1">
+**日本語の要約。** カナダ ISED（旧 Industry Canada）の RSP-100 第4.1条により、会社所在地がカナダ国外にある申請者は、IC認証（ISED 無線機器認証）を取得する際にカナダ代理人（Canadian Representative）を指定しなければなりません。当事務所はオタワのカナダ法律事務所 Smutylo Law+ で、2010年より海外メーカーのカナダ代理人を務めています。認証1件につき US$499（10年間）または年額 US$999 で件数無制限、お支払い後当営業日内に署名済みの代理人証明書（PDF）を発行し、そのまま認証機関に提出いただけます。申込フォームは英語で、返信も英語で行います。[日本語ページ](/ja/) · [申し込む](/quote/)
+</div>
+
 <div class="answer" markdown="1">
 Japanese manufacturers can certify for Canada through Japanese certification bodies recognized by ISED under the APEC TEL mutual recognition arrangement, or through North American CBs, and in either case need a Canadian Representative under RSP-100 section 4.1. Japanese clients typically want complete documentation up front, a formal invoice, and a representative that will still be in place for the full, often long, life of the product.
 </div>
