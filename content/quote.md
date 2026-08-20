@@ -1,14 +1,21 @@
 ---
-title: Order Your ISED Canadian Representative Letter | US$499 | Same Business Day
-description: Order an RSP-100 Canadian Representative attestation letter. US$499 per certification or US$999/year unlimited. Submit product details, pay by card or wire, receive the signed PDF the same business day.
-h1: Order your attestation letter
-short: Order
+title: Request Your ISED Canadian Representative Letter | US$499 | Reviewed Personally, Same Business Day
+description: Request an RSP-100 Canadian Representative attestation letter. US$499 per certification or US$999/year unlimited. Koby Smutylo reviews every request personally and replies by email the same business day; nothing is charged until you confirm.
+h1: Request your attestation letter
+short: Request
 type: page
 updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-US$499 per certification (ten-year appointment) or US$999 per year unlimited. Submit the details below; you will receive a Stripe payment link by email within the business day, and the signed letter follows as soon as payment clears. Questions first? [Email us](mailto:info@isedrepresentative.com) or call +1 613 869 5440.
+US$499 per certification (ten-year appointment) or US$999 per year unlimited. Send the details below and Koby Smutylo reviews them personally, confirms the appointment by email within the business day, and sends a Stripe link or wire instructions. Nothing is charged until you confirm, and the signed letter follows as soon as payment clears.
+</div>
+
+<div class="personal" markdown="1">
+<img src="/koby-smutylo-320.jpg" alt="Koby Smutylo" width="72" height="72" loading="lazy">
+<div markdown="1">
+**Prefer to deal by email?** That is fine. Send the same details to [info@isedrepresentative.com](mailto:info@isedrepresentative.com?subject=Canadian%20Representative%20request) or call +1 613 869 5440 (Ottawa, Eastern Time). Every request, by form or by email, is handled by Koby Smutylo, lawyer, [Law Society of Ontario licensee 44441E](https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E). The form simply collects the fields the letter needs so we can turn it around the same day.
+</div>
 </div>
 
 <form name="order" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="website">
@@ -29,7 +36,7 @@ US$499 per certification (ten-year appointment) or US$999 per year unlimited. Su
 <textarea id="address" name="address" required autocomplete="street-address"></textarea>
 <label for="cn">ISED Company Number</label>
 <input id="cn" name="ised_company_number" placeholder="Leave blank if not yet assigned">
-<p class="hint">If you do not have one, we explain how to obtain it in the order confirmation.</p>
+<p class="hint">If you do not have one, we explain how to obtain it when we confirm your request.</p>
 <label for="country">Country</label>
 <input id="country" name="country" required autocomplete="country-name">
 </fieldset>
@@ -70,18 +77,18 @@ US$499 per certification (ten-year appointment) or US$999 per year unlimited. Su
 </fieldset>
 
 <fieldset>
-<legend>Payment</legend>
+<legend>Preferred payment method (no charge until you confirm)</legend>
 <label><input type="radio" name="payment" value="card" checked style="width:auto"> Card via Stripe (letter issues same business day)</label>
 <label><input type="radio" name="payment" value="wire" style="width:auto"> Wire transfer (letter issues when funds arrive)</label>
 <label><input type="checkbox" name="terms" required style="width:auto"> I accept the <a href="/terms/">terms of service</a> and confirm the applicant details are accurate.</label>
 </fieldset>
 
-<p><button class="btn btn-primary" type="submit">Submit order</button></p>
-<p class="hint">Your details are used only to prepare the letter and maintain the appointment. See the <a href="/privacy/">privacy policy</a>.</p>
+<p><button class="btn btn-primary" type="submit">Send request</button></p>
+<p class="hint">Submitting a request does not commit you to anything. Your details are used only to prepare the letter and maintain the appointment, and are held in Canada under PIPEDA. See the <a href="/privacy/">privacy policy</a>.</p>
 </form>
 
 ## What happens next
 
-1. We confirm receipt and send the Stripe link or wire instructions within the business day.
-2. Once payment clears, we issue the signed PDF letter, the same business day, Eastern Time.
+1. Koby reviews your request personally and replies by email within the business day, confirming the applicant details and sending a Stripe link or wire instructions. If anything is unclear, he asks before anything is issued.
+2. Once payment clears, the signed PDF letter is issued the same business day, Eastern Time.
 3. You forward the letter to your certification body. If the CB has its own template, reply with it and we sign that instead.

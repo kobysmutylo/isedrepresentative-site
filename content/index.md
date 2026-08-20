@@ -9,7 +9,7 @@ updated: 2026-08-20
 <div class="hero" markdown="1">
 <p class="lead">If your company address is outside Canada, ISED requires you to name a Canadian Representative before your radio equipment can be certified. We are that representative: a Canadian law firm that has held this role for foreign manufacturers since 2010, delivering the signed attestation letter your certification body needs the same business day.</p>
 
-<p><a class="btn btn-primary" href="/quote/">Get your attestation letter</a> <a class="btn" href="/how-it-works/">See how it works</a></p>
+<p><a class="btn btn-primary" href="/quote/">Request your attestation letter</a> <a class="btn" href="/how-it-works/">See how it works</a></p>
 
 <ul class="facts">
 <li><b>US$499</b>per certification, 10-year appointment</li>

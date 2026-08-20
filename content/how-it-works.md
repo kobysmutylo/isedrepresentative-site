@@ -49,7 +49,7 @@ Yes, and many do. The letter still names you as the applicant. Labs and CBs hand
 
 ### What if I do not yet have an ISED Company Number?
 
-You can still order. The Company Number is obtained from ISED through your certification body or directly through ISED's online services, and we explain the process in the order confirmation. We issue the letter with the Company Number field to be completed, or reissue it free once the number is assigned.
+You can still submit your request. The Company Number is obtained from ISED through your certification body or directly through ISED's online services, and we explain the process when we confirm your request. We issue the letter with the Company Number field to be completed, or reissue it free once the number is assigned.
 
 ### Do you need a signed agreement from us?
 
