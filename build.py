@@ -355,6 +355,7 @@ def render(slug, meta, body_html, faqs):
 <link rel="canonical" href="{canonical}">
 {robots}
 <meta name="author" content="Koby Smutylo">
+<meta name="msvalidate.01" content="A07B34E0A94F161CEBFF00AAB28227C5">
 <meta property="og:type" content="{'article' if t in ('guide','industry','country') else 'website'}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:url" content="{canonical}">
