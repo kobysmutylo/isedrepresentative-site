@@ -19,7 +19,7 @@ RSP-100 section 4.1 does not ask the Canadian Representative to know anything ab
 
 ## Continuity
 
-The most common failure in this market is a representative that is no longer there when ISED calls. Consultancies close, labs are acquired, distributors change. Law societies require lawyers to plan for the continuity of client matters on retirement, incapacity or death; a firm's obligations to its clients do not end because one lawyer leaves. An appointment held by a law firm is therefore structurally more durable than one held by an individual consultant, and the applicant does not have to monitor whether the representative still exists. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+The failure we are most often asked to fix is a representative that is no longer there when ISED calls. Consultancies close, labs are acquired, distributors change. Law societies require lawyers to plan for the continuity of client matters on retirement, incapacity or death; a firm's obligations to its clients do not end because one lawyer leaves. An appointment held by a law firm is therefore structurally more durable than one held by an individual consultant, and the applicant does not have to monitor whether the representative still exists. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 ## Confidentiality
 
@@ -39,7 +39,7 @@ The representative does not, and should not, make technical statements about you
 
 ## Cost
 
-Lawyers are assumed to be expensive. For this service the fee is fixed and published: US$499 per certification for a ten-year appointment, or US$999 per year unlimited, which is in line with or below what labs and consultancies charge for shorter terms. See [pricing](/pricing/).
+Lawyers are assumed to be expensive. For this service the fee is fixed and published: US$499 per certification for a ten-year appointment, or US$999 per year unlimited, for a term that is usually longer than the alternatives offered. See [pricing](/pricing/).
 
 ## Who we are
 

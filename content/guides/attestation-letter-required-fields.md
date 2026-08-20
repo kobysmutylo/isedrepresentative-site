@@ -81,7 +81,7 @@ No. ISED and CBs accept a signed PDF. We have never had a CB ask for notarizatio
 
 ### Does the letter need to be in French?
 
-No. English is accepted by all CBs. We can issue a bilingual letter on request.
+No. English is accepted by the certification bodies we have worked with. We can issue a bilingual letter on request.
 
 ### Should the applicant countersign?
 
