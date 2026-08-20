@@ -23,7 +23,7 @@ updated: 2026-08-20
 <!--trust-->
 
 <div class="answer" markdown="1">
-**要点を一段落で。** カナダ代理人とは、海外の申請者がISED認証申請書に記載する、カナダ所在の個人または法人です。[RSP-100第4.1条](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment)により、代理人は「認証製品に関するISEDからのすべての照会に対応し、ISEDに無償で監査サンプルを提供する責任」を負い、申請者は「認証製品がカナダ市場で販売されている間」この体制を維持しなければなりません。認証機関（CB）は証明書発行前に代理人の署名入り証明書を求めます。当事務所がその証明書を発行し、任期を通じて責任を果たします。
+**一段落で要約すると。** カナダ代理人とは、海外の申請者がISED認証申請書に記載する、カナダ所在の個人または法人です。[RSP-100第4.1条](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment)により、代理人は「認証製品に関するISEDからのすべての照会に対応し、ISEDに無償で監査サンプルを提供する責任」を負い、申請者は「認証製品がカナダ市場で販売されている間」この体制を維持しなければなりません。認証機関（CB）は証明書発行前に代理人の署名入り証明書を求めます。当事務所がその証明書を発行し、任期を通じて責任を果たします。
 </div>
 
 ## 誰に必要か
