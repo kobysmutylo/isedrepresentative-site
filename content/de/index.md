@@ -16,7 +16,7 @@ updated: 2026-08-20
 <li><b>US$ 499</b>je Zertifizierung, 10 Jahre</li>
 <li><b>US$ 999/Jahr</b>unbegrenzt viele Zertifizierungen</li>
 <li><b>Am selben Tag</b>unterzeichnetes PDF an Werktagen</li>
-<li><b>Seit 2010</b>Rechtsanwalt in Ontario</li>
+<li><b>Seit 2010</b>Anwalt (Ontario)</li>
 </ul>
 </div>
 

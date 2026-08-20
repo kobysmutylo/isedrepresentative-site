@@ -43,7 +43,7 @@ Die Bestellung je Zertifizierung läuft zehn Jahre ab Datum des Schreibens. ISED
 
 ## Wer die Leistung erbringt
 
-Koby Smutylo, 2001 in Ontario als Rechtsanwalt zugelassen, Mitglied der Law Society of Ontario (Zulassung 44441E), erbringt seit 2010 über Smutylo Law+ in Ottawa Leistungen als kanadischer Vertreter für ausländische Hersteller. Zu den Kunden zählen Roku, Kamstrup, Bevi und Eurofins.
+Koby Smutylo, 2001 in Ontario als Anwalt zugelassen, Mitglied der Law Society of Ontario (Zulassung 44441E), erbringt seit 2010 über Smutylo Law+ in Ottawa Leistungen als kanadischer Vertreter für ausländische Hersteller. Zu den Kunden zählen Roku, Kamstrup, Bevi und Eurofins.
 
 <!--faq-->
 ### Kann das eigene Vertreterformular der Zertifizierungsstelle verwendet werden?
