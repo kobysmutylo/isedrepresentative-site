@@ -13,6 +13,10 @@ order: 09
 An FCC grant does not authorize sale in Canada. The product needs its own ISED certification under the applicable RSS standards, an IC certification number, Canadian labelling and user notices, and, because the applicant is outside Canada, a Canadian Representative under RSP-100 section 4.1. The good news: the test data usually transfers, and the FCB that handled your FCC grant can often issue the ISED certificate too.
 </div>
 
+## A note on names
+
+US engineers usually know the Canadian regime as "IC certification" or "Industry Canada certification", and the approval as an "IC ID", by analogy with the FCC ID. Industry Canada became ISED in 2015, but the IC prefix on certification numbers and the habit of saying "IC" survived. "ISED certification", "IC certification" and "Industry Canada certification" are the same process under RSP-100, and the "IC representative" or "Industry Canada representative" that your TCB asks for is the Canadian Representative described below.
+
 ## What carries over and what does not
 
 **Test data, largely.** ISED's RSS standards are closely harmonized with the corresponding FCC rules for most unlicensed and licensed radio categories (RSS-247 alongside Part 15.247 for Wi-Fi and Bluetooth, RSS-210 for licence-exempt devices, RSS-130 and RSS-132/133/139 families for cellular bands, RSS-102 for RF exposure alongside the FCC's SAR and MPE requirements). A competent lab tests to both at the same time. Where Canadian limits or band plans differ, supplementary measurements are needed; your lab will know.

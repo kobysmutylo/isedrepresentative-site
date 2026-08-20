@@ -45,6 +45,10 @@ RSP-100 does not prescribe qualifications. Any person or entity with a genuine C
 
 Terminal equipment registered under DC-01 rather than certified under RSP-100 is subject to an equivalent requirement for a Canadian contact (DC-01 section 6). The practical mechanics are the same.
 
+## Older names for the same requirement
+
+ISED was called Industry Canada until 2015, and the certification regime has not been renamed in everyday use: labs and certification bodies still say "IC certification", products still carry an "IC" certification number (the IC ID), and the representative is still widely called the "Industry Canada representative", "IC representative" or "Canadian agent". If a certification body asks for any of these, it is asking for the RSP-100 section 4.1 Canadian Representative described on this page.
+
 ## What the requirement is not
 
 It is not a requirement for a Canadian importer of record, which is a customs matter. It is not a requirement for a Canadian business registration. It does not make the representative the certificate holder or the applicant. And it does not transfer responsibility for compliance: the applicant remains responsible for the product meeting the applicable RSS standards.
