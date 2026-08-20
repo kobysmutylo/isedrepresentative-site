@@ -23,7 +23,7 @@ updated: 2026-08-20
 <!--trust-->
 
 <div class="answer" markdown="1">
-**一句话说明。** 加拿大代表是境外申请人在 ISED 认证申请中指定的、位于加拿大的个人或公司。根据 [RSP-100 第 4.1 条](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment)，代表"负责回复 ISED 就认证产品提出的所有询问，包括免费向 ISED 提供审核样品"，申请人必须在"认证产品在加拿大市场销售期间"始终保持该安排。您的认证机构（CB）在签发证书前会要求代表出具签字函。我们出具该函，并在整个任期内履行职责。
+**一段话说明。** 加拿大代表是境外申请人在 ISED 认证申请中指定的、位于加拿大的个人或公司。根据 [RSP-100 第 4.1 条](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment)，代表"负责回复 ISED 就认证产品提出的所有询问，包括免费向 ISED 提供审核样品"，申请人必须在"认证产品在加拿大市场销售期间"始终保持该安排。您的认证机构（CB）在签发证书前会要求代表出具签字函。我们出具该函，并在整个任期内履行职责。
 </div>
 
 ## 谁需要加拿大代表
