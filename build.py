@@ -275,9 +275,10 @@ def render(slug, meta, body_html, faqs):
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap"><div><span>Canadian Representative for ISED certification · RSP-100 s. 4.1</span><span>Ottawa, Canada · Eastern Time</span></div><div><span><a href="tel:{PHONE}">+1 613 869 5440</a></span><span><a href="mailto:{EMAIL}">{EMAIL}</a></span></div></div></div>
 <header class="site-header">
 <div class="wrap">
-<a class="brand" href="/" aria-label="ISED Representative home"><img src="/logo.svg" alt="" width="36" height="36"><span>ISED<b>Representative</b>.com</span></a>
+<a class="brand" href="/" aria-label="ISED Representative home"><img src="/logo.svg" alt="" width="40" height="40"><span>ISEDRepresentative.com<small>A service of Smutylo Law+ · est. 2010</small></span></a>
 <nav class="nav" aria-label="Main"><ul>{nav_html}</ul></nav>
 <a class="btn btn-primary nav-cta" href="/quote/">Get your letter</a>
 </div>
@@ -317,6 +318,13 @@ def render(slug, meta, body_html, faqs):
 </html>
 """
 
+
+TRUST_HTML = """<section class="trust" aria-label="Why you can rely on us">
+<div><svg viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Regulated law firm</b>Koby Smutylo, <a href="https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E" rel="noopener">Law Society of Ontario licensee 44441E</a>, called 2001.</div>
+<div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><b>Since 2010</b>Canadian Representative appointments held continuously for foreign manufacturers for over fifteen years.</div>
+<div><svg viewBox="0 0 24 24"><path d="M4 7h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg><b>Same business day</b>Signed attestation letter delivered by email after payment, Eastern Time.</div>
+<div><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V8l7-5 7 5v13"/><path d="M9 21v-6h6v6"/></svg><b>Trusted by</b>Roku, Kamstrup, Bevi and Eurofins. <a href="/clients/">Clients</a> · <a href="/case-examples/">Case examples</a></div>
+</section>"""
 
 CTA_HTML = f"""<aside class="cta">
 <h2>Need your attestation letter today?</h2>
@@ -362,6 +370,7 @@ def main():
             items = sorted(listing[sec], key=lambda x: x[1].get("order", x[1]["title"]))
             lis = "".join(f'<li><a href="{s}">{html.escape(m.get("h1", m["title"]))}</a><span>{html.escape(m["description"])}</span></li>' for s, m in items)
             body_html = body_html.replace("<!--list-->", f'<ul class="cards">{lis}</ul>')
+        body_html = body_html.replace("<!--trust-->", TRUST_HTML)
         out = DIST / slug.strip("/") / "index.html" if slug != "/" else DIST / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(render(slug, meta, body_html, faqs))
