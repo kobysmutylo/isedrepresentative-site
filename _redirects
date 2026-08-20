@@ -1,0 +1,38 @@
+# Legacy host and URL handling for www.isedrepresentative.com
+https://isedrepresentative.com/*  https://www.isedrepresentative.com/:splat  301!
+http://isedrepresentative.com/*   https://www.isedrepresentative.com/:splat  301!
+http://www.isedrepresentative.com/* https://www.isedrepresentative.com/:splat 301!
+
+# Old Next.js routes -> new permanent URLs
+/ised-certification-faq                       /faq/  301
+/complete-guide-ised-certification-canada     /guides/ised-certification-process-overview/  301
+/blog                                         /guides/  301
+/blog/what-is-ised-canadian-representative    /guides/canadian-representative-requirement-rsp-100/  301
+/blog/what-is-an-ised-canadian-representative /guides/canadian-representative-requirement-rsp-100/  301
+/blog/rsp-100-guide-foreign-manufacturers     /guides/ised-certification-process-overview/  301
+/blog/fcc-to-ised-certification               /guides/fcc-to-ised/  301
+/blog/iot-devices-canadian-certification      /industries/industrial-iot/  301
+/blog/common-ised-certification-mistakes      /guides/common-canadian-representative-mistakes/  301
+/blog/ised-audit-samples-explained            /guides/ised-audit-samples-who-provides-who-pays/  301
+/blog/*                                       /guides/  301
+
+# Country pages consolidated
+/countries/vietnam      /countries/  301
+/countries/malaysia     /countries/  301
+/countries/thailand     /countries/  301
+/countries/france       /countries/  301
+/countries/netherlands  /countries/  301
+/countries/singapore    /countries/  301
+/countries/indonesia    /countries/  301
+/countries/philippines  /countries/  301
+/countries/mexico       /countries/  301
+/countries/brazil       /countries/  301
+/countries/israel       /countries/  301
+/countries/sweden       /countries/  301
+
+# Industry pages consolidated
+/industries/wireless-gaming-devices  /industries/smart-home-devices/  301
+/industries/connected-appliances     /industries/smart-home-devices/  301
+
+# Trailing-slash normalisation (Netlify pretty URLs handle most; keep explicit)
+/canadian-representative-service  /canadian-representative-service/  301
