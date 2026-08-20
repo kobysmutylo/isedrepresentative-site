@@ -39,6 +39,7 @@ PERSON_JSON = {
     "@id": SITE + "/about/#koby-smutylo",
     "name": PERSON,
     "url": SITE + "/about/",
+    "image": SITE + "/koby-smutylo.jpg",
     "jobTitle": "Lawyer; ISED Canadian Representative",
     "worksFor": {"@id": SITE + "/#organization"},
     "alumniOf": [
@@ -50,6 +51,8 @@ PERSON_JSON = {
         "credentialCategory": "Licence to practise law",
         "recognizedBy": {"@type": "Organization", "name": "Law Society of Ontario", "url": "https://lso.ca/"},
         "dateCreated": "2001",
+        "url": "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E",
+        "identifier": "44441E",
     },
     "knowsAbout": [
         "ISED certification", "RSP-100", "Canadian Representative", "Radio equipment certification Canada",
@@ -57,6 +60,7 @@ PERSON_JSON = {
     ],
     "sameAs": [
         "https://www.linkedin.com/in/koby-smutylo-businesslaw",
+        "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E",
         "https://lawyercorporation.ca/about-koby-smutylo/",
         "https://lawyercorporation.ca/canadian-representative/",
     ],
@@ -235,7 +239,7 @@ def render(slug, meta, body_html, faqs):
     byline = ""
     if t in ("guide", "industry", "country", "faq", "service", "howto"):
         d = meta.get("updated", meta.get("date", TODAY))
-        byline = (f'<p class="byline">Written by <a href="/about/">Koby Smutylo</a>, lawyer (Law Society of Ontario, called 2001), '
+        byline = (f'<p class="byline">Written by <a href="/about/">Koby Smutylo</a>, lawyer (<a href="https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E" rel="noopener">Law Society of Ontario</a>, called 2001), '
                   f'ISED Canadian Representative since 2010. Last reviewed <time datetime="{d}">{pretty(d)}</time>.</p>')
     schema = json.dumps(schema_for(slug, meta, faqs, re.sub(r"<[^>]+>", " ", body_html)), ensure_ascii=False)
     robots = '<meta name="robots" content="noindex,follow">' if meta.get("noindex") else '<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">'
@@ -291,7 +295,7 @@ def render(slug, meta, body_html, faqs):
 <div class="wrap foot-grid">
 <div>
 <p class="foot-brand">ISEDRepresentative.com</p>
-<p>Canadian Representative for ISED radio equipment certification under RSP-100 section 4.1. A service of Smutylo Law+, Ottawa, Ontario. Operated by Koby Smutylo, lawyer, Law Society of Ontario.</p>
+<p>Canadian Representative for ISED radio equipment certification under RSP-100 section 4.1. A service of Smutylo Law+, Ottawa, Ontario. Operated by Koby Smutylo, lawyer, <a href="https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E" rel="noopener">Law Society of Ontario licensee 44441E</a>.</p>
 <p><a href="mailto:{EMAIL}">{EMAIL}</a><br><a href="tel:{PHONE}">{PHONE.replace('-', ' ', 1)}</a><br>Eastern Time (UTC−5 / UTC−4)</p>
 </div>
 <div>
