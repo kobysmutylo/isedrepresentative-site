@@ -1,7 +1,5 @@
-# Legacy host and URL handling for www.isedrepresentative.com
-https://isedrepresentative.com/*  https://www.isedrepresentative.com/:splat  301!
-http://isedrepresentative.com/*   https://www.isedrepresentative.com/:splat  301!
-http://www.isedrepresentative.com/* https://www.isedrepresentative.com/:splat 301!
+# Host canonicalisation (apex -> www, http -> https) is handled by Netlify's
+# primary-domain setting: make www.isedrepresentative.com the primary domain.
 
 # Old Next.js routes -> new permanent URLs
 /ised-certification-faq                       /faq/  301
