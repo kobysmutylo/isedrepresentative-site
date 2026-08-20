@@ -1,6 +1,6 @@
 ---
 title: Case Examples | What an ISED Canadian Representative Actually Does
-description: Anonymised examples from Canadian Representative engagements since 2010: late-stage letters, audit sample requests, company renames, certificate transfers, and labs ordering for foreign clients.
+description: Illustrative examples of what an ISED Canadian Representative handles over a ten-year appointment: late-stage letters, audit sample requests, company renames, certificate transfers, and labs ordering for foreign clients.
 h1: Case examples: what the representative actually does
 short: Case examples
 type: page
@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-The letter is the visible deliverable, but the appointment is a ten-year commitment. These anonymised examples, drawn from engagements since 2010 with identifying details removed or combined, show the situations that actually arise and how we handle them.
+The letter is the visible deliverable, but the appointment is a ten-year commitment. These examples are illustrative composites: they reflect the kinds of situations that arise in Canadian Representative work since 2010, with details combined and changed so that none describes an identifiable client or product. They show what the role involves and how we handle it.
 </div>
 
 ## The letter the CB is waiting for
