@@ -16,7 +16,11 @@ Short answers first, with links to the full guide where one exists. Every regula
 <!--faq-->
 ### What is an ISED Canadian Representative?
 
-The person or company located in Canada that a non-Canadian applicant identifies on its ISED certification application. RSP-100 section 4.1 makes the representative "responsible for responding to all enquiries from ISED regarding the certified product(s), including providing audit samples at no charge to ISED." Full guide: [the Canadian Representative requirement in RSP-100](/guides/canadian-representative-requirement-rsp-100/).
+The person or company located in Canada that a non-Canadian applicant identifies on its ISED certification application. You will also see the role called the "Industry Canada representative", "IC representative", "Canadian agent" or "local representative for Canada": ISED was named Industry Canada until 2015, certification numbers are still prefixed "IC", and many labs and engineers still use the older terms. They all mean the same appointment under RSP-100 section 4.1. RSP-100 section 4.1 makes the representative "responsible for responding to all enquiries from ISED regarding the certified product(s), including providing audit samples at no charge to ISED." Full guide: [the Canadian Representative requirement in RSP-100](/guides/canadian-representative-requirement-rsp-100/).
+
+### Is a Canadian Representative required for "IC certification" as well as ISED certification?
+
+Yes; they are the same thing. "IC certification", "Industry Canada certification" and "ISED certification" all refer to radio equipment certification under RSP-100, and the certification number you receive is still called an IC certification number (IC ID). The Canadian Representative requirement applies to all of them.
 
 ### Is a Canadian Representative required by ISED, or just by certification bodies?
 
