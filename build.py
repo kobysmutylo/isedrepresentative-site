@@ -114,7 +114,7 @@ SERVICE_JSON = {
 LSO = "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E"
 LANGS = {
     "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/how-it-works/","How it works"),("/guides/","Guides"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
-               cta_btn="Get your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certification (10-year appointment) or US ${ann} per year for unlimited certifications. Signed PDF delivered the same business day. Pay by card (Stripe) or wire.", cta_price="See pricing",
+               cta_btn="Request your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certification (10-year appointment) or US ${ann} per year for unlimited certifications. Every request is reviewed personally by Koby Smutylo before the signed PDF is issued, the same business day. Prefer email? Write to <a href=\"mailto:info@isedrepresentative.com\">info@isedrepresentative.com</a>.", cta_price="See pricing",
                skip="Skip to content", tag="A service of Smutylo Law+ · est. 2010", top1="Canadian Representative for ISED certification · RSP-100 s. 4.1", top2="Ottawa, Canada · Eastern Time",
                byline='Written by <a href="/about/">Koby Smutylo</a>, lawyer (<a href="{lso}" rel="noopener">Law Society of Ontario</a>, called 2001), ISED Canadian Representative since 2010. Last reviewed <time datetime="{d}">{dp}</time>.',
                trust=[("Regulated law firm",'Koby Smutylo, <a href="{lso}" rel="noopener">Law Society of Ontario licensee 44441E</a>, called 2001.'),("Since 2010","Canadian Representative appointments held continuously for foreign manufacturers for over fifteen years."),("Same business day","Signed attestation letter delivered by email after payment, Eastern Time."),("Trusted by",'Roku, Kamstrup, Bevi and Eurofins. <a href="/clients/">Clients</a> · <a href="/case-examples/">Case examples</a>')],
@@ -400,7 +400,7 @@ def render(slug, meta, body_html, faqs):
 </div>
 <div>
 <p class="foot-h">Service</p>
-<ul><li><a href="/canadian-representative-service/">Canadian Representative service</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/how-it-works/">How it works</a></li><li><a href="/quote/">Get your attestation letter</a></li><li><a href="/revise/">Revise an existing letter</a></li><li><a href="/for-labs-and-certification-bodies/">For labs and certification bodies</a></li></ul>
+<ul><li><a href="/canadian-representative-service/">Canadian Representative service</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/how-it-works/">How it works</a></li><li><a href="/quote/">Request your attestation letter</a></li><li><a href="/revise/">Revise an existing letter</a></li><li><a href="/for-labs-and-certification-bodies/">For labs and certification bodies</a></li></ul>
 </div>
 <div>
 <p class="foot-h">Learn</p>
