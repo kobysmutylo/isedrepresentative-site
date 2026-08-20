@@ -13,6 +13,8 @@ ISEDRepresentative.com is operated by Koby Smutylo, a lawyer called to the Bar o
 
 ## Koby Smutylo
 
+<img src="/koby-smutylo.jpg" srcset="/koby-smutylo-320.jpg 320w, /koby-smutylo.jpg 640w" sizes="(max-width:600px) 200px, 280px" width="280" height="280" alt="Koby Smutylo, lawyer, Smutylo Law+, Ottawa" class="portrait" loading="eager">
+
 Koby was called to the Ontario bar in 2001 after completing his Juris Doctor at Western University's Faculty of Law (1999) and a first-class honours BA at Queen's University (1995). He articled at Hydro One Networks and practised corporate law at McLean & Kerr LLP in Toronto before joining Corel Corporation as Senior Corporate Counsel (2006–2010), where his work included the regulatory and commercial side of bringing technology products to market across jurisdictions. He founded Smutylo Law+ in 2010 and later served as General Counsel, COO and director of a Canadian public issuer (2015–2018) while continuing the practice.
 
 The Canadian Representative service grew directly out of that work. Foreign technology companies needed a Canadian legal presence for regulatory purposes and a lawyer who understood what certification bodies and ISED actually required. Since 2010 the firm has issued attestation letters for consumer electronics, smart metering, beverage dispensing, industrial IoT and module manufacturers, and works directly with test laboratories and certification bodies that route their foreign clients to us. Clients include [Roku, Kamstrup, Bevi and Eurofins](/clients/).
@@ -26,7 +28,7 @@ Koby's broader practice covers corporate, commercial, securities and technology 
 | Firm | Smutylo Law+ (Ottawa, Ontario, Canada) |
 | Principal | Koby Smutylo, B.A. (Hons.), J.D. |
 | Called to the Bar | Ontario, 2001 |
-| Regulator | [Law Society of Ontario](https://lso.ca/) — lawyer directory lookup under "Smutylo" |
+| Regulator | Law Society of Ontario — [licensee record 44441E](https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E) |
 | Canadian Representative service | since 2010 |
 | Email | info@isedrepresentative.com |
 | Phone | +1 613 869 5440 |
