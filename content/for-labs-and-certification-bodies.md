@@ -23,7 +23,7 @@ We are independent. Smutylo Law+ does not test, certify, list or consult on tech
 
 ## Your template or ours
 
-If your CB or FCB process uses its own Canadian Representative declaration, send it with the first order and we will sign your form every time. Our own letter is structured to the field list in [attestation letter required fields](/guides/attestation-letter-required-fields/) and has been accepted by Canadian CBs and FCBs in the United States, Europe and Asia since 2010.
+If your CB or FCB process uses its own Canadian Representative declaration, send it with the first order and we will sign your form every time. Our own letter is structured to the field list in [attestation letter required fields](/guides/attestation-letter-required-fields/) and has been accepted by Canadian CBs and by FCBs in the United States, Europe and Asia in appointments we have handled since 2010.
 
 ## Add us to your Canadian market-access resources
 

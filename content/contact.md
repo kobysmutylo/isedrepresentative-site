@@ -7,7 +7,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-Email **[info@isedrepresentative.com](mailto:info@isedrepresentative.com)** or call **+1 613 869 5440**. We are in Ottawa, Ontario (Eastern Time, UTC−5, UTC−4 in summer) and reply within one business day, usually much sooner. To order a letter, use the [order form](/quote/); to change an existing letter, the [revision form](/revise/).
+Email **[info@isedrepresentative.com](mailto:info@isedrepresentative.com)** or call **+1 613 869 5440**. We are in Ottawa, Ontario (Eastern Time, UTC−5, UTC−4 in summer) and reply within the business day. To order a letter, use the [order form](/quote/); to change an existing letter, the [revision form](/revise/).
 </div>
 
 ## ISED and certification body enquiries

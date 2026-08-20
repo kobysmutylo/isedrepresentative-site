@@ -20,9 +20,11 @@ A per-certification appointment runs for ten years from the date of the letter. 
 
 You will provide accurate applicant and product information; keep us informed of a current contact for the life of the appointment; respond to enquiries we forward within the time ISED or the certification body requires; supply and pay for any audit sample and its shipping; and notify us of any transfer of the certificate or change in your legal identity.
 
-## 4. Fees
+## 4. Fees and payment
 
-Fees are as published on the pricing page at the time of order, in US dollars, and are non-refundable once the letter has been issued. Revisions are free within 30 days of issue and subject to an administrative fee thereafter.
+Fees are as published on the pricing page at the time of order, in US dollars, exclusive of any applicable taxes. Nothing is charged until we have confirmed your request by email and you have chosen to pay; a request may be withdrawn at no cost at any time before payment. Fees are non-refundable once the letter has been issued. Revisions are free within 30 days of issue and subject to an administrative fee thereafter; the fee is stated before any revision is made. An annual plan runs for twelve months from payment and does not renew automatically; appointments issued during the plan continue for their full ten-year term after the plan ends.
+
+We may decline a request, before payment, where acting would conflict with our professional obligations, in which case nothing is owed.
 
 ## 5. Termination and withdrawal
 
@@ -32,11 +34,15 @@ We may withdraw as representative on 60 days' written notice if you fail to resp
 
 Our liability for any claim arising from the service is limited to the fees paid for the appointment concerned. We are not liable for delays or decisions of ISED or any certification body, or for losses arising from inaccurate information you supply.
 
-## 7. Professional relationship
+## 7. Electronic letters and signatures
+
+Attestation letters are issued as PDF documents bearing an electronic signature, which is the form accepted by ISED and certification bodies in our experience. A wet-ink original can be couriered on request at cost.
+
+## 8. Professional relationship
 
 The service is provided by a law firm. The representative engagement is limited to the scope in section 1 and does not make us your general legal counsel. Information you provide is held in confidence in accordance with the rules of the Law Society of Ontario.
 
-## 8. Governing law
+## 9. Governing law
 
 These terms are governed by the laws of Ontario and Canada. Disputes are subject to the courts of Ontario.
 

@@ -12,10 +12,12 @@ Smutylo Law+ operates ISEDRepresentative.com from Ottawa, Ontario, and is subjec
 
 **Why.** To prepare and maintain your Canadian Representative appointment, to respond to ISED and certification-body enquiries about your product, to invoice you, and to operate the website. We do not sell or rent information and we do not use it for marketing to third parties.
 
-**Who sees it.** Our staff; Stripe for payment processing; Netlify, which hosts this site and receives form submissions; and ISED or your certification body to the extent necessary for the appointment. Applicant and representative details appear on the attestation letter, which you supply to your certification body.
+**Who sees it.** Our staff; and, as service providers acting on our instructions, Stripe, Inc. (payment processing) and Netlify, Inc. (website hosting and receipt of form submissions). We disclose applicant and representative details to ISED and to your certification body to the extent necessary for the appointment; they also appear on the attestation letter, which you supply to your certification body.
 
-**Retention.** Appointment records are kept for the life of the appointment plus the period required by our professional obligations.
+**Where it is held.** Our own records are kept in Canada. Stripe and Netlify process data on servers in the United States and elsewhere, and information held there is subject to the laws of those jurisdictions. By submitting a form or paying by card you consent to this transfer. Correspondence with you necessarily crosses borders to wherever you are.
 
-**Analytics.** If analytics are enabled on this site they are configured without advertising features. No cookies are required to read the site.
+**Retention.** Appointment records are kept for the ten-year term of the appointment and for a further ten years, which reflects the period for which ISED may raise enquiries about a certified product and the Law Society of Ontario's file-retention expectations. Form submissions that do not become an appointment are deleted within twelve months.
+
+**Analytics and cookies.** Reading the site sets no cookies. If analytics are enabled they run Google Analytics 4 configured without advertising features and with IP anonymisation, which sets first-party analytics cookies; you can block them in your browser without affecting the site.
 
 **Your rights.** You may ask what we hold about you, request correction, or withdraw consent (which may end the appointment) by emailing [info@isedrepresentative.com](mailto:info@isedrepresentative.com). Complaints may be directed to the Office of the Privacy Commissioner of Canada.

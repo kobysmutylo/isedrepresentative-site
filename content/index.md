@@ -14,7 +14,7 @@ updated: 2026-08-20
 <ul class="facts">
 <li><b>US$499</b>per certification, 10-year appointment</li>
 <li><b>US$999/yr</b>unlimited certifications</li>
-<li><b>Same day</b>signed PDF on business days</li>
+<li><b>Same business day</b>signed PDF after payment clears</li>
 <li><b>Since 2010</b>Ontario lawyer, LSO member</li>
 </ul>
 </div>
@@ -52,7 +52,7 @@ We act for consumer-electronics, metering, beverage-dispensing and IoT manufactu
 1. **Tell us about the product.** Company name and address, ISED Company Number if you have one, contact, IC number, PMN, HVIN and models. Two minutes on the [quote form](/quote/).
 2. **Pay by card or wire.** You receive a Stripe payment link by email. Invoices and purchase orders are fine for annual plans.
 3. **Receive the signed letter.** Same business day, Eastern Time. Forward it to your CB or upload it with your application.
-4. **We remain on file.** For ten years, or for the life of your annual plan, we respond to ISED enquiries and coordinate audit samples with you.
+4. **We remain on file.** For the ten-year term of each appointment (including those issued under an annual plan), we respond to ISED enquiries and coordinate audit samples with you.
 
 [Step-by-step with timing](/how-it-works/)
 
@@ -61,7 +61,7 @@ We act for consumer-electronics, metering, beverage-dispensing and IoT manufactu
 <!--faq-->
 ### Is a Canadian Representative actually mandatory?
 
-Yes, whenever the applicant's company address is outside Canada. RSP-100 section 4.1 says: "A Canadian representative is required when the applicant's company address is not within Canada." Certification bodies will not issue an ISED certificate to a foreign applicant without the representative's details and a signed letter.
+Yes, whenever the applicant's company address is outside Canada. RSP-100 section 4.1 says: "A Canadian representative is required when the applicant's company address is not within Canada." In practice, certification bodies ask a foreign applicant for the representative's details and a signed letter before issuing the ISED certificate.
 
 ### How fast can I get the attestation letter?
 

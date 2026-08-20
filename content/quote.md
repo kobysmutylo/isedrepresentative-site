@@ -84,7 +84,7 @@ US$499 per certification (ten-year appointment) or US$999 per year unlimited. Se
 </fieldset>
 
 <p><button class="btn btn-primary" type="submit">Send request</button></p>
-<p class="hint">Submitting a request does not commit you to anything. Your details are used only to prepare the letter and maintain the appointment, and are held in Canada under PIPEDA. See the <a href="/privacy/">privacy policy</a>.</p>
+<p class="hint">Submitting a request does not commit you to anything. Your details are used only to prepare the letter and maintain the appointment, and are handled under Canada's PIPEDA. See the <a href="/privacy/">privacy policy</a>.</p>
 </form>
 
 ## What happens next

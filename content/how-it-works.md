@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-Submit the product and company details, pay by card or wire, and receive the signed attestation letter as a PDF the same business day. We then remain the Canadian contact for that certification for ten years (or for the life of your annual plan), handling any ISED enquiry and coordinating audit samples.
+Submit the product and company details, pay by card or wire, and receive the signed attestation letter as a PDF the same business day. We then remain the Canadian contact for that certification for ten years (annual-plan appointments included), handling any ISED enquiry and coordinating audit samples.
 </div>
 
 ## Step 1: Submit the product details

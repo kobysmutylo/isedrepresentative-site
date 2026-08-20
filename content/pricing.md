@@ -31,7 +31,7 @@ Two options, both in US dollars, both all-inclusive. **US$499 per product certif
 - Same-business-day letters for every new product
 - One invoice a year; purchase orders accepted
 - Ideal for three or more certifications per year, or for labs and CBs ordering on behalf of clients
-- Revisions included
+- Revisions free within 30 days of issue
 
 <a class="btn btn-primary" href="/quote/">Start an annual plan</a>
 </div>
@@ -51,7 +51,7 @@ Adding a model or HVIN to an existing certification, or correcting the applicant
 
 ## Why we publish the price
 
-Most providers in this market quote on request. Our fee is the same for every client and every product, so there is nothing to negotiate and no reason to make you ask. It also lets your lab or CB put a firm number in their project quote.
+Our fee is the same for every client and every product, so there is nothing to negotiate and no reason to make you ask. It also lets your lab or CB put a firm number in their project quote.
 
 <!--faq-->
 ### Is there a fee if ISED contacts you about my product?

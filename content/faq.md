@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-Short answers first, with links to the full guide where one exists. Every regulatory statement here is taken from [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), section 4.1 unless noted.
+An ISED Canadian Representative is the Canada-based person or company a foreign applicant must name under RSP-100 section 4.1 (formerly an Industry Canada or "IC" requirement) before its radio equipment can be certified for Canada. We act in that role for US$499 per certification (ten-year appointment) or US$999 per year unlimited, issuing the signed attestation letter the same business day after payment. The answers below are short, with links to the full guide where one exists; regulatory statements are taken from [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment).
 </div>
 
 ## The requirement
