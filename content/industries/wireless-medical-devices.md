@@ -10,7 +10,7 @@ order: 3
 ---
 
 <div class="answer" markdown="1">
-A wireless medical device needs two separate Canadian approvals: a Health Canada medical device licence for the device, and ISED certification for its radio. The ISED Canadian Representative under RSP-100 section 4.1 is required for the radio certification when the applicant is outside Canada, and is distinct from any Health Canada regulatory correspondent or importer. Medical devices stay on the market for many years, which makes the durability of the representative appointment a practical concern.
+A wireless medical device needs two separate Canadian approvals: Health Canada authorization for the device (a device licence or establishment licence, depending on class), and ISED certification for its radio. The ISED Canadian Representative under RSP-100 section 4.1 is required for the radio certification when the applicant is outside Canada, and is distinct from any Health Canada regulatory correspondent or importer. Medical devices stay on the market for many years, which makes the durability of the representative appointment a practical concern.
 </div>
 
 ## Two regimes, two representatives
