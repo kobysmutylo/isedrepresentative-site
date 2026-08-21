@@ -21,7 +21,7 @@ Zwei Optionen, beide in US-Dollar, beide alles inklusive. **US$ 499 je Produktze
 - Zehnjährige Bestellung ab Datum des Schreibens
 - Unterzeichnetes Schreiben am selben Werktag
 - Bearbeitung von ISED-Anfragen und Koordination von Prüfmustern inklusive
-- Kostenlose Änderungen innerhalb von 30 Tagen
+- Kostenlose Änderungen innerhalb von 90 Tagen
 
 <a class="btn btn-primary" href="/quote/">Schreiben bestellen</a>
 </div>
@@ -49,7 +49,7 @@ Kartenzahlung über Stripe (Visa, Mastercard, American Express, die meisten Firm
 
 ## Änderungen und Verlängerung
 
-Ein Modell oder eine HVIN zu einer bestehenden Zertifizierung hinzuzufügen oder die Angaben des Antragstellers zu korrigieren ist innerhalb von 30 Tagen nach Ausstellung kostenlos und kostet danach eine geringe Bearbeitungsgebühr; Änderungen später als 90 Tage nach Ausstellung gelten als neuer Auftrag zum Standardpreis (für Jahresplan-Kunden ohne Zusatzkosten); nutzen Sie das [Änderungsformular](/revise/). Die Verlängerung nach Ablauf der zehn Jahre ist eine neue Bestellung zum dann gültigen Preis; ist das Produkt noch auf dem Markt, melden wir uns vor Ablauf.
+Ein Modell oder eine HVIN zu einer bestehenden Zertifizierung hinzuzufügen oder die Angaben des Antragstellers zu korrigieren ist innerhalb von 90 Tagen nach Ausstellung kostenlos; spätere Änderungen gelten als neuer Auftrag zum Standardpreis (für Jahresplan-Kunden ohne Zusatzkosten); nutzen Sie das [Änderungsformular](/revise/). Die Verlängerung nach Ablauf der zehn Jahre ist eine neue Bestellung zum dann gültigen Preis; ist das Produkt noch auf dem Markt, melden wir uns vor Ablauf.
 
 ## Warum wir den Preis veröffentlichen
 

@@ -40,7 +40,7 @@ Die Rolle des Vertreters ist eine dauerhafte rechtliche Verpflichtung, kein einm
 
 ## Preise, klar benannt
 
-Zwei Optionen. **US$ 499 je Produktzertifizierung**, einmalig, für eine zehnjährige Bestellung zu dieser IC-Zertifizierungsnummer (einschließlich aller darunter geführten Modelle und HVINs). Oder **US$ 999 pro Jahr** für unbegrenzt viele Zertifizierungen während der Laufzeit, die bessere Wahl ab drei Zertifizierungen im Jahr. Änderungen an einem bestehenden Schreiben (neue Modellnummer, korrigierte Anschrift) sind in den ersten 30 Tagen kostenlos. Sonst nichts. [Alle Preise](/de/pricing/).
+Zwei Optionen. **US$ 499 je Produktzertifizierung**, einmalig, für eine zehnjährige Bestellung zu dieser IC-Zertifizierungsnummer (einschließlich aller darunter geführten Modelle und HVINs). Oder **US$ 999 pro Jahr** für unbegrenzt viele Zertifizierungen während der Laufzeit, die bessere Wahl ab drei Zertifizierungen im Jahr. Änderungen an einem bestehenden Schreiben (neue Modellnummer, korrigierte Anschrift) sind in den ersten 90 Tagen kostenlos. Sonst nichts. [Alle Preise](/de/pricing/).
 
 ## Unsere Kunden
 
