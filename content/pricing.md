@@ -19,7 +19,7 @@ Two options, both in US dollars, both all-inclusive. **US$499 per product certif
 - Ten-year appointment from the date of the letter
 - Signed attestation letter the same business day
 - ISED enquiry handling and audit sample coordination included
-- Free revisions within 30 days of issue
+- Free revisions within 90 days of issue
 
 <a class="btn btn-primary" href="/quote/">Order a letter</a>
 </div>
@@ -31,7 +31,7 @@ Two options, both in US dollars, both all-inclusive. **US$499 per product certif
 - Same-business-day letters for every new product
 - One invoice a year; purchase orders accepted
 - Ideal for three or more certifications per year, or for labs and CBs ordering on behalf of clients
-- Revisions free within 30 days of issue
+- Revisions free within 90 days of issue
 
 <a class="btn btn-primary" href="/quote/">Start an annual plan</a>
 </div>
@@ -47,7 +47,7 @@ Card payments through Stripe (Visa, Mastercard, American Express, and most regio
 
 ## Revisions and renewals
 
-Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 30 days of issue. Between 30 and 90 days we quote a small administrative fee before doing the work; after 90 days a revision is treated as a new request at the standard per-certification fee (no extra charge for annual-plan clients). Use the [revision form](/revise/). Renewal at the end of a ten-year term is a new per-certification order at the then-current fee, and we contact you ahead of expiry if the product is still on the market.
+Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 90 days of issue. After 90 days a revision is treated as a new request at the standard per-certification fee (no extra charge for annual-plan clients). Use the [revision form](/revise/). Renewal at the end of a ten-year term is a new per-certification order at the then-current fee, and we contact you ahead of expiry if the product is still on the market.
 
 ## Why we publish the price
 
