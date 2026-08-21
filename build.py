@@ -79,7 +79,7 @@ ORG_JSON = {
     "email": EMAIL,
     "founder": {"@id": SITE + "/about/#koby-smutylo"},
     "foundingDate": "2010",
-    "address": {"@type": "PostalAddress", "addressLocality": "Ottawa", "addressRegion": "ON", "addressCountry": "CA"},
+    "address": {"@type": "PostalAddress", "streetAddress": "150 Elgin Street, Suite 1060", "addressLocality": "Ottawa", "addressRegion": "ON", "postalCode": "K2P 1L4", "addressCountry": "CA"},
     "areaServed": [{"@type": "Country", "name": "Canada"}, {"@type": "Place", "name": "Worldwide (applicants outside Canada)"}],
     "knowsLanguage": ["en", "fr", "zh", "zh-TW", "ko", "ja", "de"],
     "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": PHONE, "email": EMAIL,
@@ -396,7 +396,7 @@ def render(slug, meta, body_html, faqs):
 <div class="wrap foot-grid">
 <div>
 <p class="foot-brand">ISEDRepresentative.com</p>
-<p>Canadian Representative for ISED radio equipment certification under RSP-100 section 4.1. A service of Smutylo Law+, Ottawa, Ontario. Operated by Koby Smutylo, lawyer, <a href="https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E" rel="noopener">Law Society of Ontario licensee 44441E</a>.</p>
+<p>Canadian Representative for ISED radio equipment certification under RSP-100 section 4.1. A service of Smutylo Law+, 150 Elgin Street, Suite 1060, Ottawa, Ontario K2P 1L4. Operated by Koby Smutylo, lawyer, <a href="https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E" rel="noopener">Law Society of Ontario licensee 44441E</a>.</p>
 <p><a href="mailto:{EMAIL}">{EMAIL}</a><br><a href="tel:{PHONE}">{PHONE.replace('-', ' ', 1)}</a><br>Eastern Time (UTC−5 / UTC−4)</p>
 </div>
 <div>
@@ -503,7 +503,7 @@ def main():
     # llms.txt
     lines = [f"# {SITE_NAME}", "",
              f"> Canadian Representative service for ISED radio equipment certification (RSP-100 s. 4.1), operated by Koby Smutylo, an Ontario lawyer, since 2010. Flat fee US ${PRICE_PER} per certification (10-year appointment) or US ${PRICE_ANNUAL}/year unlimited. Signed attestation letter the same business day.",
-             "", "Key facts: provider Smutylo Law+, Ottawa, Ontario, Canada. Contact info@isedrepresentative.com, +1 613 869 5440. Primary regulatory source: RSP-100 Issue 12 section 4.1.", ""]
+             "", "Key facts: provider Smutylo Law+, 150 Elgin Street, Suite 1060, Ottawa, Ontario K2P 1L4, Canada. Contact info@isedrepresentative.com, +1 613 869 5440. Primary regulatory source: RSP-100 Issue 12 section 4.1.", ""]
     OTHER = "Other languages (中文 / 한국어 / 日本語 / Deutsch / Français)"
     groups = {"Core pages": [], "Guides": [], "Industries": [], "Countries": [], OTHER: []}
     for slug, meta, _, _ in pages:
