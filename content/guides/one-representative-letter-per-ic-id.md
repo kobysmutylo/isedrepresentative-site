@@ -19,7 +19,7 @@ RSP-100 section 4.1 ties the representative to the "certified product(s)" on the
 
 ## What one letter covers
 
-Everything under the IC number: the PMN (product marketing name), the HVIN (hardware version identification number), and every model number the CB has accepted as part of the certification, including models added later by permissive change under RSP-100 section 10 that keep the same IC number. If you add models, ask us to reissue the letter with the updated list (free within 30 days, nominal fee after); the appointment itself is unchanged.
+Everything under the IC number: the PMN (product marketing name), the HVIN (hardware version identification number), and every model number the CB has accepted as part of the certification, including models added later by permissive change under RSP-100 section 10 that keep the same IC number. If you add models, ask us to reissue the letter with the updated list (free within 90 days; after that treated as a new request); the appointment itself is unchanged.
 
 ## When you need a new letter
 
