@@ -39,7 +39,7 @@ The representative role is a standing legal commitment, not a one-time document.
 
 ## Pricing, stated plainly
 
-Two options. **US$499 per product certification**, one-time, covering a ten-year appointment for that IC certification number (including all models and HVINs listed under it). Or **US$999 per year** for unlimited certifications while the plan is active, which is the better choice if you certify three or more products a year. Revisions to an existing letter (a new model number, a corrected address) are handled for a nominal fee or free within the first 30 days. Nothing else. [Full pricing](/pricing/).
+Two options. **US$499 per product certification**, one-time, covering a ten-year appointment for that IC certification number (including all models and HVINs listed under it). Or **US$999 per year** for unlimited certifications while the plan is active, which is the better choice if you certify three or more products a year. Revisions to an existing letter (a new model number, a corrected address) are handled free within the first 90 days. Nothing else. [Full pricing](/pricing/).
 
 ## Trusted by manufacturers and laboratories
 
@@ -77,7 +77,7 @@ Our per-certification appointment runs ten years from the date of the letter. IS
 
 ### Can you revise a letter that already exists?
 
-Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions within 30 days of issue are free; after 90 days a revision is treated as a new request at the standard fee.
+Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions within 90 days of issue are free; after that a revision is treated as a new request at the standard fee.
 
 ### What does the representative do if ISED asks for an audit sample?
 
