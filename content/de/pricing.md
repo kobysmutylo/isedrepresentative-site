@@ -49,7 +49,7 @@ Kartenzahlung über Stripe (Visa, Mastercard, American Express, die meisten Firm
 
 ## Änderungen und Verlängerung
 
-Ein Modell oder eine HVIN zu einer bestehenden Zertifizierung hinzuzufügen oder die Angaben des Antragstellers zu korrigieren ist innerhalb von 30 Tagen nach Ausstellung kostenlos und kostet danach eine geringe Bearbeitungsgebühr; nutzen Sie das [Änderungsformular](/revise/). Die Verlängerung nach Ablauf der zehn Jahre ist eine neue Bestellung zum dann gültigen Preis; ist das Produkt noch auf dem Markt, melden wir uns vor Ablauf.
+Ein Modell oder eine HVIN zu einer bestehenden Zertifizierung hinzuzufügen oder die Angaben des Antragstellers zu korrigieren ist innerhalb von 30 Tagen nach Ausstellung kostenlos und kostet danach eine geringe Bearbeitungsgebühr; Änderungen später als 90 Tage nach Ausstellung gelten als neuer Auftrag zum Standardpreis (für Jahresplan-Kunden ohne Zusatzkosten); nutzen Sie das [Änderungsformular](/revise/). Die Verlängerung nach Ablauf der zehn Jahre ist eine neue Bestellung zum dann gültigen Preis; ist das Produkt noch auf dem Markt, melden wir uns vor Ablauf.
 
 ## Warum wir den Preis veröffentlichen
 
