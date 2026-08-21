@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-Use this form when a letter we issued needs to change: a new model or HVIN under the same certification, a corrected applicant name or address, or an IC number that has now been assigned. Revisions within 30 days of issue are free; later revisions carry a small administrative fee. Revised letters issue the same business day.
+Use this form when a letter we issued needs to change: a new model or HVIN under the same certification, a corrected applicant name or address, or an IC number that has now been assigned. Revisions within 30 days of issue are free. Between 30 and 90 days we quote a small administrative fee before doing the work; after 90 days a revision is treated as a new request at the standard fee (no extra charge for annual-plan clients). Revised letters issue the same business day.
 </div>
 
 <form name="revision" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="website">

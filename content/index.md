@@ -77,7 +77,7 @@ Our per-certification appointment runs ten years from the date of the letter. IS
 
 ### Can you revise a letter that already exists?
 
-Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions within 30 days of issue are free.
+Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions within 30 days of issue are free; after 90 days a revision is treated as a new request at the standard fee.
 
 ### What does the representative do if ISED asks for an audit sample?
 

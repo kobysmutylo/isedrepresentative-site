@@ -22,7 +22,7 @@ You will provide accurate applicant and product information; keep us informed of
 
 ## 4. Fees and payment
 
-Fees are as published on the pricing page at the time of order, in US dollars, exclusive of any applicable taxes. Nothing is charged until we have confirmed your request by email and you have chosen to pay; a request may be withdrawn at no cost at any time before payment. Fees are non-refundable once the letter has been issued. Revisions are free within 30 days of issue and subject to an administrative fee thereafter; the fee is stated before any revision is made. An annual plan runs for twelve months from payment and does not renew automatically; appointments issued during the plan continue for their full ten-year term after the plan ends.
+Fees are as published on the pricing page at the time of order, in US dollars, exclusive of any applicable taxes. Nothing is charged until we have confirmed your request by email and you have chosen to pay; a request may be withdrawn at no cost at any time before payment. Fees are non-refundable once the letter has been issued. Revisions are free within 30 days of issue; between 30 and 90 days they are subject to an administrative fee stated before the work is done; after 90 days a revision is treated as a new request at the then-current per-certification fee, or is covered by an active annual plan. An annual plan runs for twelve months from payment and does not renew automatically; appointments issued during the plan continue for their full ten-year term after the plan ends.
 
 We may decline a request, before payment, where acting would conflict with our professional obligations, in which case nothing is owed.
 

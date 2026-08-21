@@ -47,7 +47,7 @@ Card payments through Stripe (Visa, Mastercard, American Express, and most regio
 
 ## Revisions and renewals
 
-Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 30 days of issue and carries a small administrative fee afterwards; use the [revision form](/revise/). Renewal at the end of a ten-year term is a new per-certification order at the then-current fee, and we contact you ahead of expiry if the product is still on the market.
+Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 30 days of issue. Between 30 and 90 days we quote a small administrative fee before doing the work; after 90 days a revision is treated as a new request at the standard per-certification fee (no extra charge for annual-plan clients). Use the [revision form](/revise/). Renewal at the end of a ten-year term is a new per-certification order at the then-current fee, and we contact you ahead of expiry if the product is still on the market.
 
 ## Why we publish the price
 

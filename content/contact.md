@@ -20,7 +20,7 @@ For referral arrangements, annual plans and a link block for your Canadian marke
 
 ## Mailing address
 
-Smutylo Law+, Ottawa, Ontario, Canada. The full street address appears on every attestation letter and is provided to ISED and certification bodies as the representative's address of record.
+Smutylo Law+, 150 Elgin Street, Suite 1060, Ottawa, Ontario K2P 1L4, Canada. This is the address that appears on every attestation letter and is provided to ISED and certification bodies as the representative's address of record. Meetings by appointment.
 
 <form name="contact" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="website">
 <input type="hidden" name="form-name" value="contact">

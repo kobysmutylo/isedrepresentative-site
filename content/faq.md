@@ -64,7 +64,7 @@ A group of models certified under a single IC certification number, typically sh
 
 ### Can you revise an existing letter?
 
-Yes: added models, changed company names, corrected addresses and new HVINs are routine. Use the [revision form](/revise/). Revisions within 30 days of issue are free.
+Yes: added models, changed company names, corrected addresses and new HVINs are routine. Use the [revision form](/revise/). Revisions within 30 days of issue are free; after 90 days a revision is treated as a new request at the standard fee.
 
 ### Can you sign my certification body's own representative form instead?
 
