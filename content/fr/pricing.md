@@ -21,7 +21,7 @@ Deux options, toutes deux en dollars américains, tout compris. **499 $ US par c
 - Mandat de dix ans à compter de la date de la lettre
 - Lettre d’attestation signée le jour ouvrable même
 - Traitement des demandes d’ISDE et coordination des échantillons compris
-- Révisions gratuites dans les 30 jours
+- Révisions gratuites dans les 90 jours
 
 <a class="btn btn-primary" href="/quote/">Commander une lettre</a>
 </div>
@@ -49,7 +49,7 @@ Les paiements par carte via Stripe (Visa, Mastercard, American Express et la plu
 
 ## Révisions et renouvellements
 
-Ajouter un modèle ou un HVIN à une certification existante, ou corriger les coordonnées du demandeur, est gratuit dans les 30 jours suivant l’émission et entraîne ensuite de modestes frais administratifs; utilisez le [formulaire de révision](/revise/). Le renouvellement à l’échéance des dix ans est une nouvelle commande au tarif alors en vigueur; nous vous contactons avant l’échéance si le produit est encore sur le marché.
+Ajouter un modèle ou un HVIN à une certification existante, ou corriger les coordonnées du demandeur, est gratuit dans les 90 jours suivant l’émission; au-delà, une révision est traitée comme une nouvelle demande au tarif standard (sans frais supplémentaires pour les clients du forfait annuel); utilisez le [formulaire de révision](/revise/). Le renouvellement à l’échéance des dix ans est une nouvelle commande au tarif alors en vigueur; nous vous contactons avant l’échéance si le produit est encore sur le marché.
 
 ## Pourquoi nous publions nos tarifs
 

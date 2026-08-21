@@ -40,7 +40,7 @@ Le rôle de représentant est un engagement juridique permanent, pas un document
 
 ## Des tarifs clairs
 
-Deux options. **499 $ US par certification de produit**, paiement unique, pour un mandat de dix ans couvrant ce numéro de certification IC (tous les modèles et HVIN qui y figurent). Ou **999 $ US par année** pour un nombre illimité de certifications pendant la durée du plan, le meilleur choix à partir de trois certifications par année. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites dans les 30 premiers jours. Rien d’autre. [Tarifs complets](/fr/pricing/).
+Deux options. **499 $ US par certification de produit**, paiement unique, pour un mandat de dix ans couvrant ce numéro de certification IC (tous les modèles et HVIN qui y figurent). Ou **999 $ US par année** pour un nombre illimité de certifications pendant la durée du plan, le meilleur choix à partir de trois certifications par année. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites dans les 90 premiers jours. Rien d’autre. [Tarifs complets](/fr/pricing/).
 
 ## Ils nous font confiance
 

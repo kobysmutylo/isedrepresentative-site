@@ -61,7 +61,7 @@ Un groupe de modèles certifiés sous un seul numéro IC, partageant généralem
 
 ### Pouvez-vous réviser une lettre existante?
 
-Oui : ajouts de modèles, changements de dénomination, corrections d’adresse et nouveaux HVIN sont courants. Utilisez le [formulaire de révision](/revise/). Gratuit dans les 30 jours.
+Oui : ajouts de modèles, changements de dénomination, corrections d’adresse et nouveaux HVIN sont courants. Utilisez le [formulaire de révision](/revise/). Gratuit dans les 90 jours.
 
 ### Pouvez-vous signer le formulaire de mon organisme de certification?
 
