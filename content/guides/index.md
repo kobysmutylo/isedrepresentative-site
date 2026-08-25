@@ -13,4 +13,4 @@ Short, specific answers to the questions manufacturers, laboratories and certifi
 
 <!--list-->
 
-Subscribe by [RSS](/feed.xml). Industry-specific notes are in [industries](/industries/) and country-specific notes in [countries](/countries/).
+Subscribe by [RSS](/feed.xml). Industry-specific notes are in [industries](/industries/), country-specific notes in [countries](/countries/), and dated news on rule changes and the service in [updates](/updates/).
