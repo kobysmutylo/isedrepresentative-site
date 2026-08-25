@@ -114,7 +114,7 @@ SERVICE_JSON = {
 
 LSO = "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E"
 LANGS = {
-    "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/how-it-works/","How it works"),("/guides/","Guides"),("/updates/","Updates"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
+    "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/guides/","Guides"),("/updates/","Updates"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
                cta_btn="Request your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certification (10-year appointment) or US ${ann} per year for unlimited certifications. Every request is reviewed personally by Koby Smutylo before the signed PDF is issued, the same business day. Prefer email? Write to <a href=\"mailto:info@isedrepresentative.com\">info@isedrepresentative.com</a>.", cta_price="See pricing",
                skip="Skip to content", tag="A service of Smutylo Law+ · est. 2010", top1="Canadian Representative for ISED certification · RSP-100 s. 4.1", top2="Ottawa, Canada · Eastern Time",
                byline='Written by <a href="/about/">Koby Smutylo</a>, lawyer (<a href="{lso}" rel="noopener">Law Society of Ontario</a>, called 2001), ISED Canadian Representative since 2010. Last reviewed <time datetime="{d}">{dp}</time>.',
