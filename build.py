@@ -114,7 +114,7 @@ SERVICE_JSON = {
 
 LSO = "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E"
 LANGS = {
-    "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/how-it-works/","How it works"),("/guides/","Guides"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
+    "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/how-it-works/","How it works"),("/guides/","Guides"),("/updates/","Updates"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
                cta_btn="Request your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certification (10-year appointment) or US ${ann} per year for unlimited certifications. Every request is reviewed personally by Koby Smutylo before the signed PDF is issued, the same business day. Prefer email? Write to <a href=\"mailto:info@isedrepresentative.com\">info@isedrepresentative.com</a>.", cta_price="See pricing",
                skip="Skip to content", tag="A service of Smutylo Law+ · est. 2010", top1="Canadian Representative for ISED certification · RSP-100 s. 4.1", top2="Ottawa, Canada · Eastern Time",
                byline='Written by <a href="/about/">Koby Smutylo</a>, lawyer (<a href="{lso}" rel="noopener">Law Society of Ontario</a>, called 2001), ISED Canadian Representative since 2010. Last reviewed <time datetime="{d}">{dp}</time>.',
@@ -261,7 +261,7 @@ def breadcrumbs(slug, meta):
         if i == len(parts) - 1:
             crumbs.append((acc + "/", meta.get("short", meta.get("h1", meta["title"]))))
         else:
-            label = {"guides": "Guides", "industries": "Industries", "countries": "Countries"}.get(p, p.title())
+            label = {"guides": "Guides", "industries": "Industries", "countries": "Countries", "updates": "Updates"}.get(p, p.title())
             crumbs.append(((acc if lang == "en" else "/" + p) + "/", label))
     return crumbs
 
@@ -284,7 +284,7 @@ def schema_for(slug, meta, faqs, body_text):
         graph.append({"@type": "BreadcrumbList", "@id": SITE + slug + "#breadcrumb", "itemListElement": [
             {"@type": "ListItem", "position": i + 1, "name": n, "item": SITE + u} for i, (u, n) in enumerate(crumbs)]})
         page["breadcrumb"] = {"@id": SITE + slug + "#breadcrumb"}
-    if t in ("guide", "industry", "country"):
+    if t in ("guide", "industry", "country", "update"):
         graph.append({
             "@type": "Article", "@id": SITE + slug + "#article", "headline": meta.get("h1", meta["title"]),
             "description": meta["description"], "url": SITE + slug, "mainEntityOfPage": {"@id": page_id},
@@ -332,7 +332,7 @@ def render(slug, meta, body_html, faqs):
             for i, (u, n) in enumerate(cs)) + "</ol></nav>"
     t = meta.get("type", "page")
     byline = ""
-    if t in ("guide", "industry", "country", "faq", "service", "howto"):
+    if t in ("guide", "industry", "country", "faq", "service", "howto", "update"):
         d = meta.get("updated", meta.get("date", TODAY))
         byline = '<p class="byline">' + L["byline"].format(lso=LSO, d=d, dp=pretty(d)) + "</p>"
     schema = json.dumps(schema_for(slug, meta, faqs, re.sub(r"<[^>]+>", " ", body_html)), ensure_ascii=False)
@@ -357,7 +357,7 @@ def render(slug, meta, body_html, faqs):
 {robots}
 <meta name="author" content="Koby Smutylo">
 <meta name="msvalidate.01" content="A07B34E0A94F161CEBFF00AAB28227C5">
-<meta property="og:type" content="{'article' if t in ('guide','industry','country') else 'website'}">
+<meta property="og:type" content="{'article' if t in ('guide','industry','country','update') else 'website'}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:title" content="{html.escape(title)}">
@@ -405,7 +405,7 @@ def render(slug, meta, body_html, faqs):
 </div>
 <div>
 <p class="foot-h">Learn</p>
-<ul><li><a href="/guides/">All guides</a></li><li><a href="/guides/canadian-representative-requirement-rsp-100/">The RSP-100 requirement</a></li><li><a href="/guides/attestation-letter-required-fields/">Attestation letter fields</a></li><li><a href="/guides/how-long-must-a-canadian-representative-be-appointed/">How long the appointment lasts</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/industries/">Industries</a></li><li><a href="/countries/">Countries</a></li></ul>
+<ul><li><a href="/guides/">All guides</a></li><li><a href="/updates/">Updates</a></li><li><a href="/guides/canadian-representative-requirement-rsp-100/">The RSP-100 requirement</a></li><li><a href="/guides/attestation-letter-required-fields/">Attestation letter fields</a></li><li><a href="/guides/how-long-must-a-canadian-representative-be-appointed/">How long the appointment lasts</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/industries/">Industries</a></li><li><a href="/countries/">Countries</a></li></ul>
 </div>
 <div>
 <p class="foot-h">Company</p>
@@ -467,14 +467,17 @@ def main():
     # auto index listings
     listing = {}
     for slug, meta, _, _ in pages:
-        for sec in ("guides", "industries", "countries"):
+        for sec in ("guides", "industries", "countries", "updates"):
             if slug.startswith(f"/{sec}/") and slug != f"/{sec}/":
                 listing.setdefault(sec, []).append((slug, meta))
 
     for slug, meta, body_html, faqs in pages:
         sec = slug.strip("/")
         if sec in listing and "<!--list-->" in body_html:
-            items = sorted(listing[sec], key=lambda x: x[1].get("order", x[1]["title"]))
+            if sec == "updates":   # newest first
+                items = sorted(listing[sec], key=lambda x: x[1].get("date", ""), reverse=True)
+            else:
+                items = sorted(listing[sec], key=lambda x: x[1].get("order", x[1]["title"]))
             lis = "".join(f'<li><a href="{s}">{html.escape(m.get("h1", m["title"]))}</a><span>{html.escape(m["description"])}</span></li>' for s, m in items)
             body_html = body_html.replace("<!--list-->", f'<ul class="cards">{lis}</ul>')
         body_html = body_html.replace("<!--trust-->", trust_html(lang_of(slug)))
@@ -505,11 +508,11 @@ def main():
              f"> Canadian Representative service for ISED radio equipment certification (RSP-100 s. 4.1), operated by Koby Smutylo, an Ontario lawyer, since 2010. Flat fee US ${PRICE_PER} per certification (10-year appointment) or US ${PRICE_ANNUAL}/year unlimited. Signed attestation letter the same business day.",
              "", "Key facts: provider Smutylo Law+, 150 Elgin Street, Suite 1060, Ottawa, Ontario K2P 1L4, Canada. Contact info@isedrepresentative.com, +1 613 869 5440. Primary regulatory source: RSP-100 Issue 12 section 4.1.", ""]
     OTHER = "Other languages (中文 / 한국어 / 日本語 / Deutsch / Français)"
-    groups = {"Core pages": [], "Guides": [], "Industries": [], "Countries": [], OTHER: []}
+    groups = {"Core pages": [], "Guides": [], "Updates": [], "Industries": [], "Countries": [], OTHER: []}
     for slug, meta, _, _ in pages:
         if meta.get("noindex"):
             continue
-        g = OTHER if lang_of(slug) != "en" else "Guides" if slug.startswith("/guides/") else "Industries" if slug.startswith("/industries/") else "Countries" if slug.startswith("/countries/") else "Core pages"
+        g = OTHER if lang_of(slug) != "en" else "Guides" if slug.startswith("/guides/") else "Updates" if slug.startswith("/updates/") else "Industries" if slug.startswith("/industries/") else "Countries" if slug.startswith("/countries/") else "Core pages"
         groups[g].append(f"- [{meta.get('h1', meta['title'])}]({SITE}{slug}): {meta['description']}")
     for g, items in groups.items():
         lines += [f"## {g}", ""] + items + [""]
@@ -522,12 +525,12 @@ def main():
         full.append(f"# {meta.get('h1', meta['title'])}\nURL: {SITE}{slug}\n\n{html.unescape(text).strip()}\n")
     (DIST / "llms-full.txt").write_text("\n\n---\n\n".join(full))
 
-    # RSS for guides
+    # RSS for guides and updates
     items = []
     for slug, meta, _, _ in sorted(pages, key=lambda p: p[1].get("date", ""), reverse=True):
-        if slug.startswith("/guides/") and slug != "/guides/":
+        if (slug.startswith("/guides/") and slug != "/guides/") or (slug.startswith("/updates/") and slug != "/updates/"):
             items.append(f"<item><title>{html.escape(meta.get('h1', meta['title']))}</title><link>{SITE}{slug}</link><guid>{SITE}{slug}</guid><description>{html.escape(meta['description'])}</description><pubDate>{dt.date.fromisoformat(meta.get('date', TODAY)).strftime('%a, %d %b %Y 09:00:00 -0400')}</pubDate></item>")
-    (DIST / "feed.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>ISED Representative guides</title><link>{SITE}/guides/</link><description>Operational guides on the ISED Canadian Representative requirement.</description>' + "".join(items) + "</channel></rss>")
+    (DIST / "feed.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>ISED Representative guides and updates</title><link>{SITE}/guides/</link><description>Operational guides and updates on the ISED Canadian Representative requirement.</description>' + "".join(items) + "</channel></rss>")
 
     if INDEXNOW_KEY:
         (DIST / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
