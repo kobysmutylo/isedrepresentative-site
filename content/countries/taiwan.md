@@ -1,11 +1,11 @@
 ---
-title: ISED Canadian Representative for Taiwanese Manufacturers | 台灣製造商加拿大代表
-description: How manufacturers in Taiwan appoint a Canadian Representative for ISED certification: Taiwanese FCBs recognized under the APEC TEL MRA, ODM and module-maker applicants, legal-name matching, USD payment and overnight turnaround.
+title: ISED Canadian Representative for Taiwanese Manufacturers
+description: How manufacturers in Taiwan appoint an ISED Canadian Representative: local testing, where the certificate is issued, ODM and module applicants, overnight issue.
 h1: Canadian Representative for manufacturers in Taiwan
 short: Taiwan
 type: country
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-26
 order: 2
 ---
 
@@ -14,31 +14,61 @@ order: 2
 </div>
 
 <div class="answer" markdown="1">
-Taiwanese manufacturers can complete ISED certification entirely in Taiwan, because ISED recognizes Taiwanese certification bodies under the APEC TEL mutual recognition arrangement, but the Canadian Representative requirement in RSP-100 section 4.1 still applies: the CB is recognized, the applicant is still outside Canada. Taiwan's ODM and module industries produce a particular pattern of who needs the letter.
+Taiwanese manufacturers need a Canadian Representative under RSP-100 section 4.1 because the applicant is outside Canada, and that holds however the file is routed. Testing is done at an ISED-recognized laboratory in Taiwan; the certificate is issued by a body on ISED's recognized list, which today means a body in North America, Europe or Singapore. Taiwan's ODM and module industries produce a particular pattern of who needs the letter, and it is not always the company whose name is on the box.
 </div>
 
 ## How certification usually runs from Taiwan
 
-Taiwan's labs and certification bodies handle a large volume of FCC and ISED work, and several Taiwanese CBs are recognized by ISED as foreign certification bodies under the APEC TEL MRA. A Taiwanese applicant can therefore test in Hsinchu or Taoyuan and have a Taiwanese FCB issue the ISED certificate. The FCB will ask for the Canadian Representative's details and letter before issuing, exactly as a Canadian CB would. Confirm your CB's current recognition status on ISED's list if in doubt.
+Taiwan's laboratories handle a very large share of the world's FCC and ISED test volume, and ISED recognizes Taiwanese wireless device testing laboratories, so the testing half of a Canadian file is routinely completed in Hsinchu or Taoyuan.
+
+Where the certificate comes from is worth being precise about, because it is commonly described loosely. ISED's published list of recognized certification bodies covers bodies in Canada, the United States, Germany, Spain, the United Kingdom, the Netherlands, Austria and Singapore. Certification bodies based in Taiwan do not currently appear on it. What does appear is the North American arm of at least one major Taiwanese certification group — recognition sits with the US entity rather than the Taiwanese parent.
+
+The practical effect for a Taiwanese manufacturer is usually invisible: you deal with the same familiar group, test locally, and the certificate issues under that group's recognized entity. But it matters when someone asks whether the file can be completed without leaving Taiwan, and it matters when you are checking a proposed CB against ISED's list. Check the list by entity name, not by brand.
+
+Either way, the CB asks for the applicant's ISED Company Number and the Canadian Representative letter before it will issue.
 
 ## What we see from Taiwanese applicants
 
-**ODMs certifying for global brands.** Taiwan's ODMs often hold certifications in their own name for products sold under customers' brands. The ODM is the applicant and needs the representative. Where the brand owner later takes over the certificate, that is a transfer; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
+**ODMs certifying for global brands.** Taiwan's ODMs often hold certifications in their own name for products sold under a customer's brand. The ODM is the applicant and needs the representative. Where the brand owner later takes over the certificate, that is a transfer; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
 
-**Module makers.** Taiwan is a major source of Wi-Fi, Bluetooth and cellular modules used worldwide. Each module certification needs its own representative letter from the module maker; the dozens of integrators downstream do not need one for the module. Taiwanese module makers with many products are natural [annual plan](/pricing/) clients. See [RF modules](/industries/rf-modules/).
+**Module makers.** Taiwan is a major source of Wi-Fi, Bluetooth and cellular modules used worldwide. Each module certification needs its own representative letter from the module maker, and the dozens of integrators downstream need nothing for that module. Module makers with many products are natural [annual plan](/pricing/) clients; see [RF modules](/industries/rf-modules/).
 
-**Legal names.** Use the English legal name from the company registration as your CB uses it. "Co., Ltd." versus "Corp." mismatches are the usual cause of a CB return.
+**Legal names.** Use the English legal name from the company registration exactly as your CB uses it. "Co., Ltd." against "Corp." is the usual cause of a CB return, and it costs a day at the worst possible point in the schedule. See [attestation letter required fields](/guides/attestation-letter-required-fields/).
 
-**Tight launch schedules.** Taiwanese CBs move quickly, and the representative letter should not be the last item. Order at application.
+**Tight launch schedules.** Taiwanese CBs move quickly and the representative letter should not be the last item on the list. Order at application, not at issue.
+
+**Multiple radios, multiple certifications.** Devices with several radios, or families split by band, mean several IC numbers and several letters. One letter covers one IC number and every model under it; see [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
 ## Payment and timing
 
-Card payment via Stripe in USD is immediate; wires from Taiwanese banks typically arrive in two banking days. Orders submitted during the Taiwan working day are processed overnight Taiwan time and the letter is normally in your inbox the next morning. We correspond in English.
+Card payment via Stripe in USD is immediate; wires from Taiwanese banks typically arrive in two banking days. Ottawa is twelve hours behind Taipei for most of the year, so an order submitted during the Taiwanese working day is processed overnight Taiwan time and the letter is normally in your inbox the next morning. We correspond in English.
 
 ## Audit samples
 
-Samples are shipped from Taiwan to ISED's laboratory in Canada at the applicant's cost; we coordinate. See [ISED audit samples](/guides/ised-audit-samples-who-provides-who-pays/).
+Samples ship from Taiwan to ISED's laboratory in Canada at the applicant's cost, documented as a regulatory sample; we coordinate and can advise on the Canadian entry. Section 4.1 places that duty on the representative for as long as the product is offered on the Canadian market. See [ISED audit samples](/guides/ised-audit-samples-who-provides-who-pays/).
+
+<!--faq-->
+### Can a Taiwanese certification body issue our ISED certificate?
+
+Check ISED's current list of recognized certification bodies by entity name before assuming so. Taiwanese-based bodies do not currently appear on it, although the North American entity of at least one major Taiwanese group does. Your testing can be done at an ISED-recognized laboratory in Taiwan either way.
+
+### We are the ODM. Does our customer need the representative, or do we?
+
+Whoever is the applicant on the ISED application. If the certification is in the ODM's name, the ODM needs it. If the brand certifies in its own name, the brand does. Not both.
+
+### Our module is certified. Do our customers need their own letters?
+
+Not for your module. An integrator designing in a certified module relies on your certification for that module. It needs a representative only for certifications held in its own name.
+
+### Does the letter expire?
+
+The appointment runs for as long as the certified product is offered on the Canadian market. The per-certification fee covers a ten-year term.
+
+### Can we order before we have the IC number?
+
+Yes. We need the applicant's exact legal name and address and the ISED Company Number; the IC number can follow. Ordering at application is the point.
+<!--/faq-->
 
 <div class="source" markdown="1">
-**Sources.** [RSP-100, Issue 12, section 4.1](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment). ISED [Certification and Engineering Bureau](https://ised-isde.canada.ca/site/certification-engineering-bureau/en): recognized foreign certification bodies under the APEC TEL MRA (check current status).
+**Sources.** [RSP-100, Issue 12, section 4.1](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment). ISED [Certification Bodies](https://ised-isde.canada.ca/site/mutual-recognition-agreements/en/conformity-assessment-bodies/certification-bodies) and [Wireless Device Testing Laboratories](https://ised-isde.canada.ca/site/mutual-recognition-agreements/en/mra/wireless-device-testing-laboratories) (check current status).
 </div>
