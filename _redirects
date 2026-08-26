@@ -14,6 +14,13 @@
 /blog/ised-audit-samples-explained            /guides/ised-audit-samples-who-provides-who-pays/  301
 /blog/*                                       /guides/  301
 
+# Old Next.js routes, second batch (found 404ing in Search Console, Aug 2026)
+/home                                         /  301
+/privacy-policy                               /privacy/  301
+/post/canadian-representative-ised-wireless   /guides/canadian-representative-requirement-rsp-100/  301
+/post/spectrum-management-system-rsp-100      /guides/ised-certification-process-overview/  301
+/post/*                                       /guides/  301
+
 # Country pages consolidated
 /countries/vietnam      /countries/  301
 /countries/malaysia     /countries/  301
