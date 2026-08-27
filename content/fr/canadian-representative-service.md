@@ -31,7 +31,7 @@ Concrètement : une adresse canadienne et un interlocuteur canadien joignable au
 
 **Tenue du dossier.** Nous conservons le mandat avec vos coordonnées et vous rappelons de les mettre à jour. Des coordonnées périmées sont la cause la plus fréquente d’une demande d’ISDE restée sans réponse.
 
-**Révisions.** Nouveaux modèles sous la même certification, changements de dénomination et corrections d’adresse passent par le [formulaire de révision](/revise/).
+**Révisions.** Nouveaux modèles sous la même certification, changements de dénomination et corrections d’adresse passent par le [formulaire de révision](/revise/), sans frais, sans limite de temps et sans limite du nombre de demandes.
 
 ## Ce qui n’est pas compris
 

@@ -26,7 +26,7 @@ Le jour ouvrable même, heure de l’Est, vous recevez un PDF signé sur papier 
 
 ## Étape 4 : nous restons au dossier pour toute la durée
 
-Tant que le produit est offert sur le marché canadien, nous sommes le représentant canadien de cette certification. Si ISDE ou votre organisme nous contacte au sujet du produit, nous vous avisons le jour ouvrable même et coordonnons la réponse. Si un échantillon est demandé, nous en organisons la livraison avec vous. Pour ajouter un modèle ou modifier les coordonnées de l’entreprise, utilisez le [formulaire de révision](/revise/).
+Tant que le produit est offert sur le marché canadien, nous sommes le représentant canadien de cette certification. Si ISDE ou votre organisme nous contacte au sujet du produit, nous vous avisons le jour ouvrable même et coordonnons la réponse. Si un échantillon est demandé, nous en organisons la livraison avec vous. Pour ajouter un modèle ou modifier les coordonnées de l’entreprise, utilisez le [formulaire de révision](/revise/) — les révisions sont gratuites, sans limite de temps.
 
 ## Délais en pratique
 

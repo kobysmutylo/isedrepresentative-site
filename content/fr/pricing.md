@@ -20,7 +20,7 @@ updated: 2026-08-27
 - Un numéro de certification IC, tous les modèles, HVIN et PMN inscrits
 - Lettre d’attestation signée le jour ouvrable même
 - Traitement des demandes d’ISDE et coordination des échantillons compris
-- Révisions gratuites dans les 90 jours
+- Révisions toujours gratuites — sans limite de temps, sans frais
 - Aucune date de renouvellement, aucune seconde facture
 
 <a class="btn btn-primary" href="/quote/">Commander une lettre</a>
@@ -36,7 +36,9 @@ Les paiements par carte via Stripe (Visa, Mastercard, American Express et la plu
 
 ## Révisions
 
-Ajouter un modèle ou un HVIN à une certification existante, ou corriger les coordonnées du demandeur, est gratuit dans les 90 jours suivant l’émission; au-delà, une révision est traitée comme une nouvelle demande au tarif standard; utilisez le [formulaire de révision](/revise/).
+Les révisions d’une lettre que nous avons émise sont gratuites, sans limite de temps et sans frais. Un nouveau modèle ou HVIN sous la même certification, une correction du nom ou de l’adresse du demandeur, une lettre réémise — autant de fois que nécessaire, tant que le mandat demeure en vigueur. Utilisez le [formulaire de révision](/revise/); les lettres révisées sont émises le jour ouvrable même.
+
+La seule limite est le numéro de certification. Une révision vise les changements sous le même numéro de certification IC. Un nouveau numéro IC constitue une nouvelle certification et exige son propre mandat à 499 $ US.
 
 Un mandat déjà payé se poursuit tant que le produit est offert sur le marché canadien, selon nos [conditions de service](/terms/) (en anglais). Il n’y a rien à renouveler.
 
@@ -45,6 +47,10 @@ Un mandat déjà payé se poursuit tant que le produit est offert sur le marché
 La plupart des fournisseurs de ce marché ne donnent leurs prix que sur demande. Nos honoraires sont les mêmes pour chaque client et chaque produit : il n’y a rien à négocier et aucune raison de vous faire demander. Votre laboratoire ou votre organisme peut ainsi inscrire un montant ferme dans son devis.
 
 <!--faq-->
+### Facturez-vous les révisions?
+
+Non. Les révisions sont gratuites, sans limite de temps et sans limite du nombre de demandes, tant que le mandat demeure en vigueur. Cela vise les modèles et HVIN ajoutés sous le même numéro IC, les coordonnées corrigées du demandeur et les lettres réémises. Un nouveau numéro de certification IC constitue une nouvelle certification à 499 $ US.
+
 ### Y a-t-il des frais annuels ou des frais de renouvellement?
 
 Non. Les 499 $ US sont payables une seule fois par produit certifié et couvrent la représentation canadienne de cette certification tant que le produit est offert sur le marché canadien. Aucuns frais annuels, aucune date de renouvellement, aucune seconde facture.
