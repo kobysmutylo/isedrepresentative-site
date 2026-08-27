@@ -31,7 +31,7 @@ Praktisch heißt das: eine kanadische Anschrift und ein erreichbarer kanadischer
 
 **Aktenführung.** Wir führen die Bestellung mit Ihren Kontaktdaten und erinnern Sie an Aktualisierungen. Veraltete Kontaktdaten des Antragstellers sind der häufigste Grund, warum eine ISED-Anfrage unbeantwortet bleibt.
 
-**Änderungen.** Neue Modelle unter derselben Zertifizierung, Firmenumbenennungen und Adresskorrekturen laufen über das [Änderungsformular](/revise/).
+**Änderungen.** Neue Modelle unter derselben Zertifizierung, Firmenumbenennungen und Adresskorrekturen laufen über das [Änderungsformular](/revise/) – kostenlos, ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl.
 
 ## Was nicht enthalten ist
 

@@ -40,7 +40,7 @@ Die Rolle des Vertreters ist eine dauerhafte rechtliche Verpflichtung, kein einm
 
 ## Preise, klar benannt
 
-**US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird.** Mit dieser Gebühr bestellen Sie uns für eine IC-Zertifizierungsnummer einschließlich aller darunter geführten Modelle und HVINs, und zwar für genau den Zeitraum, für den RSP-100 einen Vertreter verlangt. Keine Verlängerung, keine zweite Rechnung. Änderungen an einem bestehenden Schreiben (neue Modellnummer, korrigierte Anschrift) sind in den ersten 90 Tagen kostenlos. Sonst nichts. [Alle Preise](/de/pricing/).
+**US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird.** Mit dieser Gebühr bestellen Sie uns für eine IC-Zertifizierungsnummer einschließlich aller darunter geführten Modelle und HVINs, und zwar für genau den Zeitraum, für den RSP-100 einen Vertreter verlangt. Keine Verlängerung, keine zweite Rechnung. Änderungen an einem bestehenden Schreiben – eine neue Modellnummer, eine korrigierte Anschrift – sind kostenlos, ohne zeitliche Begrenzung. Sonst nichts. [Alle Preise](/de/pricing/).
 
 ## Unsere Kunden
 
