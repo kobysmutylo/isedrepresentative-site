@@ -70,9 +70,9 @@ Nein. Modelle, die unter einer bestehenden IC-Nummer ergänzt werden, sind vom b
 
 Die Pflicht besteht, solange das Produkt auf dem kanadischen Markt angeboten wird. Teilen Sie uns die Einstellung mit, dann schließen wir die Benennung für diese Zertifizierung ab.
 
-### Berechnen Sie das Hinzufügen eines Modells oder die Korrektur des Schreibens?
+### Unsere Konzerngesellschaften werden umfirmiert. Kostet ein korrigiertes Schreiben etwas?
 
-Nein. Änderungen sind kostenlos – ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl, solange die Benennung besteht: ein neues Modell oder eine neue HVIN unter derselben IC-Nummer, ein korrigierter Firmenname oder eine korrigierte Anschrift oder ein neu ausgestelltes Schreiben. Eine neue IC-Zertifizierungsnummer ist eine neue Zertifizierung zu US$ 499.
+Nein. Ein korrigierter Name oder eine korrigierte Anschrift des Antragstellers, ein unter derselben IC-Nummer ergänztes Modell oder ein neu ausgestelltes Schreiben sind kostenlos – ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl. Wandert eine Zertifizierung von einer Konzerngesellschaft zur anderen, ist zu beachten: Die Benennung ist an den in der Bestellung genannten Antragsteller gebunden, eine Übertragung erfordert eine neue Benennung — siehe die Frage zum Konzern weiter oben. Eine neue IC-Zertifizierungsnummer ist eine eigene Zertifizierung zu US$ 499.
 
 <!--/faq-->
 
