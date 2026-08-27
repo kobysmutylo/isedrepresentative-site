@@ -5,7 +5,7 @@ h1: Représentant canadien ISDE : questions fréquentes
 short: FAQ
 type: faq
 translation_of: /faq/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -73,7 +73,7 @@ Oui, sans frais. Plusieurs organismes préfèrent leur propre modèle.
 <!--faq-->
 ### Combien de temps dure le mandat?
 
-Notre mandat par certification court dix ans à compter de la date de la lettre. La CPR-100 exige un représentant « tant que le produit certifié est offert sur le marché canadien »; un produit encore en vente à la dixième année exige un renouvellement. Le plan annuel couvre toutes les certifications déposées pendant sa durée.
+Tant que le produit est offert sur le marché canadien. La CPR-100 exige du demandeur qu’il détienne une demande et une entente de services de certification valides « tant que le produit certifié est offert sur le marché canadien », et cette entente doit désigner un représentant canadien : notre mandat est rédigé pour y correspondre. Les 499 $ US sont payables une seule fois et il n’y a aucune date de renouvellement. Le mandat prend fin lorsque le produit est retiré du marché canadien.
 
 ### Que se passe-t-il si ISDE vous contacte au sujet de mon produit?
 
@@ -97,11 +97,11 @@ Avisez-nous ainsi que votre organisme. Un changement de dénomination de la mêm
 <!--faq-->
 ### Combien cela coûte-t-il?
 
-499 $ US par certification pour un mandat de dix ans, ou 999 $ US par année, illimité. Aucuns autres frais. Voir [tarifs](/fr/pricing/).
+499 $ US par produit certifié, payable une seule fois — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. Aucuns autres frais. Voir [tarifs](/fr/pricing/).
 
 ### Comment payer?
 
-Carte via Stripe ou virement. Bons de commande acceptés pour le plan annuel.
+Carte via Stripe ou virement. Bons de commande acceptés, et plusieurs certifications peuvent figurer sur une seule facture.
 
 ### Facturez-vous quand ISDE pose une question ou demande un échantillon?
 

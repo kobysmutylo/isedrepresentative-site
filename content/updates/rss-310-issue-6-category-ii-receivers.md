@@ -24,7 +24,7 @@ Which category a product falls into is determined by the applicable RSS standard
 
 ## What to actually do
 
-If your product line mixes transmitters and receive-only devices, the RSS-310 revision is a good prompt to confirm each product's category with your lab before budgeting for certification. For the Category I products, the certification file will need the representative letter — [US$499 per certification or US$999/year unlimited](/pricing/), issued the same business day.
+If your product line mixes transmitters and receive-only devices, the RSS-310 revision is a good prompt to confirm each product's category with your lab before budgeting for certification. For the Category I products, the certification file will need the representative letter — [US$499 per certified product, paid once](/pricing/), issued the same business day.
 
 <!--faq-->
 ### Does a Category II device need a Canadian Representative?

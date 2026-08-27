@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-Submit the product and company details, pay by card or wire, and receive the signed attestation letter as a PDF the same business day. We then remain the Canadian contact for that certification for ten years (annual-plan appointments included), handling any ISED enquiry and coordinating audit samples.
+Submit the product and company details, pay by card or wire, and receive the signed attestation letter as a PDF the same business day. We then remain the Canadian contact for that certification for as long as the product is offered on the Canadian market, handling any ISED enquiry and coordinating audit samples.
 </div>
 
 ## Step 1: Submit the product details
@@ -17,7 +17,7 @@ Complete the [quote form](/quote/). We need your company's legal name and addres
 
 ## Step 2: Pay by card or wire
 
-We email a Stripe payment link for US$499 per certification, or an invoice for the US$999 annual plan. Card payments clear immediately. Wire transfers are accepted and the letter issues when the funds arrive. Purchase orders are accepted for annual plans.
+We email a Stripe payment link for US$499, or an invoice if you prefer. Card payments clear immediately. Wire transfers are accepted and the letter issues when the funds arrive. Purchase orders are accepted, and several certifications can go on one invoice.
 
 ## Step 3: Receive the signed attestation letter
 
@@ -25,7 +25,7 @@ The same business day, Eastern Time, you receive a signed PDF on Smutylo Law+ le
 
 ## Step 4: We remain on file for the term
 
-For ten years from the date of the letter, we are the Canadian Representative for that certification. If ISED or your CB contacts us about the product we notify you the same business day and coordinate the response. If an audit sample is requested we arrange its delivery with you. If you add a model or change company details, use the [revision form](/revise/).
+For as long as the product is offered on the Canadian market, we are the Canadian Representative for that certification. If ISED or your CB contacts us about the product we notify you the same business day and coordinate the response. If an audit sample is requested we arrange its delivery with you. If you add a model or change company details, use the [revision form](/revise/).
 
 ## Timing in practice
 
@@ -45,7 +45,7 @@ The letter is written to the field list CBs and FCBs actually verify: applicant 
 <!--faq-->
 ### Can my test lab or certification body order on my behalf?
 
-Yes, and many do. The letter still names you as the applicant. Labs and CBs handling several foreign clients usually take the [annual plan](/pricing/).
+Yes, and many do. The letter still names you as the applicant. Labs and CBs handling several foreign clients usually put multiple certifications on a single [invoice](/pricing/).
 
 ### What if I do not yet have an ISED Company Number?
 

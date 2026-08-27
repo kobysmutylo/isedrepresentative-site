@@ -16,7 +16,7 @@ Smutylo Law+ operates ISEDRepresentative.com from Ottawa, Ontario, and is subjec
 
 **Where it is held.** Our own records are kept in Canada. Stripe and Netlify process data on servers in the United States and elsewhere, and information held there is subject to the laws of those jurisdictions. By submitting a form or paying by card you consent to this transfer. Correspondence with you necessarily crosses borders to wherever you are.
 
-**Retention.** Appointment records are kept for the ten-year term of the appointment and for a further ten years, which reflects the period for which ISED may raise enquiries about a certified product and the Law Society of Ontario's file-retention expectations. Form submissions that do not become an appointment are deleted within twelve months.
+**Retention.** Appointment records are kept while the appointment continues and for ten years after it ends, which reflects the period for which ISED may raise enquiries about a certified product and the Law Society of Ontario's file-retention expectations. An appointment ends when you confirm the product has been withdrawn from the Canadian market, when you do not confirm within 60 days of our annual status enquiry, or on transfer or cancellation of the certification. Form submissions that do not become an appointment are deleted within twelve months.
 
 **Analytics and cookies.** Reading the site sets no cookies. If analytics are enabled they run Google Analytics 4 configured without advertising features and with IP anonymisation, which sets first-party analytics cookies; you can block them in your browser without affecting the site.
 

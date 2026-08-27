@@ -10,7 +10,7 @@ order: 2
 ---
 
 <div class="native" lang="zh-TW" markdown="1">
-**中文摘要。** 依據加拿大 ISED（前身為 Industry Canada）RSP-100 第 4.1 條，公司地址位於加拿大境外的申請人辦理 IC 認證（ISED 無線設備認證）時，必須指定一名加拿大代表（Canadian Representative）。我們是位於渥太華的加拿大律師事務所 Smutylo Law+，自 2010 年起為境外製造商擔任加拿大代表：每件認證 499 美元（10 年任期）或每年 999 美元不限件數，付款後當個工作日簽發簽署代表函（PDF），可直接提交給您的認證機構。申請表為英文，我們以英文回覆。[繁體中文網站](/zh-tw/) · [立即申請](/quote/)
+**中文摘要。** 依據加拿大 ISED（前身為 Industry Canada）RSP-100 第 4.1 條，公司地址位於加拿大境外的申請人辦理 IC 認證（ISED 無線設備認證）時，必須指定一名加拿大代表（Canadian Representative）。我們是位於渥太華的加拿大律師事務所 Smutylo Law+，自 2010 年起為境外製造商擔任加拿大代表：每件認證產品 499 美元，一次付費，只要該產品仍在加拿大市場銷售，代表關係即持續有效；付款後當個工作日簽發簽署代表函（PDF），可直接提交給您的認證機構。申請表為英文，我們以英文回覆。[繁體中文網站](/zh-tw/) · [立即申請](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -31,7 +31,7 @@ Either way, the CB asks for the applicant's ISED Company Number and the Canadian
 
 **ODMs certifying for global brands.** Taiwan's ODMs often hold certifications in their own name for products sold under a customer's brand. The ODM is the applicant and needs the representative. Where the brand owner later takes over the certificate, that is a transfer; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
 
-**Module makers.** Taiwan is a major source of Wi-Fi, Bluetooth and cellular modules used worldwide. Each module certification needs its own representative letter from the module maker, and the dozens of integrators downstream need nothing for that module. Module makers with many products are natural [annual plan](/pricing/) clients; see [RF modules](/industries/rf-modules/).
+**Module makers.** Taiwan is a major source of Wi-Fi, Bluetooth and cellular modules used worldwide. Each module certification needs its own representative letter from the module maker, and the dozens of integrators downstream need nothing for that module. Module makers with many products usually settle several certifications on one [invoice](/pricing/); see [RF modules](/industries/rf-modules/).
 
 **Legal names.** Use the English legal name from the company registration exactly as your CB uses it. "Co., Ltd." against "Corp." is the usual cause of a CB return, and it costs a day at the worst possible point in the schedule. See [attestation letter required fields](/guides/attestation-letter-required-fields/).
 
@@ -62,7 +62,7 @@ Not for your module. An integrator designing in a certified module relies on you
 
 ### Does the letter expire?
 
-The appointment runs for as long as the certified product is offered on the Canadian market. The per-certification fee covers a ten-year term.
+The appointment runs for as long as the certified product is offered on the Canadian market. The US$499 fee is paid once and there is no renewal date.
 
 ### Can we order before we have the IC number?
 

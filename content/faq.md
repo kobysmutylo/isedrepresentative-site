@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-An ISED Canadian Representative is the Canada-based person or company a foreign applicant must name under RSP-100 section 4.1 (formerly an Industry Canada or "IC" requirement) before its radio equipment can be certified for Canada. We act in that role for US$499 per certification (ten-year appointment) or US$999 per year unlimited, issuing the signed attestation letter the same business day after payment. The answers below are short, with links to the full guide where one exists; regulatory statements are taken from [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment).
+An ISED Canadian Representative is the Canada-based person or company a foreign applicant must name under RSP-100 section 4.1 (formerly an Industry Canada or "IC" requirement) before its radio equipment can be certified for Canada. We act in that role for US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market, and issue the signed attestation letter the same business day after payment. The answers below are short, with links to the full guide where one exists; regulatory statements are taken from [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment).
 </div>
 
 ## The requirement
@@ -76,7 +76,7 @@ Yes, at no additional cost. Several CBs and FCBs prefer their own template.
 <!--faq-->
 ### How long does the appointment last?
 
-Our per-certification appointment is ten years from the date of the letter. RSP-100 requires the applicant to maintain a representative "for as long as the certified product is offered on the Canadian market," so a product still on sale at year ten needs a renewal. The annual plan covers every certification filed while it is active. Full treatment: [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+For as long as the product is offered on the Canadian market. RSP-100 requires the applicant to keep a valid Application and Agreement for Certification Services in place for that whole period, and that agreement must identify a Canadian representative, so the appointment is written to match it. The US$499 fee is paid once and there is no renewal date. Full treatment: [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 ### What happens if ISED contacts you about my product?
 
@@ -100,11 +100,11 @@ Tell us and your CB. A name change under the same legal entity is a letter revis
 <!--faq-->
 ### What does it cost?
 
-US$499 per certification for a ten-year appointment, or US$999 per year for unlimited certifications. No other fees. See [pricing](/pricing/).
+US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market. No other fees. See [pricing](/pricing/).
 
 ### How do I pay?
 
-Card via Stripe, or wire transfer. Purchase orders accepted for annual plans.
+Card via Stripe, or wire transfer. Purchase orders accepted, and several certifications can go on one invoice.
 
 ### Do you charge when ISED asks a question or requests a sample?
 

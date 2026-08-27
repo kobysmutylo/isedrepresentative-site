@@ -1,10 +1,10 @@
 ---
 title: Représentant canadien ISDE | Certification IC d’appareils radio | Lettre d’attestation le jour même | 499 $ US
-description: Cabinet d’avocats canadien agissant comme représentant canadien pour la certification ISDE (anciennement Industrie Canada) d’appareils radio, CPR-100 art. 4.1. Depuis 2010. 499 $ US par certification (10 ans) ou 999 $ US par année, illimité. Lettre signée le jour ouvrable même.
+description: Cabinet d’avocats canadien, représentant canadien ISDE pour appareils radio (CPR-100 art. 4.1) depuis 2010. 499 $ US par produit certifié, payable une seule fois.
 h1: Représentant canadien pour la certification ISDE / IC d’appareils radio
 type: page
 translation_of: /
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="hero" markdown="1">
@@ -13,8 +13,8 @@ updated: 2026-08-20
 <p><a class="btn btn-primary" href="/quote/">Obtenir votre lettre d’attestation</a> <a class="btn" href="/fr/how-it-works/">Voir le fonctionnement</a></p>
 
 <ul class="facts">
-<li><b>499 $ US</b>par certification, mandat de 10 ans</li>
-<li><b>999 $ US/an</b>certifications illimitées</li>
+<li><b>499 $ US</b>par produit certifié, payable une seule fois</li>
+<li><b>Mandat maintenu</b>tant que le produit est offert sur le marché canadien</li>
 <li><b>Le jour même</b>PDF signé les jours ouvrables</li>
 <li><b>Depuis 2010</b>avocat de l’Ontario</li>
 </ul>
@@ -36,11 +36,11 @@ Une lettre d’attestation signée en PDF, sur papier à en-tête du cabinet, co
 
 ## Pourquoi un avocat plutôt qu’un laboratoire ou un consultant
 
-Le rôle de représentant est un engagement juridique permanent, pas un document ponctuel. Confier ce rôle à un cabinet réglementé a trois conséquences. D’abord la continuité : les cabinets d’avocats sont tenus par des règles professionnelles sur la conservation des dossiers et la relève, de sorte que le mandat ne disparaît pas à la retraite d’un consultant ou au rachat d’un laboratoire. Ensuite la confidentialité : les détails de vos produits et votre correspondance avec ISDE relèvent d’une relation avocat-client régie par le Barreau de l’Ontario. Enfin l’indépendance : nous ne faisons ni essais ni certification et ne concurrençons pas votre laboratoire ou votre organisme, qui peuvent donc nous recommander des clients sans conflit.
+Le rôle de représentant est un engagement juridique continu, pas un document ponctuel. Confier ce rôle à un cabinet réglementé a trois conséquences. D’abord la continuité : les cabinets d’avocats sont tenus par des règles professionnelles sur la conservation des dossiers et la relève, de sorte que le mandat ne disparaît pas à la retraite d’un consultant ou au rachat d’un laboratoire. Ensuite la confidentialité : les détails de vos produits et votre correspondance avec ISDE relèvent d’une relation avocat-client régie par le Barreau de l’Ontario. Enfin l’indépendance : nous ne faisons ni essais ni certification et ne concurrençons pas votre laboratoire ou votre organisme, qui peuvent donc nous recommander des clients sans conflit.
 
 ## Des tarifs clairs
 
-Deux options. **499 $ US par certification de produit**, paiement unique, pour un mandat de dix ans couvrant ce numéro de certification IC (tous les modèles et HVIN qui y figurent). Ou **999 $ US par année** pour un nombre illimité de certifications pendant la durée du plan, le meilleur choix à partir de trois certifications par année. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites dans les 90 premiers jours. Rien d’autre. [Tarifs complets](/fr/pricing/).
+**499 $ US par produit certifié, payable une seule fois** — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. C’est la période pendant laquelle la CPR-100 exige que vous ayez un représentant. Ces honoraires couvrent un numéro de certification IC, tous les modèles et HVIN qui y figurent, sans date de renouvellement ni seconde facture. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites dans les 90 premiers jours. Rien d’autre. [Tarifs complets](/fr/pricing/).
 
 ## Ils nous font confiance
 
@@ -51,9 +51,9 @@ Nous agissons pour des fabricants d’électronique grand public, de compteurs i
 ## Fonctionnement
 
 1. **Décrivez le produit.** Dénomination sociale et adresse, numéro d’entreprise ISDE si vous en avez un, personne-ressource, numéro IC, PMN, HVIN et modèles. Deux minutes dans le [formulaire](/quote/) (en anglais).
-2. **Payez par carte ou virement.** Vous recevez un lien de paiement Stripe par courriel. Factures et bons de commande acceptés pour le plan annuel.
+2. **Payez par carte ou virement.** Vous recevez un lien de paiement Stripe par courriel. Factures et bons de commande acceptés, et plusieurs certifications peuvent figurer sur une même facture.
 3. **Recevez la lettre signée.** Le jour ouvrable même, heure de l’Est. Transmettez-la à votre organisme ou joignez-la à votre demande.
-4. **Nous restons au dossier.** Pendant dix ans, ou pendant la durée de votre plan annuel, nous répondons aux demandes d’ISDE et coordonnons les échantillons de vérification.
+4. **Nous restons au dossier.** Tant que le produit est offert sur le marché canadien, nous répondons aux demandes d’ISDE et coordonnons les échantillons de vérification.
 
 [Étapes détaillées et délais](/fr/how-it-works/)
 
@@ -70,11 +70,11 @@ Le jour ouvrable même après confirmation du paiement, heure de l’Est. Les pa
 
 ### Faut-il une lettre distincte pour chaque produit?
 
-Une lettre par numéro de certification IC. Tous les modèles, HVIN et PMN couverts par cette certification figurent dans la même lettre. Un nouveau numéro de certification exige une nouvelle lettre, d’où le plan annuel.
+Une lettre par numéro de certification IC. Tous les modèles, HVIN et PMN couverts par cette certification figurent dans la même lettre. Un nouveau numéro de certification exige une nouvelle lettre, à 499 $ US. Si vous en déposez plusieurs, elles peuvent figurer sur une seule facture.
 
 ### Combien de temps dure le mandat?
 
-Notre mandat par certification court dix ans à compter de la date de la lettre. ISDE exige le maintien d’un représentant valide tant que le produit est vendu au Canada; si le produit est encore sur le marché à la dixième année, vous renouvelez.
+Tant que le produit est offert sur le marché canadien. La CPR-100 exige du demandeur qu’il maintienne une demande et une entente de services de certification valides pendant toute cette période, et cette entente doit désigner un représentant canadien : notre mandat est rédigé pour y correspondre. Les 499 $ US sont payables une seule fois et il n’y a aucune date de renouvellement.
 
 ### La « certification IC » et la certification ISDE, est-ce la même chose?
 

@@ -1,9 +1,9 @@
 ---
 title: ISED Canadian Representative | Attestation Letter Same Business Day | $499
-description: Appoint a Canadian Representative for ISED wireless certification under RSP-100 s. 4.1. Ontario lawyer, since 2010. US$499 per certification (10-year term) or US$999/year unlimited. Signed letter the same business day.
+description: Appoint a Canadian Representative for ISED wireless certification under RSP-100 s. 4.1. Ontario lawyer, since 2010. US$499 per certified product, for as long as it is on the Canadian market.
 h1: Canadian Representative for ISED wireless device certification
 type: page
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="hero" markdown="1">
@@ -12,8 +12,8 @@ updated: 2026-08-20
 <p><a class="btn btn-primary" href="/quote/">Request your attestation letter</a> <a class="btn" href="/how-it-works/">See how it works</a></p>
 
 <ul class="facts">
-<li><b>US$499</b>per certification, 10-year appointment</li>
-<li><b>US$999/yr</b>unlimited certifications</li>
+<li><b>US$499</b>per certified product, paid once</li>
+<li><b>No renewal date</b>covered while the product is on the Canadian market</li>
 <li><b>Same business day</b>signed PDF after payment clears</li>
 <li><b>Since 2010</b>Ontario lawyer, LSO member</li>
 </ul>
@@ -39,7 +39,7 @@ The representative role is a standing legal commitment, not a one-time document.
 
 ## Pricing, stated plainly
 
-Two options. **US$499 per product certification**, one-time, covering a ten-year appointment for that IC certification number (including all models and HVINs listed under it). Or **US$999 per year** for unlimited certifications while the plan is active, which is the better choice if you certify three or more products a year. Revisions to an existing letter (a new model number, a corrected address) are handled free within the first 90 days. Nothing else. [Full pricing](/pricing/).
+**US$499 per certified product**, paid once. That fee appoints us for one IC certification number, including every model and HVIN listed under it, and keeps us in place for as long as the product is offered on the Canadian market — the period RSP-100 requires you to have a representative. There is no renewal date and no second invoice. Revisions to an existing letter (a new model number, a corrected address) are handled free within the first 90 days. Nothing else. [Full pricing](/pricing/).
 
 ## Trusted by manufacturers and laboratories
 
@@ -50,9 +50,9 @@ We act for consumer-electronics, metering, beverage-dispensing and IoT manufactu
 ## How it works
 
 1. **Tell us about the product.** Company name and address, ISED Company Number if you have one, contact, IC number, PMN, HVIN and models. Two minutes on the [quote form](/quote/).
-2. **Pay by card or wire.** You receive a Stripe payment link by email. Invoices and purchase orders are fine for annual plans.
+2. **Pay by card or wire.** You receive a Stripe payment link by email. Invoices and purchase orders are fine, and several certifications can go on one invoice.
 3. **Receive the signed letter.** Same business day, Eastern Time. Forward it to your CB or upload it with your application.
-4. **We remain on file.** For the ten-year term of each appointment (including those issued under an annual plan), we respond to ISED enquiries and coordinate audit samples with you.
+4. **We remain on file.** For as long as the product is offered on the Canadian market, we respond to ISED enquiries and coordinate audit samples with you.
 
 [Step-by-step with timing](/how-it-works/)
 
@@ -69,11 +69,11 @@ The same business day after payment is confirmed, Eastern Time. Card payments th
 
 ### Do I need a separate letter for each product?
 
-One letter per IC certification number. All models, HVINs and PMNs covered by that certification are included in the same letter. A new certification number needs a new letter, which is why the annual plan exists for companies with several products.
+One letter per IC certification number. All models, HVINs and PMNs covered by that certification are included in the same letter. A new certification number needs a new letter at US$499. If you are filing several, they can go on a single invoice.
 
 ### How long does the appointment last?
 
-Our per-certification appointment runs ten years from the date of the letter. ISED requires you to maintain a valid representative for as long as the product is sold in Canada, so if the product is still on the market at year ten, you renew. Details in [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+For as long as your product is offered on the Canadian market. RSP-100 requires the applicant to keep a valid Application and Agreement for Certification Services in place for that whole period, and that agreement has to identify a Canadian representative — so the appointment is written to match it. The US$499 fee is paid once and there is no renewal date. Details in [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 ### Can you revise a letter that already exists?
 

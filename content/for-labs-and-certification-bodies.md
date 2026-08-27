@@ -1,6 +1,6 @@
 ---
 title: For Test Labs and Certification Bodies | Canadian Representative Referral Partner
-description: How laboratories and certification bodies refer foreign clients for the RSP-100 Canadian Representative letter: same-day turnaround, your own template signed, annual plans, and a ready-made link block for your Canadian market-access page.
+description: How laboratories and certification bodies refer foreign clients for the RSP-100 Canadian Representative letter: same-day turnaround, your own template signed, consolidated invoicing, and a ready-made link block for your Canadian market-access page.
 h1: For test laboratories and certification bodies
 short: For labs and CBs
 type: page
@@ -13,13 +13,13 @@ If your foreign clients need a Canadian Representative for ISED certification, r
 
 ## Why labs and CBs refer to us
 
-We are independent. Smutylo Law+ does not test, certify, list or consult on technical compliance, so there is no risk that a referral sends your client to a competitor. We are regulated: a law firm's professional obligations give your client confidentiality and continuity that a consultancy cannot promise. We are fast: your project manager submits the form, the letter issues the same business day in Ottawa, and your certificate is not delayed by the representative. And we are predictable: a fixed published price (US$499 per certification, US$999 per year unlimited) that you can drop into your own project quote.
+We are independent. Smutylo Law+ does not test, certify, list or consult on technical compliance, so there is no risk that a referral sends your client to a competitor. We are regulated: a law firm's professional obligations give your client confidentiality and continuity that a consultancy cannot promise. We are fast: your project manager submits the form, the letter issues the same business day in Ottawa, and your certificate is not delayed by the representative. And we are predictable: a fixed published price (US$499 per certified product, paid once) that you can drop into your own project quote.
 
 ## Two ways to work with us
 
 **Refer.** Send the client to [isedrepresentative.com/quote/](/quote/). They deal with us directly; you receive the letter from them.
 
-**Order on their behalf.** Take an [annual plan](/pricing/) in your own name and submit orders for each client. Letters name your client as applicant and us as representative. You invoice your client as part of the project. Labs with three or more foreign clients a year find this simpler than per-letter purchasing.
+**Order on their behalf.** Submit orders for each client in your own name. Letters name your client as applicant and us as representative. You invoice your client as part of the project, and we can put several certifications on one consolidated invoice or work to your purchase order so your finance team handles one payment instead of many.
 
 ## Your template or ours
 
@@ -50,4 +50,4 @@ or as HTML:
 
 ## Contact
 
-Email [info@isedrepresentative.com](mailto:info@isedrepresentative.com) or call +1 613 869 5440 to set up a referral arrangement or an annual plan. We are happy to join a call with your client if the requirement needs explaining.
+Email [info@isedrepresentative.com](mailto:info@isedrepresentative.com) or call +1 613 869 5440 to set up a referral arrangement or consolidated invoicing. We are happy to join a call with your client if the requirement needs explaining.

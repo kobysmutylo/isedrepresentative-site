@@ -1,6 +1,6 @@
 ---
-title: Request Your ISED Canadian Representative Letter | US$499 | Reviewed Personally, Same Business Day
-description: Request an RSP-100 Canadian Representative attestation letter. US$499 per certification or US$999/year unlimited. Koby Smutylo reviews every request personally and replies by email the same business day; nothing is charged until you confirm.
+title: Request Your ISED Canadian Representative Letter | US$499 | Same Business Day
+description: Request an RSP-100 Canadian Representative attestation letter. US$499 per certified product, paid once. Koby Smutylo reviews every request personally and replies the same business day; nothing is charged until you confirm.
 h1: Request your attestation letter
 short: Request
 type: page
@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-US$499 per certification (ten-year appointment) or US$999 per year unlimited. Send the details below and Koby Smutylo reviews them personally, confirms the appointment by email within the business day, and sends a Stripe link or wire instructions. Nothing is charged until you confirm, and the signed letter follows as soon as payment clears.
+US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market. Send the details below and Koby Smutylo reviews them personally, confirms the appointment by email within the business day, and sends a Stripe link or wire instructions. Nothing is charged until you confirm, and the signed letter follows as soon as payment clears.
 </div>
 
 <div class="personal" markdown="1">
@@ -21,12 +21,6 @@ US$499 per certification (ten-year appointment) or US$999 per year unlimited. Se
 <form name="order" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="website">
 <input type="hidden" name="form-name" value="order">
 <p style="display:none"><label>Leave blank <input name="website"></label></p>
-
-<fieldset>
-<legend>Plan</legend>
-<label><input type="radio" name="plan" value="per-certification" checked style="width:auto"> Per certification, US$499 one-time (ten-year appointment)</label>
-<label><input type="radio" name="plan" value="annual" style="width:auto"> Annual plan, US$999 per year (unlimited certifications)</label>
-</fieldset>
 
 <fieldset>
 <legend>Applicant (as it will appear on the certification application)</legend>

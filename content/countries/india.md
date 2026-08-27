@@ -41,7 +41,7 @@ This is the part that delays Indian orders more than anything technical.
 
 Outward remittance from India requires an invoice and, for most banks, Form 15CA and a chartered accountant's Form 15CB before the transfer is released. That process can add a week to a file that otherwise takes a day. We provide a USD invoice and whatever supplier declaration your bank asks for.
 
-Card payment through Stripe in USD avoids the remittance process entirely for the per-certification fee, and it is the route most Indian clients take. Wires are accepted and typically arrive two to four banking days after the remittance is approved. For manufacturers with a steady certification flow, the [annual plan](/pricing/) means one remittance a year instead of one per certification, which is usually the deciding factor for Indian finance teams.
+Card payment through Stripe in USD avoids the remittance process entirely for the per-certification fee, and it is the route most Indian clients take. Wires are accepted and typically arrive two to four banking days after the remittance is approved. For manufacturers with a steady certification flow, a single consolidated [invoice](/pricing/) covering several certifications means one remittance instead of one per certification, which is usually the deciding factor for Indian finance teams.
 
 ## Timing
 

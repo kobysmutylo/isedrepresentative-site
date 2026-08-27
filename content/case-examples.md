@@ -1,6 +1,6 @@
 ---
 title: Case Examples | What an ISED Canadian Representative Actually Does
-description: Illustrative examples of what an ISED Canadian Representative handles over a ten-year appointment: late-stage letters, audit sample requests, company renames, certificate transfers, and labs ordering for foreign clients.
+description: Illustrative examples of what an ISED Canadian Representative handles over the life of an appointment: late-stage letters, audit sample requests, company renames, certificate transfers, and labs ordering for foreign clients.
 h1: Case examples: what the representative actually does
 short: Case examples
 type: page
@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-The letter is the visible deliverable, but the appointment is a ten-year commitment. These examples are illustrative composites: they reflect the kinds of situations that arise in Canadian Representative work since 2010, with details combined and changed so that none describes an identifiable client or product. They show what the role involves and how we handle it.
+The letter is the visible deliverable, but the appointment is a standing commitment that lasts as long as the product is on the Canadian market. These examples are illustrative composites: they reflect the kinds of situations that arise in Canadian Representative work since 2010, with details combined and changed so that none describes an identifiable client or product. They show what the role involves and how we handle it.
 </div>
 
 ## The letter the CB is waiting for
@@ -27,12 +27,12 @@ A US startup certified a Bluetooth wearable, then asked us to "update the compan
 
 A South Korean RF module manufacturer held one certification covering a module used by dozens of host-product integrators. Several integrators assumed they needed their own Canadian Representative letter for the module. They did not: the module certification belongs to the module maker, and one representative letter covers it. Integrators need a letter only where they hold their own certification for the host or for a Class II permissive change. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
-## The lab on an annual plan
+## The lab ordering for its clients
 
-A European test laboratory with a steady flow of Asian and US clients moved from ordering letters one at a time to an annual plan. Its project managers now submit the order form directly, letters issue the same day, and the lab invoices its clients as part of the project. The representative named is still us; the applicant is always the lab's client. See [for labs and certification bodies](/for-labs-and-certification-bodies/).
+A European test laboratory with a steady flow of Asian and US clients moved from ad hoc requests to submitting orders directly and settling them on one consolidated invoice. Its project managers submit the order form, letters issue the same day, and the lab invoices its clients as part of the project. The representative named is still us; the applicant is always the lab's client. See [for labs and certification bodies](/for-labs-and-certification-bodies/).
 
 ## The product still on sale at year ten
 
-A smart-metering client's first appointment with us reached the end of its ten-year term while the meter family remained in service and on the Canadian market. We contacted the client three months ahead of expiry, confirmed the certification was still active, and renewed at the per-certification fee. Nothing changed on the ISED record, since the representative was the same. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+A smart-metering client's meter family stays in service, and on sale as replacements, well beyond a decade. An appointment with no renewal date covers that whole service life on the original payment: nothing expires, nothing is re-invoiced, and nothing changes on the ISED record. Once a year we ask the client to confirm which meters are still offered in Canada, and the file closes when the last of them is withdrawn. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 <p class="hint">These examples are composites prepared to illustrate recurring situations. Client identities, products and dates have been altered.</p>

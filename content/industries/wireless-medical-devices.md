@@ -21,7 +21,7 @@ Health Canada licenses medical devices by class under the Medical Devices Regula
 
 **Dedicated bands.** Implants and body-worn medical transmitters may use the MedRadio bands under RSS-243, and wireless medical telemetry under RSS-244, alongside the general RSS-247 and RSS-210 standards for Bluetooth, Wi-Fi and proprietary links. Each certification carries its own IC number and letter. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
-**Service life.** Infusion pumps, patient monitors and diagnostic equipment remain in hospital service, and remain on sale as replacements, for a decade or more. RSP-100 requires a Canadian Representative for as long as the product is offered in Canada. Choose one that will exist that long, and budget for renewal. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+**Service life.** Infusion pumps, patient monitors and diagnostic equipment remain in hospital service, and remain on sale as replacements, for a decade or more. RSP-100 requires a Canadian Representative for as long as the product is offered in Canada. Choose one that will exist that long; our appointment carries no renewal date, so it does not lapse mid-service-life. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 **Change control.** Medical manufacturers run formal change control. Radio-affecting changes go to the CB as permissive changes under RSP-100 section 10 and should trigger a letter reissue if models are added. Non-radio changes under Health Canada's regime do not touch the ISED record.
 

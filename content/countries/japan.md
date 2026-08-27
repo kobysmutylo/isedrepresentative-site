@@ -10,7 +10,7 @@ order: 4
 ---
 
 <div class="native" lang="ja" markdown="1">
-**日本語の要約。** カナダ ISED（旧 Industry Canada）の RSP-100 第4.1条により、会社所在地がカナダ国外にある申請者は、IC認証（ISED 無線機器認証）を取得する際にカナダ代理人（Canadian Representative）を指定しなければなりません。当事務所はオタワのカナダ法律事務所 Smutylo Law+ で、2010年より海外メーカーのカナダ代理人を務めています。認証1件につき US$499（10年間）または年額 US$999 で件数無制限、お支払い後当営業日内に署名済みの代理人証明書（PDF）を発行し、そのまま認証機関に提出いただけます。申込フォームは英語で、返信も英語で行います。[日本語ページ](/ja/) · [申し込む](/quote/)
+**日本語の要約。** カナダ ISED（旧 Industry Canada）の RSP-100 第4.1条により、会社所在地がカナダ国外にある申請者は、IC認証（ISED 無線機器認証）を取得する際にカナダ代理人（Canadian Representative）を指定しなければなりません。当事務所はオタワのカナダ法律事務所 Smutylo Law+ で、2010年より海外メーカーのカナダ代理人を務めています。認証製品1件につき US$499（一回払い）。その製品がカナダ市場で販売されている間、代理人を継続して務めます。お支払い後当営業日内に署名済みの代理人証明書（PDF）を発行し、そのまま認証機関に提出いただけます。申込フォームは英語で、返信も英語で行います。[日本語ページ](/ja/) · [申し込む](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -31,7 +31,7 @@ The CB requests the applicant's ISED Company Number and the Canadian Representat
 
 **Long lifecycles.** Industrial equipment, medical devices, automotive components and imaging products from Japan stay on the Canadian market for many years, sometimes decades. RSP-100 requires the representative for as long as the product is offered for sale in Canada, so the question Japanese clients ask — what happens at the end of a term, and what happens if the representative closes — is exactly the right one. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/) and [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
 
-**Multiple certifications per programme.** Products with several radios, or families certified separately by band, mean several IC numbers and several letters. The [annual plan](/pricing/) suits manufacturers with a steady certification flow better than counting letters.
+**Multiple certifications per programme.** Products with several radios, or families certified separately by band, mean several IC numbers and several letters. Manufacturers with a steady certification flow usually put them on one consolidated [invoice](/pricing/) rather than paying letter by letter.
 
 **Entity naming.** Use the English legal name on the corporate registration, rendering "Kabushiki Kaisha" as "Co., Ltd." or "Corporation" consistently with the CB's application and the eventual REL listing. Inconsistency between the application and the letter is the most common cause of a return.
 
@@ -39,7 +39,7 @@ The CB requests the applicant's ISED Company Number and the Canadian Representat
 
 ## Payment and timing
 
-Card via Stripe in USD is immediate; wires from Japanese banks arrive in one to two banking days. A formal invoice in USD is provided, and purchase orders are accepted for annual plans. Ottawa is thirteen hours behind Tokyo for most of the year, so an order placed during the Japanese working day is handled overnight Japan time and the letter is normally in your inbox the next morning. We correspond in English.
+Card via Stripe in USD is immediate; wires from Japanese banks arrive in one to two banking days. A formal invoice in USD is provided, purchase orders are accepted, and several certifications can go on one invoice. Ottawa is thirteen hours behind Tokyo for most of the year, so an order placed during the Japanese working day is handled overnight Japan time and the letter is normally in your inbox the next morning. We correspond in English.
 
 ## Audit samples
 
@@ -50,9 +50,9 @@ Shipped from Japan to ISED's laboratory in Canada at the applicant's cost, docum
 
 Japanese-based bodies do not currently appear on ISED's list of recognized certification bodies. Check the list by entity name before assuming a familiar certification group can issue from its Japanese office. Testing at an ISED-recognized Japanese laboratory is unaffected.
 
-### What happens to our appointment after ten years?
+### How long does our appointment last?
 
-The per-certification fee covers a ten-year term. If the product is still offered on the Canadian market at that point, the appointment needs to continue, and we will contact you rather than let it lapse silently.
+For as long as the product is offered on the Canadian market. The US$499 fee is paid once and there is no renewal date, so the appointment cannot lapse through a missed renewal. Once a year we ask you to confirm which products are still on sale in Canada.
 
 ### What if your firm ceases to practise?
 

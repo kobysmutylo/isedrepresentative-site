@@ -10,7 +10,7 @@ order: 3
 ---
 
 <div class="native" lang="ko" markdown="1">
-**한국어 요약.** 캐나다 ISED(구 Industry Canada)의 RSP-100 제4.1조에 따라, 회사 주소가 캐나다 밖에 있는 신청인은 IC 인증(ISED 무선기기 인증)을 받을 때 캐나다 대리인(Canadian Representative)을 지정해야 합니다. 저희는 오타와 소재 캐나다 법률사무소 Smutylo Law+로, 2010년부터 해외 제조사의 캐나다 대리인을 맡고 있습니다. 인증 1건당 US$499(10년 임기) 또는 연 US$999로 건수 무제한이며, 결제 후 당일 영업일 내 서명된 대리인 확인서(PDF)를 발급하여 인증기관에 바로 제출하실 수 있습니다. 신청서는 영문이며 회신도 영문으로 드립니다. [한국어 페이지](/ko/) · [신청하기](/quote/)
+**한국어 요약.** 캐나다 ISED(구 Industry Canada)의 RSP-100 제4.1조에 따라, 회사 주소가 캐나다 밖에 있는 신청인은 IC 인증(ISED 무선기기 인증)을 받을 때 캐나다 대리인(Canadian Representative)을 지정해야 합니다. 저희는 오타와 소재 캐나다 법률사무소 Smutylo Law+로, 2010년부터 해외 제조사의 캐나다 대리인을 맡고 있습니다. 인증 제품 1건당 US$499(1회 결제)이며, 해당 제품이 캐나다 시장에서 판매되는 동안 대리인 관계가 유지됩니다. 결제 후 당일 영업일 내 서명된 대리인 확인서(PDF)를 발급하여 인증기관에 바로 제출하실 수 있습니다. 신청서는 영문이며 회신도 영문으로 드립니다. [한국어 페이지](/ko/) · [신청하기](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -29,7 +29,7 @@ Check any proposed CB against ISED's current list by entity name rather than by 
 
 **Large families, many HVINs.** Korean consumer-electronics and appliance makers certify wide model families. One letter covers every model under one IC number; ask for a reissue when models are added by permissive change and the paperwork needs to show them. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
-**Module makers.** Korean Wi-Fi, Bluetooth and cellular module manufacturers supply integrators worldwide. The module maker needs a representative for each module certification it holds; the integrators downstream do not need one for that module. Module makers with several products are the clearest case for the [annual plan](/pricing/). See [RF modules](/industries/rf-modules/).
+**Module makers.** Korean Wi-Fi, Bluetooth and cellular module manufacturers supply integrators worldwide. The module maker needs a representative for each module certification it holds; the integrators downstream do not need one for that module. Module makers with several products usually settle them on one consolidated [invoice](/pricing/). See [RF modules](/industries/rf-modules/).
 
 **Automotive tier-ones.** Korean telematics and infotainment suppliers certify in their own names for vehicle programmes that run a decade or more. The supplier, not the automaker, needs the representative, and the appointment has to outlast the programme — which is a different question from what it costs. See [automotive telematics](/industries/automotive-telematics/) and [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
@@ -52,7 +52,7 @@ Korean-based bodies do not currently appear on ISED's list of recognized certifi
 
 ### We certify dozens of models a year. Do we need a letter for each?
 
-One letter per IC number, not per model. A wide family under a single IC number takes one letter. At volume, the annual plan covers unlimited certifications for one applicant.
+One letter per IC number, not per model. A wide family under a single IC number takes one letter. At volume, several certifications can go on a single invoice.
 
 ### Our US subsidiary will be the applicant. Do we still need a representative?
 
@@ -60,7 +60,7 @@ Yes, if the applicant's address is in the United States rather than Canada. Sect
 
 ### The vehicle programme runs twelve years. Does the appointment cover that?
 
-It has to run as long as the product is offered on the Canadian market. The per-certification fee covers a ten-year term and we will contact you before it ends rather than letting it lapse.
+It has to run as long as the product is offered on the Canadian market, and that is exactly how the appointment is written. The US$499 fee is paid once and there is no renewal date to miss.
 
 ### Do you provide Korean-language documents?
 

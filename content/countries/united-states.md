@@ -35,9 +35,9 @@ That means the practical workflow is simple. One test campaign at a US laborator
 
 **Module makers.** A US module maker needs a representative for each module certification it holds; the integrators designing that module in do not need one for the module. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
-**Large certification programmes.** Companies certifying several products a year, or families split by band, find the [annual plan](/pricing/) cheaper than per-certification letters by the third or fourth file.
+**Large certification programmes.** Companies certifying several products a year, or families split by band, usually batch them onto one consolidated [invoice](/pricing/) rather than paying letter by letter.
 
-**Procurement.** US corporate procurement generally requires a vendor form and a W-8BEN-E for a foreign supplier; we provide both without being asked twice. Purchase orders are accepted for annual plans.
+**Procurement.** US corporate procurement generally requires a vendor form and a W-8BEN-E for a foreign supplier; we provide both without being asked twice. Purchase orders are accepted, and several certifications can go on one invoice.
 
 ## Payment and timing
 

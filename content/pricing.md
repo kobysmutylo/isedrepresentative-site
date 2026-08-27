@@ -1,59 +1,52 @@
 ---
-title: Pricing | ISED Canadian Representative | US$499 per Certification or US$999/Year
-description: Transparent pricing for ISED Canadian Representative service. US$499 one-time per certification with a ten-year appointment, or US$999 per year for unlimited certifications. Card or wire. No hidden fees.
+title: Pricing | ISED Canadian Representative | US$499 per Product
+description: US$499 per certified product, paid once. Canadian Representative for ISED certification for as long as the product is offered on the Canadian market.
 h1: Pricing
 type: pricing
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-Two options, both in US dollars, both all-inclusive. **US$499 per product certification**, one-time, for a ten-year appointment covering every model and HVIN under that IC number. Or **US$999 per year** for unlimited certifications while the plan is active. No setup fee, no per-enquiry charge, no fee when ISED asks us a question.
+**US$499 per certified product, paid once.** That fee appoints us as your Canadian Representative for one IC certification number — every model, HVIN and PMN listed under it — and keeps us in place for as long as the product is offered on the Canadian market, which is the period [RSP-100](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment) requires you to have a representative. There is no renewal date and no second invoice. No setup fee, no per-enquiry charge, no fee when ISED asks us a question.
 </div>
 
-<div class="grid2" markdown="1">
 <div class="tile" markdown="1">
-### Per certification
-<p class="price">US$499 <small>one-time</small></p>
+### Per certified product
+<p class="price">US$499 <small>paid once</small></p>
 
+- Canadian Representation for as long as the product is offered on the Canadian market
 - One IC certification number, all listed models, HVINs and PMNs
-- Ten-year appointment from the date of the letter
 - Signed attestation letter the same business day
 - ISED enquiry handling and audit sample coordination included
 - Free revisions within 90 days of issue
+- No renewal date, no second invoice
 
 <a class="btn btn-primary" href="/quote/">Order a letter</a>
 </div>
-<div class="tile" markdown="1">
-### Annual plan
-<p class="price">US$999 <small>per year</small></p>
 
-- Unlimited certifications filed while the plan is active
-- Same-business-day letters for every new product
-- One invoice a year; purchase orders accepted
-- Ideal for three or more certifications per year, or for labs and CBs ordering on behalf of clients
-- Revisions free within 90 days of issue
+## Certifying several products a year?
 
-<a class="btn btn-primary" href="/quote/">Start an annual plan</a>
-</div>
-</div>
-
-## How to choose
-
-If you certify one or two products a year, pay per certification. If you expect three or more, the annual plan is cheaper on the second product and removes the purchasing friction for each new filing. Laboratories and certification bodies that order letters for several foreign clients usually take the annual plan and bill their clients directly; see [for labs and certification bodies](/for-labs-and-certification-bodies/).
+The fee is US$499 per certification however many you file. If it helps your purchasing team, we can work to a purchase order or set up a single consolidated invoice covering several certifications instead of paying one at a time — the price is the same either way. Laboratories and certification bodies ordering letters for several foreign clients usually do this and bill their clients directly; see [for labs and certification bodies](/for-labs-and-certification-bodies/).
 
 ## Payment
 
-Card payments through Stripe (Visa, Mastercard, American Express, and most regional cards) clear immediately and the letter issues the same business day. Wire transfers are accepted and the letter issues when funds arrive, typically one to three banking days. We invoice in US dollars; Canadian-dollar invoices are available on request for Canadian-billed entities. Purchase orders are accepted for annual plans.
+Card payments through Stripe (Visa, Mastercard, American Express, and most regional cards) clear immediately and the letter issues the same business day. Wire transfers are accepted and the letter issues when funds arrive, typically one to three banking days. We invoice in US dollars; Canadian-dollar invoices are available on request for Canadian-billed entities. Purchase orders are accepted.
 
-## Revisions and renewals
+## Revisions
 
-Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 90 days of issue. After 90 days a revision is treated as a new request at the standard per-certification fee (no extra charge for annual-plan clients). Use the [revision form](/revise/). Renewal at the end of a ten-year term is a new per-certification order at the then-current fee, and we contact you ahead of expiry if the product is still on the market.
+Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 90 days of issue. After 90 days a revision is treated as a new request at the standard fee. Use the [revision form](/revise/).
+
+There is nothing to renew. An appointment you have paid for continues for as long as the product is offered on the Canadian market, on the [terms of service](/terms/).
 
 ## Why we publish the price
 
 Our fee is the same for every client and every product, so there is nothing to negotiate and no reason to make you ask. It also lets your lab or CB put a firm number in their project quote.
 
 <!--faq-->
+### Is there an annual fee or a renewal fee?
+
+No. US$499 is paid once per certified product and covers Canadian Representation for that certification for as long as the product is offered on the Canadian market. There is no annual fee, no renewal date and no second invoice.
+
 ### Is there a fee if ISED contacts you about my product?
 
 No. Responding to ISED enquiries and coordinating audit samples is part of the appointment. You pay for the sample and its shipping, as RSP-100 requires, not for our time.
@@ -62,9 +55,9 @@ No. Responding to ISED enquiries and coordinating audit samples is part of the a
 
 No. One certification number, one fee, regardless of how many models or HVINs it covers.
 
-### Does the annual plan cover certifications filed before I subscribed?
+### What if the product is discontinued?
 
-No. It covers certifications for which a letter is issued while the plan is active. Earlier per-certification appointments continue on their own ten-year terms.
+Tell us and the appointment ends. We ask clients once a year to confirm which certified products are still offered on the Canadian market, so the file closes when the product does.
 
 ### Is tax added?
 

@@ -1,15 +1,15 @@
 ---
 title: Leistungsumfang kanadischer ISED-Vertreter | RSP-100 Abs. 4.1 | Schreiben, ISED-Anfragen, Prüfmuster
-description: Was unsere Leistung als kanadischer ISED-Vertreter umfasst: das unterzeichnete RSP-100-Bestätigungsschreiben, Bearbeitung von ISED-Anfragen, Koordination von Prüfmustern und eine zehnjährige oder jährliche Bestellung. Von einem Rechtsanwalt in Ontario seit 2010.
+description: Leistungsumfang: Bestätigungsschreiben, ISED-Anfragen, Prüfmuster, US$ 499 je zertifiziertem Produkt, einmalig. Von einem Rechtsanwalt in Ontario seit 2010.
 h1: Die Leistung als kanadischer Vertreter, vollständig
 short: Leistung
 type: service
 translation_of: /canadian-representative-service/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-Wir sind der kanadische Vertreter, der in Ihrem ISED-Zertifizierungsantrag benannt wird, wie RSP-100 Abs. 4.1 es für Antragsteller mit Sitz außerhalb Kanadas verlangt. Sie erhalten am selben Werktag ein unterzeichnetes Bestätigungsschreiben, und für die Dauer der Bestellung sind wir der kanadische Ansprechpartner für ISED und Ihre Zertifizierungsstelle zu diesem Produkt. Preis: US$ 499 je Zertifizierung (zehn Jahre) oder US$ 999 pro Jahr unbegrenzt.
+Wir sind der kanadische Vertreter, der in Ihrem ISED-Zertifizierungsantrag benannt wird, wie RSP-100 Abs. 4.1 es für Antragsteller mit Sitz außerhalb Kanadas verlangt. Sie erhalten am selben Werktag ein unterzeichnetes Bestätigungsschreiben, und für die Dauer der Bestellung sind wir der kanadische Ansprechpartner für ISED und Ihre Zertifizierungsstelle zu diesem Produkt. Preis: US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird.
 </div>
 
 ## Die regulatorische Rolle, die wir übernehmen
@@ -37,9 +37,9 @@ Praktisch heißt das: eine kanadische Anschrift und ein erreichbarer kanadischer
 
 Prüfung, Einreichung der Zertifizierung, Eintragung in die Radio Equipment List von ISED, Kennzeichnungsprüfung oder technische Konformitätsberatung. Das sind Aufgaben Ihres Labors und Ihrer Zertifizierungsstelle; wir arbeiten mit beiden zusammen.
 
-## Laufzeit und Verlängerung
+## Laufzeit
 
-Die Bestellung je Zertifizierung läuft zehn Jahre ab Datum des Schreibens. ISED verlangt einen Vertreter, solange das Produkt in Kanada angeboten wird; ist Ihres nach zehn Jahren noch im Verkauf, melden wir uns vor Ablauf mit einer Verlängerung zum dann gültigen Preis je Zertifizierung. Der Jahresplan deckt jede Zertifizierung ab, die Sie während seiner Laufzeit einreichen.
+Die Bestellung gilt, solange das Produkt auf dem kanadischen Markt angeboten wird – genau der Zeitraum, für den RSP-100 einen Vertreter verlangt. Die Gebühr von US$ 499 wird einmal gezahlt; es gibt keinen Verlängerungstermin und keine zweite Rechnung. Einmal im Jahr fragen wir nach, welche zertifizierten Produkte noch auf dem kanadischen Markt angeboten werden; teilen Sie uns die Einstellung eines Produkts mit, schließen wir die Bestellung für diese Zertifizierung ab.
 
 ## Wer die Leistung erbringt
 

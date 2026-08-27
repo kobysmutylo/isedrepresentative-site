@@ -23,7 +23,7 @@ Everything under the IC number: the PMN (product marketing name), the HVIN (hard
 
 ## When you need a new letter
 
-A new IC certification number. That happens with a genuinely new product, with a change significant enough that the CB requires a new certification rather than a permissive change, or when a new legal entity becomes the certificate holder (a transfer, covered in [changing your Canadian Representative](/guides/changing-your-canadian-representative/)). For applicants with several products a year, this is why the [annual plan](/pricing/) exists.
+A new IC certification number. That happens with a genuinely new product, with a change significant enough that the CB requires a new certification rather than a permissive change, or when a new legal entity becomes the certificate holder (a transfer, covered in [changing your Canadian Representative](/guides/changing-your-canadian-representative/)). Applicants filing several a year can put them on a single [invoice](/pricing/).
 
 ## Product families
 
@@ -35,7 +35,7 @@ A certified RF module has its own IC number held by the module manufacturer. The
 
 ## Several certifications, one company
 
-Each certification gets its own letter, but the appointment terms run independently, each for ten years from its letter date. Under an annual plan all letters issued while the plan is active are covered. Keep a register of IC numbers and letter dates; we keep one too and will send it on request.
+Each certification gets its own letter, and each appointment runs independently for as long as that product is offered on the Canadian market. Keep a register of IC numbers and letter dates; we keep one too and will send it on request.
 
 ## Terminal equipment
 
@@ -56,5 +56,5 @@ Whoever is the applicant on the certification. If you certify and the customer r
 
 ### Can one letter list several IC numbers?
 
-It can, but most CBs prefer one per certification file. We issue separate letters at no extra cost under the annual plan, and per certification otherwise.
+It can, but most CBs prefer one per certification file. We issue a separate letter per certification at the standard fee.
 <!--/faq-->
