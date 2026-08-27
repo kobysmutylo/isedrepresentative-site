@@ -1,10 +1,10 @@
 ---
 title: Kanadischer Vertreter für die ISED-Zertifizierung | IC-Zertifizierung | Bestätigungsschreiben am selben Werktag | US$ 499
-description: Kanadische Anwaltskanzlei als kanadischer Vertreter (Canadian Representative) für die ISED-Funkzulassung (früher Industry Canada, RSP-100 Abs. 4.1). Seit 2010. US$ 499 je Zertifizierung (10 Jahre) oder US$ 999 pro Jahr unbegrenzt. Unterzeichnetes Schreiben am selben Werktag.
+description: Kanadischer Vertreter (Canadian Representative) für die ISED-Funkzulassung nach RSP-100 Abs. 4.1, seit 2010. US$ 499 je zertifiziertem Produkt, einmalig.
 h1: Kanadischer Vertreter für die ISED- / IC-Zertifizierung von Funkgeräten
 type: page
 translation_of: /
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="hero" markdown="1">
@@ -13,8 +13,8 @@ updated: 2026-08-20
 <p><a class="btn btn-primary" href="/quote/">Bestätigungsschreiben anfordern</a> <a class="btn" href="/de/how-it-works/">So funktioniert es</a></p>
 
 <ul class="facts">
-<li><b>US$ 499</b>je Zertifizierung, 10 Jahre</li>
-<li><b>US$ 999/Jahr</b>unbegrenzt viele Zertifizierungen</li>
+<li><b>US$ 499</b>je zertifiziertem Produkt, einmalig</li>
+<li><b>Laufzeit</b>solange das Produkt auf dem kanadischen Markt angeboten wird</li>
 <li><b>Am selben Tag</b>unterzeichnetes PDF an Werktagen</li>
 <li><b>Seit 2010</b>Anwalt (Ontario)</li>
 </ul>
@@ -40,7 +40,7 @@ Die Rolle des Vertreters ist eine dauerhafte rechtliche Verpflichtung, kein einm
 
 ## Preise, klar benannt
 
-Zwei Optionen. **US$ 499 je Produktzertifizierung**, einmalig, für eine zehnjährige Bestellung zu dieser IC-Zertifizierungsnummer (einschließlich aller darunter geführten Modelle und HVINs). Oder **US$ 999 pro Jahr** für unbegrenzt viele Zertifizierungen während der Laufzeit, die bessere Wahl ab drei Zertifizierungen im Jahr. Änderungen an einem bestehenden Schreiben (neue Modellnummer, korrigierte Anschrift) sind in den ersten 90 Tagen kostenlos. Sonst nichts. [Alle Preise](/de/pricing/).
+**US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird.** Mit dieser Gebühr bestellen Sie uns für eine IC-Zertifizierungsnummer einschließlich aller darunter geführten Modelle und HVINs, und zwar für genau den Zeitraum, für den RSP-100 einen Vertreter verlangt. Keine Verlängerung, keine zweite Rechnung. Änderungen an einem bestehenden Schreiben (neue Modellnummer, korrigierte Anschrift) sind in den ersten 90 Tagen kostenlos. Sonst nichts. [Alle Preise](/de/pricing/).
 
 ## Unsere Kunden
 
@@ -51,9 +51,9 @@ Wir vertreten Hersteller von Unterhaltungselektronik, intelligenten Zählern, Ge
 ## Ablauf
 
 1. **Produktdaten übermitteln.** Firma und Anschrift, ISED-Firmennummer (falls vorhanden), Ansprechpartner, IC-Nummer, PMN, HVIN und Modelle. Zwei Minuten im [Formular](/quote/) (Englisch).
-2. **Per Karte oder Überweisung zahlen.** Sie erhalten einen Stripe-Zahlungslink per E-Mail. Rechnung und Bestellung sind beim Jahresplan möglich.
+2. **Per Karte oder Überweisung zahlen.** Sie erhalten einen Stripe-Zahlungslink per E-Mail. Rechnungen und Bestellungen (PO) sind möglich, und mehrere Zertifizierungen können auf einer Rechnung zusammengefasst werden.
 3. **Unterzeichnetes Schreiben erhalten.** Am selben Werktag, Eastern Time. An Ihre CB weiterleiten oder mit dem Antrag hochladen.
-4. **Wir bleiben hinterlegt.** Zehn Jahre lang, oder für die Dauer Ihres Jahresplans, beantworten wir ISED-Anfragen und koordinieren Prüfmuster.
+4. **Wir bleiben hinterlegt.** Solange das Produkt auf dem kanadischen Markt angeboten wird, beantworten wir ISED-Anfragen und koordinieren Prüfmuster.
 
 [Ablauf mit Zeitangaben](/de/how-it-works/)
 
@@ -70,11 +70,11 @@ Am selben Werktag nach Zahlungseingang, Ottawa-Zeit. Kartenzahlungen über Strip
 
 ### Brauche ich für jedes Produkt ein eigenes Schreiben?
 
-Ein Schreiben je IC-Zertifizierungsnummer. Alle Modelle, HVINs und PMNs dieser Zertifizierung sind im selben Schreiben enthalten. Eine neue Zertifizierungsnummer braucht ein neues Schreiben; dafür gibt es den Jahresplan.
+Ein Schreiben je IC-Zertifizierungsnummer. Alle Modelle, HVINs und PMNs dieser Zertifizierung sind im selben Schreiben enthalten. Eine neue Zertifizierungsnummer braucht ein neues Schreiben zu US$ 499. Reichen Sie mehrere ein, können sie auf einer Rechnung zusammengefasst werden.
 
 ### Wie lange gilt die Bestellung?
 
-Die Bestellung je Zertifizierung läuft zehn Jahre ab Datum des Schreibens. ISED verlangt einen gültigen Vertreter, solange das Produkt in Kanada verkauft wird; ist es nach zehn Jahren noch auf dem Markt, verlängern Sie.
+Solange Ihr Produkt auf dem kanadischen Markt angeboten wird. RSP-100 verlangt vom Antragsteller, für diesen gesamten Zeitraum einen gültigen Antrag und Vertrag über Zertifizierungsdienstleistungen zu unterhalten, der einen kanadischen Vertreter benennen muss – die Bestellung ist entsprechend ausgestaltet. Die US$ 499 werden einmal gezahlt; einen Verlängerungstermin gibt es nicht.
 
 ### Sind IC-Zertifizierung und ISED-Zertifizierung dasselbe?
 

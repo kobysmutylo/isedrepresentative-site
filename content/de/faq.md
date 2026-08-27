@@ -5,7 +5,7 @@ h1: Kanadischer ISED-Vertreter: häufig gestellte Fragen
 short: FAQ
 type: faq
 translation_of: /faq/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -73,7 +73,7 @@ Ja, ohne Aufpreis. Mehrere CBs und FCBs bevorzugen ihr eigenes Formular.
 <!--faq-->
 ### Wie lange gilt die Bestellung?
 
-Unsere Bestellung je Zertifizierung läuft zehn Jahre ab Datum des Schreibens. RSP-100 verlangt einen Vertreter, „solange das zertifizierte Produkt auf dem kanadischen Markt angeboten wird“; ein nach zehn Jahren noch verkauftes Produkt braucht eine Verlängerung. Der Jahresplan deckt alle während seiner Laufzeit eingereichten Zertifizierungen ab.
+Solange das Produkt auf dem kanadischen Markt angeboten wird. RSP-100 verlangt vom Antragsteller, für diesen gesamten Zeitraum einen gültigen Antrag und Vertrag über Zertifizierungsdienstleistungen zu unterhalten, der einen kanadischen Vertreter benennen muss; unsere Bestellung ist entsprechend ausgestaltet. Die US$ 499 werden einmal gezahlt; einen Verlängerungstermin gibt es nicht.
 
 ### Was geschieht, wenn ISED sich wegen meines Produkts an Sie wendet?
 
@@ -97,11 +97,11 @@ Informieren Sie uns und Ihre CB. Eine Umbenennung derselben Rechtsperson ist ein
 <!--faq-->
 ### Was kostet es?
 
-US$ 499 je Zertifizierung für eine zehnjährige Bestellung oder US$ 999 pro Jahr unbegrenzt. Keine weiteren Gebühren. Siehe [Preise](/de/pricing/).
+US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird. Keine weiteren Gebühren. Siehe [Preise](/de/pricing/).
 
 ### Wie zahle ich?
 
-Karte über Stripe oder Überweisung. Bestellungen (PO) beim Jahresplan möglich.
+Karte über Stripe oder Überweisung. Bestellungen (PO) werden angenommen, und mehrere Zertifizierungen können auf einer Rechnung zusammengefasst werden.
 
 ### Berechnen Sie etwas, wenn ISED eine Frage stellt oder ein Muster anfordert?
 

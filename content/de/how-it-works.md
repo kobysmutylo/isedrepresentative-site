@@ -5,11 +5,11 @@ h1: Ablauf: vom Formular zum unterzeichneten Schreiben an einem Werktag
 short: Ablauf
 type: howto
 translation_of: /how-it-works/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-Übermitteln Sie Produkt- und Firmendaten, zahlen Sie per Karte oder Überweisung und erhalten Sie das unterzeichnete Bestätigungsschreiben als PDF am selben Werktag. Danach bleiben wir zehn Jahre lang (oder für die Laufzeit Ihres Jahresplans) der kanadische Ansprechpartner für diese Zertifizierung, beantworten ISED-Anfragen und koordinieren Prüfmuster.
+Übermitteln Sie Produkt- und Firmendaten, zahlen Sie per Karte oder Überweisung und erhalten Sie das unterzeichnete Bestätigungsschreiben als PDF am selben Werktag. Danach bleiben wir der kanadische Ansprechpartner für diese Zertifizierung, solange das Produkt auf dem kanadischen Markt angeboten wird, beantworten ISED-Anfragen und koordinieren Prüfmuster.
 </div>
 
 ## Schritt 1: Produktdaten übermitteln
@@ -18,7 +18,7 @@ Füllen Sie das [Formular](/quote/) (Englisch) aus. Wir benötigen Firma und Ans
 
 ## Schritt 2: Per Karte oder Überweisung zahlen
 
-Wir senden per E-Mail einen Stripe-Zahlungslink über US$ 499 je Zertifizierung oder eine Rechnung über US$ 999 für den Jahresplan. Kartenzahlungen werden sofort gebucht; bei Überweisung wird das Schreiben bei Geldeingang ausgestellt. Bestellungen (PO) beim Jahresplan möglich.
+Wir senden per E-Mail einen Stripe-Zahlungslink über US$ 499 je Zertifizierung, einmalig. Kartenzahlungen werden sofort gebucht; bei Überweisung wird das Schreiben bei Geldeingang ausgestellt. Bestellungen (PO) werden angenommen, und mehrere Zertifizierungen können auf einer Rechnung zusammengefasst werden.
 
 ## Schritt 3: Unterzeichnetes Schreiben erhalten
 
@@ -26,7 +26,7 @@ Am selben Werktag (Eastern Time) erhalten Sie ein unterzeichnetes PDF auf Briefp
 
 ## Schritt 4: Wir bleiben für die Laufzeit hinterlegt
 
-Zehn Jahre ab Datum des Schreibens sind wir der kanadische Vertreter für diese Zertifizierung. Wendet sich ISED oder Ihre CB wegen des Produkts an uns, informieren wir Sie am selben Werktag und koordinieren die Antwort. Wird ein Prüfmuster angefordert, organisieren wir den Versand mit Ihnen. Neue Modelle oder geänderte Firmendaten melden Sie über das [Änderungsformular](/revise/).
+Wir bleiben der kanadische Vertreter für diese Zertifizierung, solange das Produkt auf dem kanadischen Markt angeboten wird. Wendet sich ISED oder Ihre CB wegen des Produkts an uns, informieren wir Sie am selben Werktag und koordinieren die Antwort. Wird ein Prüfmuster angefordert, organisieren wir den Versand mit Ihnen. Neue Modelle oder geänderte Firmendaten melden Sie über das [Änderungsformular](/revise/).
 
 ## Zeitablauf in der Praxis
 
@@ -41,7 +41,7 @@ Werktage sind Montag bis Freitag in Ottawa ohne gesetzliche Feiertage Ontarios.
 <!--faq-->
 ### Kann mein Prüflabor oder meine Zertifizierungsstelle für mich bestellen?
 
-Ja, viele tun das. Das Schreiben nennt weiterhin Sie als Antragsteller. Labore und CBs mit mehreren ausländischen Kunden wählen meist den [Jahresplan](/de/pricing/).
+Ja, viele tun das. Das Schreiben nennt weiterhin Sie als Antragsteller. Labore und CBs mit mehreren ausländischen Kunden lassen die Schreiben meist über eine [Sammelrechnung](/de/pricing/) abrechnen; der Preis bleibt US$ 499 je Zertifizierung.
 
 ### Was, wenn ich noch keine ISED-Firmennummer habe?
 
