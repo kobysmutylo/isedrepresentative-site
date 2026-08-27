@@ -27,9 +27,15 @@ The practical effect for a Taiwanese manufacturer is usually invisible: you deal
 
 Either way, the CB asks for the applicant's ISED Company Number and the Canadian Representative letter before it will issue.
 
-## What we see from Taiwanese applicants
+## When the ODM certifies and the brand sells
 
-**ODMs certifying for global brands.** Taiwan's ODMs often hold certifications in their own name for products sold under a customer's brand. The ODM is the applicant and needs the representative. Where the brand owner later takes over the certificate, that is a transfer; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
+Taiwan's ODM industry produces a pattern that catches out anyone used to Western supply chains: the company whose name is on the box is frequently not the applicant on the ISED file.
+
+Where the ODM holds the certification in its own name, which is the usual arrangement for products built to a customer's specification, the ODM is the applicant and the ODM needs the representative. The brand owner needs nothing for that certification. Where the brand certifies in its own name instead, the position reverses. It is never both, and the answer turns on whose name goes on the application rather than whose logo goes on the product.
+
+The arrangement sometimes changes mid-life, when a brand owner takes over a certification it originally obtained through its ODM. That is a transfer of the certificate rather than a change of name, and the new holder needs its own appointment. See [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
+
+## What we see from Taiwanese applicants
 
 **Module makers.** Taiwan is a major source of Wi-Fi, Bluetooth and cellular modules used worldwide. Each module certification needs its own representative letter from the module maker, and the dozens of integrators downstream need nothing for that module. Module makers with many products usually settle several certifications on one [invoice](/pricing/); see [RF modules](/industries/rf-modules/).
 
@@ -68,9 +74,9 @@ The appointment runs for as long as the certified product is offered on the Cana
 
 Yes. We need the applicant's exact legal name and address and the ISED Company Number; the IC number can follow. Ordering at application is the point.
 
-### Do you charge to add a model or correct the letter?
+### We add models to a certified module all the time. Does each one cost?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. Model and HVIN additions under an existing IC number are revisions, and revisions are free however many you ask for and however long after issue. That is the ordinary pattern for a Taiwanese module maker whose customer list keeps growing. What is not a revision is a second IC certification number, which is a separate certification with its own letter at US$499.
 
 <!--/faq-->
 

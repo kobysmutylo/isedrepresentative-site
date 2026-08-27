@@ -35,9 +35,9 @@ Indian teams familiar with WPC Equipment Type Approval and BIS registration usua
 
 **Procurement documentation.** Vendor registration forms, a pro-forma invoice and supplier declarations are provided on request.
 
-## Paying from India
+## The remittance bottleneck
 
-This is the part that delays Indian orders more than anything technical.
+This is the part that delays Indian orders more than anything technical does.
 
 Outward remittance from India requires an invoice and, for most banks, Form 15CA and a chartered accountant's Form 15CB before the transfer is released. That process can add a week to a file that otherwise takes a day. We provide a USD invoice and whatever supplier declaration your bank asks for.
 
@@ -72,9 +72,9 @@ Yes. One letter covers one certification, including every model listed under tha
 
 Pay by card in USD through Stripe. Card payment is treated as a card transaction rather than an outward remittance, which is why most Indian clients use it for the per-certification fee.
 
-### Do you charge to add a model or correct the letter?
+### Will corrections mean another remittance?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. Revisions carry no fee, so there is nothing further to remit: added models or HVINs under the same IC number, a corrected applicant name or address, or a reissued letter, with no time limit and no cap on how many. Only a new IC certification number is a separate certification, at US$499.
 
 <!--/faq-->
 

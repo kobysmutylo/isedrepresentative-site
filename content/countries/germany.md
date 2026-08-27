@@ -74,9 +74,9 @@ No. Models added under an existing IC number are covered by the existing letter.
 
 The obligation runs while the product is offered on the Canadian market. Tell us when a product is withdrawn and we will close the appointment for that certification.
 
-### Do you charge to add a model or correct the letter?
+### Our group entity names change. Does a corrected letter cost anything?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. A corrected applicant name or address, an added model under the same IC number, or a reissued letter is free, with no time limit and no cap on how many you request. Where certifications move between group entities, note that the appointment is personal to the applicant named in the order and a transfer needs a new appointment; see the entity question above. A new IC certification number is a separate certification at US$499.
 
 <!--/faq-->
 
