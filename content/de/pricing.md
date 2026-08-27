@@ -40,11 +40,11 @@ Kartenzahlung über Stripe (Visa, Mastercard, American Express, die meisten Firm
 
 Die einzige Grenze ist die Zertifizierungsnummer: Eine Änderung erfasst Änderungen unter derselben IC-Zertifizierungsnummer. Eine neue IC-Nummer ist eine neue Zertifizierung und erfordert eine eigene Bestellung zu US$ 499.
 
-Eine einmal bezahlte Bestellung besteht fort, solange das Produkt auf dem kanadischen Markt angeboten wird. Es gibt nichts zu verlängern.
+Es gibt nichts zu verlängern: Eine einmal bezahlte Bestellung besteht fort, solange das Produkt auf dem kanadischen Markt angeboten wird.
 
 ## Warum wir den Preis veröffentlichen
 
-Die meisten Anbieter in diesem Markt nennen Preise nur auf Anfrage. Unser Honorar ist für jeden Kunden und jedes Produkt gleich; es gibt nichts zu verhandeln und keinen Grund, Sie fragen zu lassen. Außerdem kann Ihr Labor oder Ihre CB eine feste Zahl in das Projektangebot übernehmen.
+Unser Honorar ist für jeden Kunden und jedes Produkt gleich; es gibt nichts zu verhandeln und keinen Grund, Sie fragen zu lassen. Außerdem kann Ihr Labor oder Ihre CB eine feste Zahl in das Projektangebot übernehmen.
 
 <!--faq-->
 ### Berechnen Sie Änderungen?
