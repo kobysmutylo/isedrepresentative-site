@@ -5,7 +5,7 @@ h1: Does each IC ID need a separate Canadian Representative letter?
 short: One letter per IC ID
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-27
 order: 05
 ---
 
@@ -19,7 +19,7 @@ RSP-100 section 4.1 ties the representative to the "certified product(s)" on the
 
 ## What one letter covers
 
-Everything under the IC number: the PMN (product marketing name), the HVIN (hardware version identification number), and every model number the CB has accepted as part of the certification, including models added later by permissive change under RSP-100 section 10 that keep the same IC number. If you add models, ask us to reissue the letter with the updated list (free within 90 days; after that treated as a new request); the appointment itself is unchanged.
+Everything under the IC number: the PMN (product marketing name), the HVIN (hardware version identification number), and every model number the CB has accepted as part of the certification, including models added later by permissive change under RSP-100 section 10 that keep the same IC number. If you add models, ask us to reissue the letter with the updated list — free, with no time limit and no cap on how many times you ask; the appointment itself is unchanged.
 
 ## When you need a new letter
 
