@@ -35,7 +35,7 @@ A signed attestation letter in PDF, on law-firm letterhead, containing every fie
 
 ## Why a lawyer rather than a lab or consultant
 
-The representative role is a standing legal commitment, not a one-time document. Three things follow from having a regulated law firm hold it. First, continuity: law firms are bound by professional rules on client files and successor arrangements, so the appointment does not evaporate when a consultant retires or a lab is acquired. Second, confidentiality: product details and ISED correspondence sit inside a lawyer-client relationship governed by the Law Society of Ontario. Third, independence: we do not test, certify or compete with your lab or CB, so labs and certification bodies refer clients to us without conflict. More in [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
+The representative role is a standing legal commitment rather than a one-time document, and that shapes who ought to hold it. Law societies require lawyers to arrange for the continuity of client files on retirement, incapacity or death, so an appointment does not quietly evaporate when a consultant winds down or a lab is acquired. Product details and ISED correspondence sit inside a lawyer-client relationship governed by the Law Society of Ontario. And because we do not test, certify or compete for compliance work, a lab or CB can refer a client to us without handing that client to a competitor. More in [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
 
 ## Pricing, stated plainly
 

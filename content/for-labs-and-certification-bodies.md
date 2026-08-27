@@ -4,16 +4,16 @@ description: How laboratories and certification bodies refer foreign clients for
 h1: For test laboratories and certification bodies
 short: For labs and CBs
 type: page
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
 If your foreign clients need a Canadian Representative for ISED certification, refer them to us or order on their behalf. We sign your template or ours, turn letters around the same business day, never compete with you for testing or certification work, and hold the appointment for the full term so the question does not come back to you.
 </div>
 
-## Why labs and CBs refer to us
+## What a referral involves
 
-We are independent. Smutylo Law+ does not test, certify, list or consult on technical compliance, so there is no risk that a referral sends your client to a competitor. We are regulated: a law firm's professional obligations give your client confidentiality and continuity that a consultancy cannot promise. We are fast: your project manager submits the form, the letter issues the same business day in Ottawa, and your certificate is not delayed by the representative. And we are predictable: a fixed published price (US$499 per certified product, paid once) that you can drop into your own project quote.
+Smutylo Law+ does not test, certify, list or consult on technical compliance, so a referral never sends your client to a competitor. Because the appointment sits with a law firm, your client gets confidentiality and file-continuity obligations that a consultancy is not in a position to offer. Turnaround is the same business day in Ottawa once your project manager submits the form, which keeps the representative letter off the critical path for your certificate. And the fee is fixed and published — US$499 per certified product, paid once — so you can put a firm number into your own project quote.
 
 ## Two ways to work with us
 
