@@ -5,11 +5,11 @@ h1: ISED 캐나다 대리인: 자주 묻는 질문
 short: FAQ
 type: faq
 translation_of: /faq/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-짧은 답변을 먼저 드리고 상세 가이드(영문) 링크를 붙였습니다. 본 페이지의 모든 규정 관련 서술은 별도 표시가 없는 한 [RSP-100 제12판](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment) 제4.1조에서 가져왔습니다.
+저희는 인증 제품 1건당 US$499, 1회 결제 — 해당 제품이 캐나다 시장에서 판매되는 동안 캐나다 대리인으로 활동합니다. 짧은 답변을 먼저 드리고 상세 가이드(영문) 링크를 붙였습니다. 본 페이지의 모든 규정 관련 서술은 별도 표시가 없는 한 [RSP-100 제12판](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment) 제4.1조에서 가져왔습니다.
 </div>
 
 ## 요건
@@ -73,7 +73,7 @@ IC 인증번호당 1부. 해당 번호로 인증된 모든 모델, HVIN, PMN이 
 <!--faq-->
 ### 지정은 얼마나 지속됩니까?
 
-건당 지정은 확인서 발급일로부터 10년입니다. RSP-100은 "인증 제품이 캐나다 시장에서 판매되는 동안" 대리인을 유지하도록 요구하므로 10년 후에도 판매 중인 제품은 갱신이 필요합니다. 연간 플랜은 유효 기간 중 신청한 모든 인증을 포함합니다.
+해당 제품이 캐나다 시장에서 판매되는 동안 지속됩니다. RSP-100은 신청인이 그 기간 내내 유효한 인증 서비스 신청 및 계약을 유지하도록 요구하고, 그 계약에는 캐나다 대리인이 기재되어야 합니다. 저희 지정은 그 기간에 맞추어 작성됩니다. US$499는 한 번만 결제하며 갱신 기한이 없습니다.
 
 ### ISED가 제 제품에 관해 연락하면 어떻게 됩니까?
 
@@ -97,11 +97,11 @@ CB에 통지해 인증 기록을 갱신하고 새 대리인이 새 확인서를 
 <!--faq-->
 ### 비용은 얼마입니까?
 
-인증 1건당 US$499(10년 임기) 또는 연 US$999 무제한. 다른 비용은 없습니다. [요금](/ko/pricing/) 참조.
+인증 제품 1건당 US$499, 1회 결제 — 해당 제품이 캐나다 시장에서 판매되는 동안 캐나다 대리인으로 활동합니다. 다른 비용은 없습니다. [요금](/ko/pricing/) 참조.
 
 ### 결제 방법은?
 
-Stripe 카드 또는 송금. 연간 플랜은 구매주문서 가능.
+Stripe 카드 또는 송금. 구매주문서도 받으며, 여러 건의 인증을 한 장의 송장으로 묶을 수 있습니다.
 
 ### ISED가 질문하거나 샘플을 요청하면 비용이 듭니까?
 
