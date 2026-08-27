@@ -30,7 +30,6 @@ PERSON = "Koby Smutylo"
 PHONE = "+1-613-869-5440"
 EMAIL = "info@isedrepresentative.com"
 PRICE_PER = "499"
-PRICE_ANNUAL = "999"
 GA4 = os.environ.get("GA4_ID", "")  # set to G-XXXX when the property exists
 INDEXNOW_KEY = os.environ.get("INDEXNOW_KEY", "9279a62d1caf98dfc70863bfef70cf17")
 
@@ -85,7 +84,7 @@ ORG_JSON = {
     "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": PHONE, "email": EMAIL,
                      "areaServed": "Worldwide", "availableLanguage": ["English"],
                      "hoursAvailable": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "17:00"}},
-    "priceRange": "$499 - $999 USD",
+    "priceRange": "$499 USD",
     "sameAs": [
         "https://lawyercorporation.ca/canadian-representative/",
         "https://www.linkedin.com/in/koby-smutylo-businesslaw",
@@ -104,10 +103,9 @@ SERVICE_JSON = {
     "url": SITE + "/canadian-representative-service/",
     "termsOfService": SITE + "/terms/",
     "offers": [
-        {"@type": "Offer", "name": "Per-certification appointment (10-year term)", "price": PRICE_PER,
-         "priceCurrency": "USD", "url": SITE + "/pricing/", "availability": "https://schema.org/InStock"},
-        {"@type": "Offer", "name": "Annual plan, unlimited certifications", "price": PRICE_ANNUAL,
-         "priceCurrency": "USD", "url": SITE + "/pricing/", "availability": "https://schema.org/InStock"},
+        {"@type": "Offer", "name": "Canadian Representative appointment, per certified product", "price": PRICE_PER,
+         "priceCurrency": "USD", "url": SITE + "/pricing/", "availability": "https://schema.org/InStock",
+         "description": "One payment per certified product. The appointment continues for as long as the product is offered on the Canadian market."},
     ],
 }
 
@@ -115,43 +113,43 @@ SERVICE_JSON = {
 LSO = "https://lsodirectory.lso.ca/en-US/licensee-detail/?lawsocietynumber=44441E"
 LANGS = {
     "en": dict(html="en-CA", og="en_CA", name="English", home="Home", nav=[("/canadian-representative-service/","Service"),("/pricing/","Pricing"),("/guides/","Guides"),("/updates/","Updates"),("/faq/","FAQ"),("/about/","About"),("/contact/","Contact")],
-               cta_btn="Request your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certification (10-year appointment) or US ${ann} per year for unlimited certifications. Every request is reviewed personally by Koby Smutylo before the signed PDF is issued, the same business day. Prefer email? Write to <a href=\"mailto:info@isedrepresentative.com\">info@isedrepresentative.com</a>.", cta_price="See pricing",
+               cta_btn="Request your letter", cta_h="Need your attestation letter today?", cta_p="US ${per} per certified product \u2014 Canadian Representation for as long as that product is offered on the Canadian market. Every request is reviewed personally by Koby Smutylo before the signed PDF is issued, the same business day. Prefer email? Write to <a href=\"mailto:info@isedrepresentative.com\">info@isedrepresentative.com</a>.", cta_price="See pricing",
                skip="Skip to content", tag="A service of Smutylo Law+ · est. 2010", top1="Canadian Representative for ISED certification · RSP-100 s. 4.1", top2="Ottawa, Canada · Eastern Time",
                byline='Written by <a href="/about/">Koby Smutylo</a>, lawyer (<a href="{lso}" rel="noopener">Law Society of Ontario</a>, called 2001), ISED Canadian Representative since 2010. Last reviewed <time datetime="{d}">{dp}</time>.',
                trust=[("Regulated law firm",'Koby Smutylo, <a href="{lso}" rel="noopener">Law Society of Ontario licensee 44441E</a>, called 2001.'),("Since 2010","Canadian Representative appointments held continuously for foreign manufacturers for over fifteen years."),("Same business day","Signed attestation letter delivered by email after payment, Eastern Time."),("Trusted by",'Roku, Kamstrup, Bevi and Eurofins. <a href="/clients/">Clients</a> · <a href="/case-examples/">Case examples</a>')],
                form_note="", lang_label="Language"),
     "zh": dict(html="zh-CN", og="zh_CN", name="简体中文", home="首页", nav=[("/canadian-representative-service/","服务内容"),("/pricing/","价格"),("/how-it-works/","办理流程"),("/faq/","常见问题"),("/countries/china/","中国制造商"),("/about/","关于我们")],
-               cta_btn="立即申请代表函", cta_h="今天就需要加拿大代表函？", cta_p="每个认证 {per} 美元（10 年任期），或每年 {ann} 美元不限认证数量。付款后当个工作日内签发 PDF 签字函。支持信用卡（Stripe）或电汇。", cta_price="查看价格",
+               cta_btn="立即申请代表函", cta_h="今天就需要加拿大代表函？", cta_p="每件认证产品 {per} 美元，一次付费——只要该产品仍在加拿大市场销售，我们就持续担任您的加拿大代表。付款后当个工作日内签发 PDF 签字函。支持信用卡（Stripe）或电汇。", cta_price="查看价格",
                skip="跳到正文", tag="Smutylo Law+ 律师事务所提供 · 2010 年起", top1="ISED 认证加拿大代表 · RSP-100 第 4.1 条", top2="加拿大渥太华 · 东部时间",
                byline='作者：<a href="/about/">Koby Smutylo</a> 律师（<a href="{lso}" rel="noopener">安大略省律师协会</a>，2001 年执业），自 2010 年起担任 ISED 加拿大代表。最后审核：<time datetime="{d}">{d}</time>。',
                trust=[("受监管的律师事务所",'Koby Smutylo，<a href="{lso}" rel="noopener">安大略省律师协会执业编号 44441E</a>，2001 年执业。'),("自 2010 年起","十五年以上持续为境外制造商担任加拿大代表。"),("当个工作日签发","付款确认后当日（东部时间）通过电子邮件发送签字代表函。"),("客户包括",'Roku、Kamstrup、Bevi、Eurofins。<a href="/clients/">客户</a> · <a href="/case-examples/">案例</a>')],
                form_note="申请表为英文，直接提交给我们；我们以英文回复。", lang_label="语言"),
     "zh-tw": dict(html="zh-TW", og="zh_TW", name="繁體中文", home="首頁", nav=[("/canadian-representative-service/","服務內容"),("/pricing/","價格"),("/how-it-works/","辦理流程"),("/faq/","常見問題"),("/countries/taiwan/","台灣製造商"),("/about/","關於我們")],
-               cta_btn="立即申請代表函", cta_h="今天就需要加拿大代表函？", cta_p="每件認證 {per} 美元（10 年任期），或每年 {ann} 美元不限認證件數。付款後當個工作日簽發 PDF 簽署函。接受信用卡（Stripe）或電匯。", cta_price="查看價格",
+               cta_btn="立即申請代表函", cta_h="今天就需要加拿大代表函？", cta_p="每件認證產品 {per} 美元，一次付費——只要該產品仍在加拿大市場銷售，我們就持續擔任您的加拿大代表。付款後當個工作日簽發 PDF 簽署函。接受信用卡（Stripe）或電匯。", cta_price="查看價格",
                skip="跳至內容", tag="Smutylo Law+ 律師事務所提供 · 2010 年起", top1="ISED 認證加拿大代表 · RSP-100 第 4.1 條", top2="加拿大渥太華 · 東部時間",
                byline='作者：<a href="/about/">Koby Smutylo</a> 律師（<a href="{lso}" rel="noopener">安大略省律師公會</a>，2001 年執業），自 2010 年起擔任 ISED 加拿大代表。最後審閱：<time datetime="{d}">{d}</time>。',
                trust=[("受監管的律師事務所",'Koby Smutylo，<a href="{lso}" rel="noopener">安大略省律師公會執業編號 44441E</a>，2001 年執業。'),("自 2010 年起","十五年以上持續為境外製造商擔任加拿大代表。"),("當個工作日簽發","付款確認後當日（東部時間）以電子郵件寄送簽署代表函。"),("客戶包括",'Roku、Kamstrup、Bevi、Eurofins。<a href="/clients/">客戶</a> · <a href="/case-examples/">案例</a>')],
                form_note="申請表為英文，直接送交我們；我們以英文回覆。", lang_label="語言"),
     "ko": dict(html="ko", og="ko_KR", name="한국어", home="홈", nav=[("/canadian-representative-service/","서비스"),("/pricing/","요금"),("/how-it-works/","진행 절차"),("/faq/","자주 묻는 질문"),("/countries/south-korea/","한국 제조사"),("/about/","소개")],
-               cta_btn="대리인 확인서 신청", cta_h="오늘 캐나다 대리인 확인서가 필요하십니까?", cta_p="인증 1건당 US${per}(10년 임기) 또는 연 US${ann}로 인증 건수 무제한. 결제 후 당일 영업일 내 서명된 PDF 발급. 카드(Stripe) 또는 송금 결제.", cta_price="요금 보기",
+               cta_btn="대리인 확인서 신청", cta_h="오늘 캐나다 대리인 확인서가 필요하십니까?", cta_p="인증 제품 1건당 US${per}, 1회 결제 — 해당 제품이 캐나다 시장에서 판매되는 동안 캐나다 대리인으로 계속 활동합니다. 결제 후 당일 영업일 내 서명된 PDF 발급. 카드(Stripe) 또는 송금 결제.", cta_price="요금 보기",
                skip="본문으로 건너뛰기", tag="Smutylo Law+ 법률사무소 제공 · 2010년 설립", top1="ISED 인증 캐나다 대리인 · RSP-100 제4.1조", top2="캐나다 오타와 · 동부 시간",
                byline='작성: <a href="/about/">Koby Smutylo</a> 변호사(<a href="{lso}" rel="noopener">온타리오주 변호사협회</a>, 2001년 등록), 2010년부터 ISED 캐나다 대리인. 최종 검토: <time datetime="{d}">{d}</time>.',
                trust=[("규제받는 법률사무소",'Koby Smutylo, <a href="{lso}" rel="noopener">온타리오주 변호사협회 등록번호 44441E</a>, 2001년 등록.'),("2010년부터","15년 이상 해외 제조사의 캐나다 대리인을 지속적으로 수행."),("당일 발급","결제 확인 후 당일(동부 시간) 이메일로 서명된 확인서 전달."),("주요 고객",'Roku, Kamstrup, Bevi, Eurofins. <a href="/clients/">고객</a> · <a href="/case-examples/">사례</a>')],
                form_note="신청서는 영문이며 저희에게 직접 접수됩니다. 회신은 영문으로 드립니다.", lang_label="언어"),
     "ja": dict(html="ja", og="ja_JP", name="日本語", home="ホーム", nav=[("/canadian-representative-service/","サービス"),("/pricing/","料金"),("/how-it-works/","手続きの流れ"),("/faq/","よくある質問"),("/countries/japan/","日本のメーカー"),("/about/","会社概要")],
-               cta_btn="代理人証明書を申し込む", cta_h="本日中にカナダ代理人証明書が必要ですか？", cta_p="認証1件につき US${per}（10年間）、または年額 US${ann} で認証件数無制限。お支払い後、当営業日内に署名済みPDFを発行。カード（Stripe）または銀行送金。", cta_price="料金を見る",
+               cta_btn="代理人証明書を申し込む", cta_h="本日中にカナダ代理人証明書が必要ですか？", cta_p="認証製品1件につき US${per}（一回払い）。その製品がカナダ市場で販売されている間、カナダ代理人を継続して務めます。お支払い後、当営業日内に署名済みPDFを発行。カード（Stripe）または銀行送金。", cta_price="料金を見る",
                skip="本文へ", tag="Smutylo Law+ 法律事務所のサービス · 2010年創業", top1="ISED認証のカナダ代理人 · RSP-100 第4.1条", top2="カナダ・オタワ · 東部時間",
                byline='執筆：<a href="/about/">Koby Smutylo</a> 弁護士（<a href="{lso}" rel="noopener">オンタリオ州法曹協会</a>、2001年登録）、2010年よりISEDカナダ代理人。最終確認：<time datetime="{d}">{d}</time>。',
                trust=[("規制下にある法律事務所",'Koby Smutylo、<a href="{lso}" rel="noopener">オンタリオ州法曹協会 登録番号 44441E</a>、2001年登録。'),("2010年より","15年以上にわたり海外メーカーのカナダ代理人を継続して受任。"),("当営業日に発行","お支払い確認後、当日（東部時間）に署名済み証明書をメールで送付。"),("主なお客様",'Roku、Kamstrup、Bevi、Eurofins。<a href="/clients/">お客様</a> · <a href="/case-examples/">事例</a>')],
                form_note="申込フォームは英語で、当事務所に直接届きます。返信は英語で行います。", lang_label="言語"),
     "de": dict(html="de", og="de_DE", name="Deutsch", home="Startseite", nav=[("/canadian-representative-service/","Leistung"),("/pricing/","Preise"),("/how-it-works/","Ablauf"),("/faq/","FAQ"),("/countries/germany/","Hersteller in Deutschland"),("/about/","Über uns")],
-               cta_btn="Bestätigungsschreiben anfordern", cta_h="Brauchen Sie Ihr Bestätigungsschreiben noch heute?", cta_p="US$ {per} je Zertifizierung (10-Jahres-Bestellung) oder US$ {ann} pro Jahr für unbegrenzt viele Zertifizierungen. Unterzeichnetes PDF am selben Werktag. Zahlung per Karte (Stripe) oder Überweisung.", cta_price="Preise ansehen",
+               cta_btn="Bestätigungsschreiben anfordern", cta_h="Brauchen Sie Ihr Bestätigungsschreiben noch heute?", cta_p="US$ {per} je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird. Unterzeichnetes PDF am selben Werktag. Zahlung per Karte (Stripe) oder Überweisung.", cta_price="Preise ansehen",
                skip="Zum Inhalt springen", tag="Ein Angebot von Smutylo Law+ · seit 2010", top1="Kanadischer Vertreter für die ISED-Zertifizierung · RSP-100 Abs. 4.1", top2="Ottawa, Kanada · Eastern Time",
                byline='Verfasst von <a href="/about/">Koby Smutylo</a>, Rechtsanwalt (<a href="{lso}" rel="noopener">Law Society of Ontario</a>, zugelassen 2001), kanadischer ISED-Vertreter seit 2010. Zuletzt geprüft am <time datetime="{d}">{d}</time>.',
                trust=[("Regulierte Anwaltskanzlei",'Koby Smutylo, <a href="{lso}" rel="noopener">Law Society of Ontario, Zulassung 44441E</a>, seit 2001.'),("Seit 2010","Seit über fünfzehn Jahren ununterbrochen kanadischer Vertreter ausländischer Hersteller."),("Am selben Werktag","Unterzeichnetes Bestätigungsschreiben per E-Mail nach Zahlungseingang, Eastern Time."),("Vertrauen uns",'Roku, Kamstrup, Bevi und Eurofins. <a href="/clients/">Kunden</a> · <a href="/case-examples/">Fallbeispiele</a>')],
                form_note="Das Formular ist auf Englisch und geht direkt bei uns ein; wir antworten auf Englisch.", lang_label="Sprache"),
     "fr": dict(html="fr-CA", og="fr_CA", name="Français", home="Accueil", nav=[("/canadian-representative-service/","Service"),("/pricing/","Tarifs"),("/how-it-works/","Fonctionnement"),("/faq/","FAQ"),("/about/","À propos"),("/contact/","Contact")],
-               cta_btn="Obtenir votre lettre", cta_h="Besoin de votre lettre d’attestation aujourd’hui?", cta_p="{per} $ US par certification (mandat de 10 ans) ou {ann} $ US par année pour un nombre illimité de certifications. PDF signé livré le jour ouvrable même. Paiement par carte (Stripe) ou virement.", cta_price="Voir les tarifs",
+               cta_btn="Obtenir votre lettre", cta_h="Besoin de votre lettre d’attestation aujourd’hui?", cta_p="{per} $ US par produit certifié, payable une seule fois — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. PDF signé livré le jour ouvrable même. Paiement par carte (Stripe) ou virement.", cta_price="Voir les tarifs",
                skip="Aller au contenu", tag="Un service de Smutylo Law+ · depuis 2010", top1="Représentant canadien pour la certification ISDE · CPR-100 art. 4.1", top2="Ottawa, Canada · heure de l’Est",
                byline='Rédigé par <a href="/about/">Koby Smutylo</a>, avocat (<a href="{lso}" rel="noopener">Barreau de l’Ontario</a>, admis en 2001), représentant canadien ISDE depuis 2010. Dernière révision : <time datetime="{d}">{d}</time>.',
                trust=[("Cabinet d’avocats réglementé",'Koby Smutylo, <a href="{lso}" rel="noopener">Barreau de l’Ontario, permis 44441E</a>, admis en 2001.'),("Depuis 2010","Mandats de représentant canadien exercés sans interruption pour des fabricants étrangers depuis plus de quinze ans."),("Le jour ouvrable même","Lettre d’attestation signée envoyée par courriel après le paiement, heure de l’Est."),("Ils nous font confiance",'Roku, Kamstrup, Bevi et Eurofins. <a href="/clients/">Clients</a> · <a href="/case-examples/">Exemples</a>')],
@@ -433,7 +431,7 @@ def trust_html(lang):
 
 def cta_html(lang):
     L = LANGS[lang]
-    return (f'<aside class="cta"><h2>{L["cta_h"]}</h2><p>{L["cta_p"].format(per=PRICE_PER, ann=PRICE_ANNUAL)}</p>'
+    return (f'<aside class="cta"><h2>{L["cta_h"]}</h2><p>{L["cta_p"].format(per=PRICE_PER)}</p>'
             f'<p><a class="btn btn-primary" href="/quote/">{L["cta_btn"]}</a> <a class="btn" href="{localize("/pricing/", lang)}">{L["cta_price"]}</a></p></aside>')
 
 
@@ -505,7 +503,7 @@ def main():
 
     # llms.txt
     lines = [f"# {SITE_NAME}", "",
-             f"> Canadian Representative service for ISED radio equipment certification (RSP-100 s. 4.1), operated by Koby Smutylo, an Ontario lawyer, since 2010. Flat fee US ${PRICE_PER} per certification (10-year appointment) or US ${PRICE_ANNUAL}/year unlimited. Signed attestation letter the same business day.",
+             f"> Canadian Representative service for ISED radio equipment certification (RSP-100 s. 4.1), operated by Koby Smutylo, an Ontario lawyer, since 2010. Flat fee US ${PRICE_PER} per certified product, covering Canadian Representation for as long as the product is offered on the Canadian market. Signed attestation letter the same business day.",
              "", "Key facts: provider Smutylo Law+, 150 Elgin Street, Suite 1060, Ottawa, Ontario K2P 1L4, Canada. Contact info@isedrepresentative.com, +1 613 869 5440. Primary regulatory source: RSP-100 Issue 12 section 4.1.", ""]
     OTHER = "Other languages (中文 / 한국어 / 日本語 / Deutsch / Français)"
     groups = {"Core pages": [], "Guides": [], "Updates": [], "Industries": [], "Countries": [], OTHER: []}
