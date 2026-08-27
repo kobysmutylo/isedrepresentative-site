@@ -13,7 +13,7 @@ order: 03
 Under RSP-100 section 4.1, for as long as the certified product is offered on the Canadian market. That is the regulatory duration and it is open-ended — there is no fixed number of years. Our appointment is written to match it exactly: one payment of US$499 per certified product, no renewal date, and the appointment ends when the product leaves the Canadian market.
 </div>
 
-## What the regulation actually says
+## What the regulation says
 
 "The applicant shall have a valid Application and Agreement for Certification Services for as long as the certified product is offered on the Canadian market" ([RSP-100 section 4.1](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment)). That agreement must identify a Canadian representative, and a Canadian representative "is required when the applicant's company address is not within Canada."
 
