@@ -1,6 +1,6 @@
 ---
 title: ISED Canadian Representative Service | What Is Included | RSP-100 s. 4.1
-description: Exactly what our Canadian Representative service includes: the signed RSP-100 attestation letter, ISED enquiry handling, audit sample coordination, and a ten-year or annual appointment. Operated by an Ontario lawyer since 2010.
+description: Exactly what our Canadian Representative service includes: the signed RSP-100 attestation letter, ISED enquiry handling and audit sample coordination, for as long as the product is on the Canadian market.
 h1: The Canadian Representative service, in full
 short: Service
 type: service
@@ -8,7 +8,7 @@ updated: 2026-08-20
 ---
 
 <div class="answer" markdown="1">
-We act as the Canadian Representative named on your ISED certification application, as required by RSP-100 section 4.1 when the applicant's address is outside Canada. You get a signed attestation letter the same business day, and for the life of the appointment we are the Canadian point of contact for ISED and your certification body on that product. Price: US$499 per certification (ten-year term) or US$999 per year, unlimited.
+We act as the Canadian Representative named on your ISED certification application, as required by RSP-100 section 4.1 when the applicant's address is outside Canada. You get a signed attestation letter the same business day, and for the life of the appointment we are the Canadian point of contact for ISED and your certification body on that product. Price: US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market.
 </div>
 
 ## The regulatory role we accept
@@ -36,9 +36,9 @@ In practice that means a Canadian address and a reachable Canadian contact on th
 
 Testing, certification filing, listing in ISED's Radio Equipment List, labelling review, or technical compliance advice. Those are the jobs of your laboratory and certification body, and we work alongside both. Canadian legal advice beyond the representative role is available separately through [Smutylo Law+](https://lawyercorporation.ca/canadian-representative/) on normal terms.
 
-## Term and renewal
+## Term
 
-The per-certification appointment is ten years from the date of the letter. ISED's requirement is that a representative be maintained for as long as the product is offered in Canada; most wireless products are withdrawn well before year ten, but if yours is still on sale we will contact you before expiry with a renewal at the then-current per-certification fee. The annual plan covers every certification you file while the plan is active. Full treatment in [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
+The appointment continues for as long as the product is offered on the Canadian market — the same period ISED requires a representative to be maintained. The US$499 fee is paid once; there is no renewal date and no second invoice. Once a year we ask you to confirm which certified products are still offered in Canada, and when a product is withdrawn the appointment ends and we close the file. Full treatment in [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/).
 
 ## Who provides it
 

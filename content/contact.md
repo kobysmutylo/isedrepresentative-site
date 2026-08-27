@@ -16,7 +16,7 @@ If you are writing from ISED's Certification and Engineering Bureau or from a ce
 
 ## Laboratories and certification bodies
 
-For referral arrangements, annual plans and a link block for your Canadian market-access page, see [for labs and certification bodies](/for-labs-and-certification-bodies/) or email us directly.
+For referral arrangements, consolidated invoicing and a link block for your Canadian market-access page, see [for labs and certification bodies](/for-labs-and-certification-bodies/) or email us directly.
 
 ## Mailing address
 
