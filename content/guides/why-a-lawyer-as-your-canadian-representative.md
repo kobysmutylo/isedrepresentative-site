@@ -5,7 +5,7 @@ h1: Why a lawyer as your Canadian Representative
 short: Why a lawyer
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-27
 order: 11
 ---
 
@@ -13,7 +13,7 @@ order: 11
 Because the appointment is a commitment to a regulator that must hold for the life of the product, and law firms are built for exactly that: they are regulated, bound to confidentiality, required to provide for continuity of client matters, and independent of the labs and certification bodies whose work they sit alongside. None of that depends on the individual lawyer being the one who answers the phone in year eight.
 </div>
 
-## What the role actually is
+## What the role is
 
 RSP-100 section 4.1 does not ask the Canadian Representative to know anything about radio engineering. It asks for a party in Canada that will answer ISED's enquiries about the product and make audit samples available, and it asks that this party be in place for as long as the product is sold in Canada. That is a representation function: standing in for a foreign principal before a Canadian authority, reliably, over years. It is what lawyers do for clients in every other regulatory context, and it is a poor fit for businesses whose real work is a project that ends.
 

@@ -25,11 +25,17 @@ The certification decision sits elsewhere. ISED's published list of recognized c
 
 The CB requests the applicant's ISED Company Number and the Canadian Representative letter as part of the ISED application. See [the certification process overview](/guides/ised-certification-process-overview/).
 
+## Products that outlive their paperwork
+
+The obligation in RSP-100 section 4.1 runs for as long as the certified product is offered on the Canadian market. For most consumer electronics that is a few years. For a Japanese industrial controller, medical imaging system, machine-tool component or automotive module it can be fifteen or twenty, and replacement units are often still supplied long after the original production run has ended.
+
+That makes duration a real question rather than a formality, and Japanese regulatory teams raise it more often than any other market. An appointment carrying an expiry date is a liability over that span, because a renewal missed in year eleven is an obligation breached without anyone noticing. The harder question is whether the representative will still exist and still be reachable at the far end of the product's life, and that is a question about the provider rather than about the fee.
+
+See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/) and [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
+
 ## What we see from Japanese applicants
 
 **Documentation first.** Japanese regulatory teams almost always ask for our terms, a sample letter and a formal invoice before placing an order — more consistently than any other market. All are available up front: [terms of service](/terms/), the letter structure at [attestation letter required fields](/guides/attestation-letter-required-fields/), and a pro-forma invoice on request. Asking for them does not commit you to anything.
-
-**Long lifecycles.** Industrial equipment, medical devices, automotive components and imaging products from Japan stay on the Canadian market for many years, sometimes decades. RSP-100 requires the representative for as long as the product is offered for sale in Canada, so the question Japanese clients ask — what happens at the end of a term, and what happens if the representative closes — is exactly the right one. See [how long must a Canadian Representative be appointed](/guides/how-long-must-a-canadian-representative-be-appointed/) and [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
 
 **Multiple certifications per programme.** Products with several radios, or families certified separately by band, mean several IC numbers and several letters. Manufacturers with a steady certification flow usually put them on one consolidated [invoice](/pricing/) rather than paying letter by letter.
 
@@ -66,9 +72,9 @@ One letter covers one IC number. A product certified under a single IC number ne
 
 We provide a sample letter showing the exact structure and wording. The signed letter naming your company issues after payment clears, the same business day.
 
-### Do you charge to add a model or correct the letter?
+### Is there a charge to correct the letter after issue?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. Corrections and additions under the same IC number — a model added, a company name or address amended, a letter reissued — are free, with no time limit and no cap on how many you request. Where a product family is later split into a second IC certification number, that is a separate certification at US$499.
 
 <!--/faq-->
 

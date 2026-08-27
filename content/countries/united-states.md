@@ -68,9 +68,9 @@ No. The Company Number identifies the applicant to ISED; it does not appoint any
 
 Same business day once payment clears, in the same time zone as your East Coast team. There is no expedite fee because there is no slower option.
 
-### Do you charge to add a model or correct the letter?
+### We split a family across several certifications. Are letter changes billed?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+Changes within one certification are not. Adding models or HVINs under an existing IC number, correcting the applicant's details, or reissuing a letter is free, with no time limit and no cap on how many. Each separate IC certification number, including the band-split variants US applicants often end up with, is its own certification at US$499.
 
 <!--/faq-->
 

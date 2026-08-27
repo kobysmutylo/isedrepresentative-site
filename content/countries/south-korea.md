@@ -25,9 +25,15 @@ Certification is separate. ISED's published list of recognized certification bod
 
 Check any proposed CB against ISED's current list by entity name rather than by brand. Either way, the CB asks for the applicant's ISED Company Number and the Canadian Representative letter before issuing.
 
-## What we see from Korean applicants
+## Wide model families under one certification number
 
-**Large families, many HVINs.** Korean consumer-electronics and appliance makers certify wide model families. One letter covers every model under one IC number; ask for a reissue when models are added by permissive change and the paperwork needs to show them. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
+Korean consumer-electronics and appliance makers certify some of the widest model families in this work: dozens of HVINs and marketing names under a single IC certification number, extended over years by permissive change.
+
+The structure of the requirement suits that well. One IC certification number takes one representative letter however many models sit beneath it, and adding models later is a revision rather than a new appointment. What creates a second appointment is a second IC certification number, meaning a genuinely new certification rather than a variant of an existing one. The discipline worth keeping is a register of IC numbers against letter dates, because the failure mode in a large family is not paying twice; it is losing track of which certifications have a representative on file at all.
+
+See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
+
+## What we see from Korean applicants
 
 **Module makers.** Korean Wi-Fi, Bluetooth and cellular module manufacturers supply integrators worldwide. The module maker needs a representative for each module certification it holds; the integrators downstream do not need one for that module. Module makers with several products usually settle them on one consolidated [invoice](/pricing/). See [RF modules](/industries/rf-modules/).
 
@@ -66,9 +72,9 @@ It has to run as long as the product is offered on the Canadian market, and that
 
 We correspond and issue in English, because the ISED application and the letter are English documents. Korean-language enquiries are welcome.
 
-### Do you charge to add a model or correct the letter?
+### A module family grows through the year. Is each addition billed?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. Adding models or HVINs under an existing IC number is a revision, and revisions are free with no time limit and no limit on how many. Korean module makers typically add to a family for years after the original certification, and the appointment absorbs that. A new IC certification number is a separate certification at US$499.
 
 <!--/faq-->
 

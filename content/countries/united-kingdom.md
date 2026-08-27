@@ -70,9 +70,9 @@ Only with a genuine Canadian place of business and a written acceptance of the d
 
 For as long as the certified product is offered on the Canadian market. There is no fixed expiry in RSP-100 independent of that.
 
-### Do you charge to add a model or correct the letter?
+### Does amending the letter cost anything?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+No. Amendments under the same IC number — an added model or HVIN, a corrected legal name or registered address, a reissued letter — are free, with no time limit and no cap on how many you request. A new IC certification number is a separate certification at US$499.
 
 <!--/faq-->
 

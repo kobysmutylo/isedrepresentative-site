@@ -25,15 +25,19 @@ The certification decision is different. ISED's published list of recognized cer
 
 The CB asks for the applicant's ISED Company Number and the Canadian Representative letter as part of the application. Check ISED's current list if your lab proposes a CB you have not used before.
 
+## Which entity is the applicant
+
+More letters are redrafted for Chinese applicants over this question than any other, because a Chinese supply chain routinely involves three or four companies with a plausible claim to the product.
+
+The applicant is whichever entity is named on the ISED application, and that is settled when the certification file is opened rather than afterwards. It is often a Hong Kong or BVI holding company rather than the Guangdong factory that builds the device. Where a Shenzhen ODM certifies in its own name and a Western brand sells under its own label, the ODM is the applicant and the ODM needs the representative; where the brand certifies in its own name, the brand does. One of the two, never both.
+
+The consequence runs past the paperwork. An appointment is personal to the applicant named in the order, so if the certificate later moves from the holding company to the factory entity, that is a transfer rather than a rename and the new holder needs its own appointment. See [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
+
 ## What we see from Chinese applicants
 
 **Legal name in English.** The applicant name on the letter must match the English legal name on the application and the REL listing, and that should match the name on the business licence translation your lab is using. "Shenzhen XYZ Technology Co., Ltd." in one place and "Shenzhen XYZ Tech Ltd" in another causes a CB return and costs a day. Send us the exact string your lab has. See [attestation letter required fields](/guides/attestation-letter-required-fields/).
 
-**Factory versus applicant.** The applicant is often a Hong Kong or BVI holding company while the factory is in Guangdong. The letter names the applicant, whichever that is. If the applicant later changes to the factory entity, that is a certificate transfer, not a rename; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
-
 **Labs ordering for clients.** Many Chinese labs order the letter on the client's behalf as part of a turnkey FCC/ISED package. We issue the letter naming the client as applicant; the lab can settle several certifications on one [invoice](/pricing/) and bill its own clients.
-
-**ODM and brand.** Where a Shenzhen ODM certifies in its own name and a Western brand sells under its label, the ODM is the applicant and needs the representative. Where the brand certifies in its own name, the brand does. One of the two, never both.
 
 **Modules.** Most Chinese consumer devices integrate certified Wi-Fi and BLE modules from Chinese module makers. The module maker needs the representative for the module certification; the device maker needs one only for certifications it holds itself. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/) and [RF modules](/industries/rf-modules/).
 
@@ -70,9 +74,9 @@ No. One letter covers one IC number, including every model listed under it. Addi
 
 We invoice and are paid in USD. Card payment in USD through Stripe is the route most Chinese clients use; wires in USD are also accepted.
 
-### Do you charge to add a model or correct the letter?
+### Our lab orders the letter for us. Can it also request corrections later?
 
-No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+Yes, and there is no charge for them. A corrected legal name, an added model under the same IC number, or a reissued letter costs nothing, with no time limit and no cap on how many corrections you need — a practical point when the applicant name has to match the CB's records exactly. A new IC certification number is a separate certification at US$499.
 
 <!--/faq-->
 
