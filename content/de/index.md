@@ -36,7 +36,7 @@ Ein unterzeichnetes Bestätigungsschreiben als PDF auf Kanzleibriefpapier mit al
 
 ## Warum eine Anwaltskanzlei statt Labor oder Berater
 
-Die Rolle des Vertreters ist eine dauerhafte rechtliche Verpflichtung, kein einmaliges Dokument. Dass eine regulierte Kanzlei sie übernimmt, hat drei Folgen. Erstens Kontinuität: Anwaltskanzleien unterliegen Berufsregeln zur Fortführung von Mandaten; die Bestellung erlischt nicht, wenn ein Berater in Ruhestand geht oder ein Labor übernommen wird. Zweitens Vertraulichkeit: Produktdaten und ISED-Korrespondenz liegen in einem Mandatsverhältnis, das den Regeln der Law Society of Ontario unterliegt. Drittens Unabhängigkeit: Wir prüfen und zertifizieren nicht und konkurrieren nicht mit Ihrem Labor oder Ihrer CB, weshalb Labore und Zertifizierungsstellen Kunden ohne Interessenkonflikt an uns verweisen.
+Die Rolle des Vertreters ist eine dauerhafte rechtliche Verpflichtung und kein einmaliges Dokument; das prägt, wer sie sinnvollerweise übernimmt. Für Anwaltskanzleien gelten Berufsregeln zur Fortführung von Mandaten, weshalb eine Bestellung nicht stillschweigend erlischt, wenn ein Berater in den Ruhestand geht oder ein Labor übernommen wird. Produktdaten und ISED-Korrespondenz liegen in einem Mandatsverhältnis, das den Regeln der Law Society of Ontario unterliegt. Und weil wir weder prüfen noch zertifizieren und nicht mit Ihrem Labor oder Ihrer CB konkurrieren, kann ein Labor oder eine Zertifizierungsstelle einen Kunden an uns verweisen, ohne ihn einem Wettbewerber zu überlassen.
 
 ## Preise, klar benannt
 

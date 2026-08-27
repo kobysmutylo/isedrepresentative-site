@@ -37,7 +37,7 @@ Oui, s’il accepte d’assumer les responsabilités de l’article 4.1 tant que
 
 ### Mon laboratoire ou mon organisme de certification peut-il être mon représentant?
 
-Certains laboratoires canadiens l’offrent. Les questions à poser : le laboratoire existera-t-il encore, et détiendra-t-il encore le mandat, dans huit ans? Qu’advient-il du mandat si le laboratoire est vendu? Quel secret professionnel protège les renseignements sur votre produit? Un organisme de certification ne devrait généralement pas agir comme représentant pour un produit qu’il certifie.
+Certains laboratoires canadiens l’offrent. Les questions à poser sont de savoir si le laboratoire existera encore et détiendra encore le mandat dans huit ans, ce qu’il advient du mandat si le laboratoire est vendu, et quel secret professionnel protège les renseignements sur votre produit. Un organisme de certification ne devrait généralement pas agir comme représentant pour un produit qu’il certifie.
 <!--/faq-->
 
 ## La lettre

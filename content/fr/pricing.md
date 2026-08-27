@@ -44,7 +44,7 @@ Un mandat déjà payé se poursuit tant que le produit est offert sur le marché
 
 ## Pourquoi nous publions nos tarifs
 
-La plupart des fournisseurs de ce marché ne donnent leurs prix que sur demande. Nos honoraires sont les mêmes pour chaque client et chaque produit : il n’y a rien à négocier et aucune raison de vous faire demander. Votre laboratoire ou votre organisme peut ainsi inscrire un montant ferme dans son devis.
+Nos honoraires sont les mêmes pour chaque client et chaque produit : il n’y a rien à négocier et aucune raison de vous faire demander. Votre laboratoire ou votre organisme peut ainsi inscrire un montant ferme dans son devis.
 
 <!--faq-->
 ### Facturez-vous les révisions?
