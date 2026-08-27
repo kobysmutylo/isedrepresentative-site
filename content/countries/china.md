@@ -10,7 +10,7 @@ order: 1
 ---
 
 <div class="native" lang="zh-CN" markdown="1">
-**中文摘要。** 根据加拿大 ISED（原 Industry Canada）RSP-100 第 4.1 条，公司地址在加拿大境外的申请人在办理 IC 认证（ISED 无线设备认证）时，必须指定一名加拿大代表（Canadian Representative）。我们是位于渥太华的加拿大律师事务所 Smutylo Law+，自 2010 年起为境外制造商担任加拿大代表：每个认证 499 美元（10 年任期）或每年 999 美元不限数量，付款后当个工作日内签发签字代表函（PDF），可直接提交给您的认证机构。申请表为英文，我们以英文回复。[中文版网站](/zh/) · [立即申请](/quote/)
+**中文摘要。** 根据加拿大 ISED（原 Industry Canada）RSP-100 第 4.1 条，公司地址在加拿大境外的申请人在办理 IC 认证（ISED 无线设备认证）时，必须指定一名加拿大代表（Canadian Representative）。我们是位于渥太华的加拿大律师事务所 Smutylo Law+，自 2010 年起为境外制造商担任加拿大代表：每件认证产品 499 美元，一次付费，只要该产品仍在加拿大市场销售，代表关系即持续有效；付款后当个工作日内签发签字代表函（PDF），可直接提交给您的认证机构。申请表为英文，我们以英文回复。[中文版网站](/zh/) · [立即申请](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -31,7 +31,7 @@ The CB asks for the applicant's ISED Company Number and the Canadian Representat
 
 **Factory versus applicant.** The applicant is often a Hong Kong or BVI holding company while the factory is in Guangdong. The letter names the applicant, whichever that is. If the applicant later changes to the factory entity, that is a certificate transfer, not a rename; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
 
-**Labs ordering for clients.** Many Chinese labs order the letter on the client's behalf as part of a turnkey FCC/ISED package. We issue the letter naming the client as applicant; the lab can hold an [annual plan](/pricing/) and bill its own clients.
+**Labs ordering for clients.** Many Chinese labs order the letter on the client's behalf as part of a turnkey FCC/ISED package. We issue the letter naming the client as applicant; the lab can settle several certifications on one [invoice](/pricing/) and bill its own clients.
 
 **ODM and brand.** Where a Shenzhen ODM certifies in its own name and a Western brand sells under its label, the ODM is the applicant and needs the representative. Where the brand certifies in its own name, the brand does. One of the two, never both.
 

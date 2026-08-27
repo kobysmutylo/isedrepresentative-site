@@ -10,7 +10,7 @@ order: 6
 ---
 
 <div class="native" lang="de" markdown="1">
-**Zusammenfassung auf Deutsch.** Nach RSP-100 Abs. 4.1 der kanadischen Behörde ISED (früher Industry Canada) muss jeder Antragsteller mit Firmensitz außerhalb Kanadas für die IC-Zertifizierung (ISED-Funkzulassung) einen kanadischen Vertreter (Canadian Representative) benennen. Wir sind die Anwaltskanzlei Smutylo Law+ in Ottawa und übernehmen diese Rolle seit 2010 für ausländische Hersteller: US$ 499 je Zertifizierung (10 Jahre) oder US$ 999 pro Jahr für beliebig viele Zertifizierungen, unterzeichnetes Bestätigungsschreiben (PDF) am selben Werktag nach Zahlungseingang, direkt an Ihre Zertifizierungsstelle weiterleitbar. Das Formular ist auf Englisch; wir antworten auf Englisch. [Deutsche Seite](/de/) · [Jetzt anfordern](/quote/)
+**Zusammenfassung auf Deutsch.** Nach RSP-100 Abs. 4.1 der kanadischen Behörde ISED (früher Industry Canada) muss jeder Antragsteller mit Firmensitz außerhalb Kanadas für die IC-Zertifizierung (ISED-Funkzulassung) einen kanadischen Vertreter (Canadian Representative) benennen. Wir sind die Anwaltskanzlei Smutylo Law+ in Ottawa und übernehmen diese Rolle seit 2010 für ausländische Hersteller: US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird; unterzeichnetes Bestätigungsschreiben (PDF) am selben Werktag nach Zahlungseingang, direkt an Ihre Zertifizierungsstelle weiterleitbar. Das Formular ist auf Englisch; wir antworten auf Englisch. [Deutsche Seite](/de/) · [Jetzt anfordern](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -43,7 +43,7 @@ A German manufacturer selling into Canada needs the Canadian one. Recording the 
 
 **Data protection.** Our handling of personal data is set out in the [privacy policy](/privacy/). We hold only the contact details needed to operate the appointment, under Canada's PIPEDA, and our payment and form processors are named there — the question German procurement asks first.
 
-**Procurement.** Supplier onboarding forms and a pro-forma invoice are provided on request; purchase orders are accepted for annual plans.
+**Procurement.** Supplier onboarding forms and a pro-forma invoice are provided on request; purchase orders are accepted, and several certifications can go on one invoice.
 
 ## Payment and timing
 
@@ -64,7 +64,7 @@ Yes. Recognition of the CB under the Canada-EU MRA lets it issue the certificate
 
 ### Can our German parent appoint one representative for the whole group?
 
-The appointment names the applicant entity on the ISED application. If several group entities hold certifications in their own names, each needs the representative for its own certifications. An [annual plan](/pricing/) covers unlimited certifications for one applicant.
+The appointment names the applicant entity on the ISED application. If several group entities hold certifications in their own names, each needs the representative for its own certifications. Several certifications for one applicant can go on a single [invoice](/pricing/).
 
 ### Does a permissive change require a new letter?
 
