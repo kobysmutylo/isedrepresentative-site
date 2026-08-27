@@ -4,7 +4,7 @@ description: Answers to the questions manufacturers, labs and certification bodi
 h1: ISED Canadian Representative: frequently asked questions
 short: FAQ
 type: faq
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -64,7 +64,7 @@ A group of models certified under a single IC certification number, typically sh
 
 ### Can you revise an existing letter?
 
-Yes: added models, changed company names, corrected addresses and new HVINs are routine. Use the [revision form](/revise/). Revisions within 90 days of issue are free; after that a revision is treated as a new request at the standard fee.
+Yes: added models, changed company names, corrected addresses and new HVINs are routine. Use the [revision form](/revise/). Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts. A new IC certification number is a new certification at US$499.
 
 ### Can you sign my certification body's own representative form instead?
 

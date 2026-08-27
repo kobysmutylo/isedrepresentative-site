@@ -4,7 +4,7 @@ description: Exactly what our Canadian Representative service includes: the sign
 h1: The Canadian Representative service, in full
 short: Service
 type: service
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -30,7 +30,7 @@ In practice that means a Canadian address and a reachable Canadian contact on th
 
 **Record keeping.** We keep the appointment on file with your contact details and remind you to update them when they change. A stale applicant contact is the most common reason an ISED enquiry goes unanswered; see [common Canadian Representative mistakes](/guides/common-canadian-representative-mistakes/).
 
-**Revisions.** New models added under the same certification, company name changes and address corrections are handled through the [revision form](/revise/).
+**Revisions.** New models added under the same certification, company name changes and address corrections are handled through the [revision form](/revise/), free of charge, with no time limit and no cap on how many you request.
 
 ## What is not included
 
