@@ -20,7 +20,7 @@ Reasons are usually one of: the previous representative has ceased trading or st
 The steps:
 
 1. List the IC certification numbers affected. If you do not have a register, your CB's records and ISED's Radio Equipment List will show the certifications held by your company.
-2. Order a letter from the new representative for each certification (one letter per IC number; see [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/)). Under our annual plan, multiple letters are included.
+2. Order a letter from the new representative for each certification (one letter per IC number; see [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/)). Several certifications can go on a single invoice.
 3. Send the new letter to the CB that issued each certificate with a short notice that the Canadian Representative has changed effective the letter date. The CB updates its file and transmits the change to ISED.
 4. Notify the outgoing representative in writing that its appointment has ended, so there is no confusion if ISED contacts it.
 

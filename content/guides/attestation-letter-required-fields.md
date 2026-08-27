@@ -52,7 +52,7 @@ A letter that passes review reads roughly as follows (this is structure, not leg
 >
 > [Representative] accepts responsibility for responding to all enquiries from ISED regarding the certified product(s), including providing audit samples at no charge to ISED, and will act as the Canadian point of contact for ISED and the certification body in respect of this certification.
 >
-> This appointment is effective from the date of this letter for a term of [ten years] and will be renewed by the applicant for as long as the product is offered on the Canadian market.
+> This appointment is effective from the date of this letter and continues for as long as the product is offered on the Canadian market.
 >
 > Contact: [email], [phone].
 >

@@ -47,7 +47,7 @@ Neither does. The representative must be in Canada, and the FCB is the certifier
 
 ## 9. Letting the appointment lapse at the end of a term
 
-Annual terms are the usual culprit: the renewal notice goes to a departed employee and the appointment quietly expires. Ten-year terms reduce the number of renewals; a register of IC numbers and term dates eliminates the surprise. We keep one for each client and send it on request.
+Annual terms are the usual culprit: the renewal notice goes to a departed employee and the appointment quietly expires. An appointment with no renewal date removes that failure mode entirely; a register of IC numbers and letter dates removes the rest. We keep one for each client and send it on request.
 
 ## 10. No one knowing who the representative is
 

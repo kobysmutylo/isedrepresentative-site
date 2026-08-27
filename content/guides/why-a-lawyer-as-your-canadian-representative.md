@@ -39,7 +39,7 @@ The representative does not, and should not, make technical statements about you
 
 ## Cost
 
-Lawyers are assumed to be expensive. For this service the fee is fixed and published: US$499 per certification for a ten-year appointment, or US$999 per year unlimited, for a term that is usually longer than the alternatives offered. See [pricing](/pricing/).
+Lawyers are assumed to be expensive. For this service the fee is fixed and published: US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market. See [pricing](/pricing/).
 
 ## Who we are
 
