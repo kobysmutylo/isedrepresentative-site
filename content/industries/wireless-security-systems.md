@@ -15,7 +15,7 @@ Security products span the simplest and the most complex radio certifications: a
 
 ## What is specific to this category
 
-**Many small certifications.** A security ecosystem (panel, keypad, contacts, motion sensors, sirens, key fobs, smoke and CO detectors, cameras, doorbells, locks, communicators) can involve ten or more certifications from one applicant. Each has its own IC number and needs its own letter. Applicants in this category are the clearest case for the [annual plan](/pricing/), which covers every certification for one fee. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
+**Many small certifications.** A security ecosystem (panel, keypad, contacts, motion sensors, sirens, key fobs, smoke and CO detectors, cameras, doorbells, locks, communicators) can involve ten or more certifications from one applicant. Each has its own IC number and needs its own letter. Applicants in this category usually put every certification on one consolidated [invoice](/pricing/) rather than paying one at a time. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
 **Periodic and intermittent transmitters.** Sensors operating under RSS-210's provisions for periodic transmission (alarm and control signals in the 300–400 MHz and 433 MHz ranges, and 915 MHz) have specific limits on duty cycle and transmission duration. Test data from FCC Part 15.231 generally transfers; see [from FCC to ISED](/guides/fcc-to-ised/).
 
@@ -29,7 +29,7 @@ Security products span the simplest and the most complex radio certifications: a
 
 ## Typical certification path
 
-Lab tests to RSS-210, RSS-247, RSS-130 family as applicable, RSS-102 exposure, RSS-Gen. Module-based products often need no new certification. CB issues the IC numbers. The applicant, if outside Canada, orders a letter per certification, ideally under an annual plan at the start of the programme.
+Lab tests to RSS-210, RSS-247, RSS-130 family as applicable, RSS-102 exposure, RSS-Gen. Module-based products often need no new certification. CB issues the IC numbers. The applicant, if outside Canada, orders a letter per certification, ideally batched onto one invoice at the start of the programme.
 
 <div class="source" markdown="1">
 **Sources.** [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), sections 4.1, 8 and 10. RSS-210, RSS-247, RSS-130 family, RSS-102 and RSS-Gen as published by ISED; confirm current issues with your lab.
