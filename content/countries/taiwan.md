@@ -5,12 +5,12 @@ h1: Canadian Representative for manufacturers in Taiwan
 short: Taiwan
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 2
 ---
 
 <div class="native" lang="zh-TW" markdown="1">
-**中文摘要。** 依據加拿大 ISED（前身為 Industry Canada）RSP-100 第 4.1 條，公司地址位於加拿大境外的申請人辦理 IC 認證（ISED 無線設備認證）時，必須指定一名加拿大代表（Canadian Representative）。我們是位於渥太華的加拿大律師事務所 Smutylo Law+，自 2010 年起為境外製造商擔任加拿大代表：每件認證產品 499 美元，一次付費，只要該產品仍在加拿大市場銷售，代表關係即持續有效；付款後當個工作日簽發簽署代表函（PDF），可直接提交給您的認證機構。申請表為英文，我們以英文回覆。[繁體中文網站](/zh-tw/) · [立即申請](/quote/)
+**中文摘要。** 依據加拿大 ISED（前身為 Industry Canada）RSP-100 第 4.1 條，公司地址位於加拿大境外的申請人辦理 IC 認證（ISED 無線設備認證）時，必須指定一名加拿大代表（Canadian Representative）。我們是位於渥太華的加拿大律師事務所 Smutylo Law+，自 2010 年起為境外製造商擔任加拿大代表：每件認證產品 499 美元，一次付費，只要該產品仍在加拿大市場銷售，代表關係即持續有效；修改一律免費，不限次數與期限；付款後當個工作日簽發簽署代表函（PDF），可直接提交給您的認證機構。申請表為英文，我們以英文回覆。[繁體中文網站](/zh-tw/) · [立即申請](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -67,6 +67,11 @@ The appointment runs for as long as the certified product is offered on the Cana
 ### Can we order before we have the IC number?
 
 Yes. We need the applicant's exact legal name and address and the ISED Company Number; the IC number can follow. Ordering at application is the point.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

@@ -4,7 +4,7 @@ description: Country-specific notes for manufacturers in China, Taiwan, South Ko
 h1: Manufacturers outside Canada, by country
 short: Countries
 type: page
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -15,4 +15,4 @@ Any applicant with a company address outside Canada needs a Canadian Representat
 
 ## Manufacturers elsewhere
 
-We accept applicants from any country outside Canada. The same letter, fee and turnaround apply. Payment by card in US dollars is simplest; wire transfers are accepted from any bank.
+We accept applicants from any country outside Canada. The same letter, fee and turnaround apply, and revisions are free with no time limit. Payment by card in US dollars is simplest; wire transfers are accepted from any bank.

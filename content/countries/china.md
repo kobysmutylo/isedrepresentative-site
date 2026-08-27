@@ -5,12 +5,12 @@ h1: Canadian Representative for manufacturers in China
 short: China
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 1
 ---
 
 <div class="native" lang="zh-CN" markdown="1">
-**中文摘要。** 根据加拿大 ISED（原 Industry Canada）RSP-100 第 4.1 条，公司地址在加拿大境外的申请人在办理 IC 认证（ISED 无线设备认证）时，必须指定一名加拿大代表（Canadian Representative）。我们是位于渥太华的加拿大律师事务所 Smutylo Law+，自 2010 年起为境外制造商担任加拿大代表：每件认证产品 499 美元，一次付费，只要该产品仍在加拿大市场销售，代表关系即持续有效；付款后当个工作日内签发签字代表函（PDF），可直接提交给您的认证机构。申请表为英文，我们以英文回复。[中文版网站](/zh/) · [立即申请](/quote/)
+**中文摘要。** 根据加拿大 ISED（原 Industry Canada）RSP-100 第 4.1 条，公司地址在加拿大境外的申请人在办理 IC 认证（ISED 无线设备认证）时，必须指定一名加拿大代表（Canadian Representative）。我们是位于渥太华的加拿大律师事务所 Smutylo Law+，自 2010 年起为境外制造商担任加拿大代表：每件认证产品 499 美元，一次付费，只要该产品仍在加拿大市场销售，代表关系即持续有效；修改一律免费，不限次数与期限；付款后当个工作日内签发签字代表函（PDF），可直接提交给您的认证机构。申请表为英文，我们以英文回复。[中文版网站](/zh/) · [立即申请](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -69,6 +69,11 @@ No. One letter covers one IC number, including every model listed under it. Addi
 ### Can we pay in RMB?
 
 We invoice and are paid in USD. Card payment in USD through Stripe is the route most Chinese clients use; wires in USD are also accepted.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

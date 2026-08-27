@@ -5,7 +5,7 @@ h1: Canadian Representative for manufacturers in India
 short: India
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 8
 ---
 
@@ -71,6 +71,11 @@ Yes. One letter covers one certification, including every model listed under tha
 ### How do we pay without going through 15CA/15CB?
 
 Pay by card in USD through Stripe. Card payment is treated as a card transaction rather than an outward remittance, which is why most Indian clients use it for the per-certification fee.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

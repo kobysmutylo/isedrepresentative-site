@@ -5,12 +5,12 @@ h1: Canadian Representative for manufacturers in Japan
 short: Japan
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 4
 ---
 
 <div class="native" lang="ja" markdown="1">
-**日本語の要約。** カナダ ISED（旧 Industry Canada）の RSP-100 第4.1条により、会社所在地がカナダ国外にある申請者は、IC認証（ISED 無線機器認証）を取得する際にカナダ代理人（Canadian Representative）を指定しなければなりません。当事務所はオタワのカナダ法律事務所 Smutylo Law+ で、2010年より海外メーカーのカナダ代理人を務めています。認証製品1件につき US$499（一回払い）。その製品がカナダ市場で販売されている間、代理人を継続して務めます。お支払い後当営業日内に署名済みの代理人証明書（PDF）を発行し、そのまま認証機関に提出いただけます。申込フォームは英語で、返信も英語で行います。[日本語ページ](/ja/) · [申し込む](/quote/)
+**日本語の要約。** カナダ ISED（旧 Industry Canada）の RSP-100 第4.1条により、会社所在地がカナダ国外にある申請者は、IC認証（ISED 無線機器認証）を取得する際にカナダ代理人（Canadian Representative）を指定しなければなりません。当事務所はオタワのカナダ法律事務所 Smutylo Law+ で、2010年より海外メーカーのカナダ代理人を務めています。認証製品1件につき US$499（一回払い）。その製品がカナダ市場で販売されている間、代理人を継続して務めます。記載内容の変更（型番追加・訂正）は回数・期限の制限なく無料です。お支払い後当営業日内に署名済みの代理人証明書（PDF）を発行し、そのまま認証機関に提出いただけます。申込フォームは英語で、返信も英語で行います。[日本語ページ](/ja/) · [申し込む](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -65,6 +65,11 @@ One letter covers one IC number. A product certified under a single IC number ne
 ### Can we see the letter before paying?
 
 We provide a sample letter showing the exact structure and wording. The signed letter naming your company issues after payment clears, the same business day.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">
