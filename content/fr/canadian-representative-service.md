@@ -1,15 +1,15 @@
 ---
 title: Service de représentant canadien ISDE | Contenu | CPR-100 art. 4.1
-description: Ce que comprend notre service de représentant canadien : la lettre d’attestation CPR-100 signée, le traitement des demandes d’ISDE, la coordination des échantillons de vérification et un mandat de dix ans ou annuel. Offert par un avocat de l’Ontario depuis 2010.
+description: Ce que comprend le service de représentant canadien : lettre CPR-100 signée, demandes d’ISDE, échantillons de vérification, tant que le produit est offert au Canada.
 h1: Le service de représentant canadien, en détail
 short: Service
 type: service
 translation_of: /canadian-representative-service/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-Nous agissons comme représentant canadien nommé dans votre demande de certification ISDE, comme l’exige l’article 4.1 de la CPR-100 lorsque l’adresse du demandeur est hors du Canada. Vous recevez une lettre d’attestation signée le jour ouvrable même et, pendant toute la durée du mandat, nous sommes le point de contact canadien d’ISDE et de votre organisme de certification pour ce produit. Tarif : 499 $ US par certification (dix ans) ou 999 $ US par année, illimité.
+Nous agissons comme représentant canadien nommé dans votre demande de certification ISDE, comme l’exige l’article 4.1 de la CPR-100 lorsque l’adresse du demandeur est hors du Canada. Vous recevez une lettre d’attestation signée le jour ouvrable même et, pendant toute la durée du mandat, nous sommes le point de contact canadien d’ISDE et de votre organisme de certification pour ce produit. 499 $ US par produit certifié, payable une seule fois — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien.
 </div>
 
 ## Le rôle réglementaire que nous acceptons
@@ -37,9 +37,9 @@ Concrètement : une adresse canadienne et un interlocuteur canadien joignable au
 
 Les essais, le dépôt de la certification, l’inscription à la Nomenclature du matériel radio d’ISDE, l’examen de l’étiquetage ou les conseils techniques de conformité. Ce sont les tâches de votre laboratoire et de votre organisme de certification, avec lesquels nous collaborons.
 
-## Durée et renouvellement
+## Durée
 
-Le mandat par certification court dix ans à compter de la date de la lettre. ISDE exige un représentant tant que le produit est offert au Canada; si le vôtre est encore en vente à la dixième année, nous vous contactons avant l’échéance pour un renouvellement au tarif par certification alors en vigueur. Le plan annuel couvre chaque certification déposée pendant sa durée.
+Le mandat se poursuit tant que le produit est offert sur le marché canadien, soit la période pendant laquelle ISDE exige qu’un représentant soit maintenu. Les 499 $ US sont payables une seule fois : aucune date de renouvellement, aucune seconde facture. Une fois par année, nous vous demandons de confirmer quels produits certifiés sont encore offerts au Canada; lorsqu’un produit est retiré, le mandat prend fin et nous fermons le dossier.
 
 ## Qui fournit le service
 

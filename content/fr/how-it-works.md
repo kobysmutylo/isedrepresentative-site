@@ -5,11 +5,11 @@ h1: Fonctionnement : du formulaire à la lettre signée en un jour ouvrable
 short: Fonctionnement
 type: howto
 translation_of: /how-it-works/
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
-Fournissez les renseignements sur le produit et l’entreprise, payez par carte ou virement et recevez la lettre d’attestation signée en PDF le jour ouvrable même. Nous restons ensuite le point de contact canadien de cette certification pendant dix ans (ou la durée de votre plan annuel), pour répondre aux demandes d’ISDE et coordonner les échantillons de vérification.
+Fournissez les renseignements sur le produit et l’entreprise, payez par carte ou virement et recevez la lettre d’attestation signée en PDF le jour ouvrable même. Nous demeurons ensuite le point de contact canadien de cette certification tant que le produit est offert sur le marché canadien, pour répondre aux demandes d’ISDE et coordonner les échantillons de vérification.
 </div>
 
 ## Étape 1 : fournir les renseignements sur le produit
@@ -18,7 +18,7 @@ Remplissez le [formulaire](/quote/) (en anglais). Nous avons besoin de la dénom
 
 ## Étape 2 : payer par carte ou virement
 
-Nous envoyons par courriel un lien de paiement Stripe de 499 $ US par certification ou une facture de 999 $ US pour le plan annuel. Les paiements par carte sont immédiats; par virement, la lettre est émise à réception des fonds. Bons de commande acceptés pour le plan annuel.
+Nous envoyons par courriel un lien de paiement Stripe, ou une facture si vous préférez : 499 $ US par produit certifié, payable une seule fois — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. Les paiements par carte sont immédiats; par virement, la lettre est émise à réception des fonds. Bons de commande acceptés, et plusieurs certifications peuvent figurer sur une seule facture.
 
 ## Étape 3 : recevoir la lettre d’attestation signée
 
@@ -26,7 +26,7 @@ Le jour ouvrable même, heure de l’Est, vous recevez un PDF signé sur papier 
 
 ## Étape 4 : nous restons au dossier pour toute la durée
 
-Pendant dix ans à compter de la date de la lettre, nous sommes le représentant canadien de cette certification. Si ISDE ou votre organisme nous contacte au sujet du produit, nous vous avisons le jour ouvrable même et coordonnons la réponse. Si un échantillon est demandé, nous en organisons la livraison avec vous. Pour ajouter un modèle ou modifier les coordonnées de l’entreprise, utilisez le [formulaire de révision](/revise/).
+Tant que le produit est offert sur le marché canadien, nous sommes le représentant canadien de cette certification. Si ISDE ou votre organisme nous contacte au sujet du produit, nous vous avisons le jour ouvrable même et coordonnons la réponse. Si un échantillon est demandé, nous en organisons la livraison avec vous. Pour ajouter un modèle ou modifier les coordonnées de l’entreprise, utilisez le [formulaire de révision](/revise/).
 
 ## Délais en pratique
 
@@ -41,7 +41,7 @@ Les jours ouvrables sont du lundi au vendredi à Ottawa, hors jours fériés de 
 <!--faq-->
 ### Mon laboratoire ou mon organisme de certification peut-il commander pour moi?
 
-Oui, et beaucoup le font. La lettre vous nomme toujours comme demandeur. Les laboratoires et organismes qui traitent plusieurs clients étrangers prennent généralement le [plan annuel](/fr/pricing/).
+Oui, et beaucoup le font. La lettre vous nomme toujours comme demandeur. Les laboratoires et organismes qui traitent plusieurs clients étrangers regroupent généralement plusieurs certifications sur une seule [facture](/fr/pricing/).
 
 ### Et si je n’ai pas encore de numéro d’entreprise ISDE?
 
