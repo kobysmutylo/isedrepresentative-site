@@ -36,7 +36,7 @@ Une lettre d’attestation signée en PDF, sur papier à en-tête du cabinet, co
 
 ## Pourquoi un avocat plutôt qu’un laboratoire ou un consultant
 
-Le rôle de représentant est un engagement juridique continu, pas un document ponctuel. Confier ce rôle à un cabinet réglementé a trois conséquences. D’abord la continuité : les cabinets d’avocats sont tenus par des règles professionnelles sur la conservation des dossiers et la relève, de sorte que le mandat ne disparaît pas à la retraite d’un consultant ou au rachat d’un laboratoire. Ensuite la confidentialité : les détails de vos produits et votre correspondance avec ISDE relèvent d’une relation avocat-client régie par le Barreau de l’Ontario. Enfin l’indépendance : nous ne faisons ni essais ni certification et ne concurrençons pas votre laboratoire ou votre organisme, qui peuvent donc nous recommander des clients sans conflit.
+Le rôle de représentant est un engagement juridique continu plutôt qu’un document ponctuel, et cela devrait peser dans le choix de celui qui l’assume. Les règles professionnelles imposent aux avocats d’assurer la continuité des dossiers de leurs clients en cas de retraite, d’incapacité ou de décès, de sorte que le mandat ne s’éteint pas discrètement lorsqu’un consultant cesse ses activités ou qu’un laboratoire est racheté. Vos renseignements sur le produit et votre correspondance avec ISDE relèvent d’une relation avocat-client régie par le Barreau de l’Ontario. Ne faisant ni essais ni certification, nous ne sommes en concurrence avec personne pour le travail de conformité : un laboratoire ou un organisme peut nous adresser un client sans le confier à un concurrent.
 
 ## Des tarifs clairs
 
