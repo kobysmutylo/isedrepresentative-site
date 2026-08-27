@@ -6,7 +6,7 @@ short: Deutschland und EU
 type: country
 translation_of: /countries/germany/
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -39,7 +39,7 @@ Ein deutscher Hersteller, der nach Kanada liefert, braucht den kanadischen Vertr
 
 **Datenschutz.** Der Umgang mit personenbezogenen Daten ist in der [Datenschutzerklärung](/privacy/) beschrieben. Wir speichern nur die für die Benennung erforderlichen Kontaktdaten, nach dem kanadischen PIPEDA; unsere Zahlungs- und Formulardienstleister sind dort benannt — die Frage, die die deutsche Beschaffung zuerst stellt.
 
-**Beschaffung.** Lieferantenformulare und eine Pro-forma-Rechnung stellen wir auf Anfrage bereit; für Jahrespläne akzeptieren wir Bestellungen.
+**Beschaffung.** Lieferantenformulare und eine Pro-forma-Rechnung stellen wir auf Anfrage bereit; Bestellungen (PO) akzeptieren wir, und mehrere Zertifizierungen können auf einer Rechnung zusammengefasst werden.
 
 ## Zahlung und Zeitplan
 
@@ -60,7 +60,7 @@ Ja. Die Anerkennung der Stelle nach dem Abkommen Kanada–EU erlaubt ihr die Aus
 
 ### Kann unsere Muttergesellschaft einen Vertreter für den ganzen Konzern benennen?
 
-Die Benennung nennt die im ISED-Antrag genannte antragstellende Gesellschaft. Halten mehrere Konzerngesellschaften Zertifizierungen im eigenen Namen, braucht jede einen Vertreter für ihre eigenen Zertifizierungen. Ein [Jahresplan](/de/pricing/) deckt unbegrenzt viele Zertifizierungen eines Antragstellers ab.
+Die Benennung nennt die im ISED-Antrag genannte antragstellende Gesellschaft. Halten mehrere Konzerngesellschaften Zertifizierungen im eigenen Namen, braucht jede einen Vertreter für ihre eigenen Zertifizierungen. Mehrere Zertifizierungen desselben Antragstellers können wir auf einer [Sammelrechnung](/de/pricing/) zusammenfassen; der Preis bleibt US$ 499 je Zertifizierung.
 
 ### Erfordert eine permissive change ein neues Schreiben?
 
