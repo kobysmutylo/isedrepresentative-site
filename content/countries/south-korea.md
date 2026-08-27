@@ -5,12 +5,12 @@ h1: Canadian Representative for manufacturers in South Korea
 short: South Korea
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 3
 ---
 
 <div class="native" lang="ko" markdown="1">
-**한국어 요약.** 캐나다 ISED(구 Industry Canada)의 RSP-100 제4.1조에 따라, 회사 주소가 캐나다 밖에 있는 신청인은 IC 인증(ISED 무선기기 인증)을 받을 때 캐나다 대리인(Canadian Representative)을 지정해야 합니다. 저희는 오타와 소재 캐나다 법률사무소 Smutylo Law+로, 2010년부터 해외 제조사의 캐나다 대리인을 맡고 있습니다. 인증 제품 1건당 US$499(1회 결제)이며, 해당 제품이 캐나다 시장에서 판매되는 동안 대리인 관계가 유지됩니다. 결제 후 당일 영업일 내 서명된 대리인 확인서(PDF)를 발급하여 인증기관에 바로 제출하실 수 있습니다. 신청서는 영문이며 회신도 영문으로 드립니다. [한국어 페이지](/ko/) · [신청하기](/quote/)
+**한국어 요약.** 캐나다 ISED(구 Industry Canada)의 RSP-100 제4.1조에 따라, 회사 주소가 캐나다 밖에 있는 신청인은 IC 인증(ISED 무선기기 인증)을 받을 때 캐나다 대리인(Canadian Representative)을 지정해야 합니다. 저희는 오타와 소재 캐나다 법률사무소 Smutylo Law+로, 2010년부터 해외 제조사의 캐나다 대리인을 맡고 있습니다. 인증 제품 1건당 US$499(1회 결제)이며, 해당 제품이 캐나다 시장에서 판매되는 동안 대리인 관계가 유지됩니다. 확인서 수정은 횟수와 기한 제한 없이 무료입니다. 결제 후 당일 영업일 내 서명된 대리인 확인서(PDF)를 발급하여 인증기관에 바로 제출하실 수 있습니다. 신청서는 영문이며 회신도 영문으로 드립니다. [한국어 페이지](/ko/) · [신청하기](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -65,6 +65,11 @@ It has to run as long as the product is offered on the Canadian market, and that
 ### Do you provide Korean-language documents?
 
 We correspond and issue in English, because the ISED application and the letter are English documents. Korean-language enquiries are welcome.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

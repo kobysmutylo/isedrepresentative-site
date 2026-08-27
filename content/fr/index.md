@@ -40,7 +40,7 @@ Le rôle de représentant est un engagement juridique continu, pas un document p
 
 ## Des tarifs clairs
 
-**499 $ US par produit certifié, payable une seule fois** — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. C’est la période pendant laquelle la CPR-100 exige que vous ayez un représentant. Ces honoraires couvrent un numéro de certification IC, tous les modèles et HVIN qui y figurent, sans date de renouvellement ni seconde facture. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites dans les 90 premiers jours. Rien d’autre. [Tarifs complets](/fr/pricing/).
+**499 $ US par produit certifié, payable une seule fois** — nous demeurons votre représentant canadien tant que le produit est offert sur le marché canadien. C’est la période pendant laquelle la CPR-100 exige que vous ayez un représentant. Ces honoraires couvrent un numéro de certification IC, tous les modèles et HVIN qui y figurent, sans date de renouvellement ni seconde facture. Les révisions d’une lettre existante (nouveau numéro de modèle, adresse corrigée) sont gratuites, sans limite de temps. Rien d’autre. [Tarifs complets](/fr/pricing/).
 
 ## Ils nous font confiance
 

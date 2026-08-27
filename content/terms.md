@@ -34,7 +34,7 @@ You will provide accurate applicant and product information; keep us informed of
 
 The fee is as published on the pricing page at the time of order, in US dollars, exclusive of any applicable taxes. Nothing is charged until we have confirmed your request by email and you have chosen to pay; a request may be withdrawn at no cost at any time before payment. Fees are non-refundable once the letter has been issued.
 
-Revisions are free within 90 days of issue; after 90 days a revision is treated as a new request at the then-current fee.
+Revisions to a letter we have issued are included at no charge for as long as the appointment continues. There is no time limit and no revision fee, and no limit on the number of revisions. A revision covers changes under the same IC certification number: added models or HVINs, corrected applicant details, or a reissued letter. A new IC certification number is a new certification requiring its own appointment and fee.
 
 Coordination of more than two audit sample requests for the same certification in any twelve-month period is billed at our hourly rate, notified to you in advance.
 

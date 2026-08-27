@@ -39,7 +39,7 @@ The representative role is a standing legal commitment, not a one-time document.
 
 ## Pricing, stated plainly
 
-**US$499 per certified product**, paid once. That fee appoints us for one IC certification number, including every model and HVIN listed under it, and keeps us in place for as long as the product is offered on the Canadian market — the period RSP-100 requires you to have a representative. There is no renewal date and no second invoice. Revisions to an existing letter (a new model number, a corrected address) are handled free within the first 90 days. Nothing else. [Full pricing](/pricing/).
+**US$499 per certified product**, paid once. That fee appoints us for one IC certification number, including every model and HVIN listed under it, and keeps us in place for as long as the product is offered on the Canadian market — the period RSP-100 requires you to have a representative. There is no renewal date and no second invoice. Revisions to an existing letter — a new model number, a corrected address — are free, with no time limit. Nothing else. [Full pricing](/pricing/).
 
 ## Trusted by manufacturers and laboratories
 
@@ -77,7 +77,7 @@ For as long as your product is offered on the Canadian market. RSP-100 requires 
 
 ### Can you revise a letter that already exists?
 
-Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions within 90 days of issue are free; after that a revision is treated as a new request at the standard fee.
+Yes. Added models, changed company details and corrected certification numbers are common. Use the [revision form](/revise/). Revisions are free, with no time limit and no cap on how many you request. A new IC certification number is a new certification at US$499.
 
 ### What does the representative do if ISED asks for an audit sample?
 

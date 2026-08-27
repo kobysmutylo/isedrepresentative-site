@@ -61,7 +61,7 @@ Eine Gruppe von Modellen unter einer IC-Zertifizierungsnummer, typischerweise mi
 
 ### Können Sie ein bestehendes Schreiben ändern?
 
-Ja: neue Modelle, Firmenumbenennungen, Adresskorrekturen und neue HVINs sind Routine. Nutzen Sie das [Änderungsformular](/revise/). Innerhalb von 90 Tagen kostenlos.
+Ja: neue Modelle, Firmenumbenennungen, Adresskorrekturen und neue HVINs sind Routine. Nutzen Sie das [Änderungsformular](/revise/). Änderungen sind kostenlos – ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl, solange die Bestellung besteht. Eine neue IC-Zertifizierungsnummer ist eine neue Zertifizierung zu US$ 499.
 
 ### Unterzeichnen Sie das Formular meiner Zertifizierungsstelle?
 

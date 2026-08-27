@@ -69,6 +69,11 @@ Nein. Modelle, die unter einer bestehenden IC-Nummer ergänzt werden, sind vom b
 ### Was geschieht, wenn wir das Produkt in Kanada nicht mehr verkaufen?
 
 Die Pflicht besteht, solange das Produkt auf dem kanadischen Markt angeboten wird. Teilen Sie uns die Einstellung mit, dann schließen wir die Benennung für diese Zertifizierung ab.
+
+### Berechnen Sie das Hinzufügen eines Modells oder die Korrektur des Schreibens?
+
+Nein. Änderungen sind kostenlos – ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl, solange die Benennung besteht: ein neues Modell oder eine neue HVIN unter derselben IC-Nummer, ein korrigierter Firmenname oder eine korrigierte Anschrift oder ein neu ausgestelltes Schreiben. Eine neue IC-Zertifizierungsnummer ist eine neue Zertifizierung zu US$ 499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

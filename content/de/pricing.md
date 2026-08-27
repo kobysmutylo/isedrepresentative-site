@@ -20,7 +20,7 @@ updated: 2026-08-27
 - Eine IC-Zertifizierungsnummer, alle aufgeführten Modelle, HVINs und PMNs
 - Unterzeichnetes Schreiben am selben Werktag
 - Bearbeitung von ISED-Anfragen und Koordination von Prüfmustern inklusive
-- Kostenlose Änderungen innerhalb von 90 Tagen
+- Kostenlose Änderungen – ohne zeitliche Begrenzung, ohne Gebühr
 - Keine Verlängerung, keine zweite Rechnung
 
 <a class="btn btn-primary" href="/quote/">Schreiben bestellen</a>
@@ -36,7 +36,9 @@ Kartenzahlung über Stripe (Visa, Mastercard, American Express, die meisten Firm
 
 ## Änderungen
 
-Ein Modell oder eine HVIN zu einer bestehenden Zertifizierung hinzuzufügen oder die Angaben des Antragstellers zu korrigieren ist innerhalb von 90 Tagen nach Ausstellung kostenlos; spätere Änderungen gelten als neuer Auftrag zum Standardpreis; nutzen Sie das [Änderungsformular](/revise/).
+Änderungen an einem von uns ausgestellten Schreiben sind kostenlos – ohne zeitliche Begrenzung und ohne Gebühr. Ein neues Modell oder eine neue HVIN unter derselben Zertifizierung, ein korrigierter Name oder eine korrigierte Anschrift des Antragstellers, ein neu ausgestelltes Schreiben – so oft Sie es brauchen, solange die Bestellung besteht. Nutzen Sie das [Änderungsformular](/revise/); geänderte Schreiben stellen wir am selben Werktag aus.
+
+Die einzige Grenze ist die Zertifizierungsnummer: Eine Änderung erfasst Änderungen unter derselben IC-Zertifizierungsnummer. Eine neue IC-Nummer ist eine neue Zertifizierung und erfordert eine eigene Bestellung zu US$ 499.
 
 Eine einmal bezahlte Bestellung besteht fort, solange das Produkt auf dem kanadischen Markt angeboten wird. Es gibt nichts zu verlängern.
 
@@ -45,6 +47,10 @@ Eine einmal bezahlte Bestellung besteht fort, solange das Produkt auf dem kanadi
 Die meisten Anbieter in diesem Markt nennen Preise nur auf Anfrage. Unser Honorar ist für jeden Kunden und jedes Produkt gleich; es gibt nichts zu verhandeln und keinen Grund, Sie fragen zu lassen. Außerdem kann Ihr Labor oder Ihre CB eine feste Zahl in das Projektangebot übernehmen.
 
 <!--faq-->
+### Berechnen Sie Änderungen?
+
+Nein. Änderungen sind kostenlos – ohne zeitliche Begrenzung und ohne Begrenzung ihrer Anzahl, solange die Bestellung besteht. Das gilt für ergänzte Modelle und HVINs unter derselben IC-Nummer, korrigierte Angaben des Antragstellers und neu ausgestellte Schreiben. Eine neue IC-Zertifizierungsnummer ist eine neue Zertifizierung zu US$ 499.
+
 ### Gibt es eine Jahresgebühr oder eine Verlängerungsgebühr?
 
 Nein. Die US$ 499 werden einmal je zertifiziertem Produkt gezahlt und decken die kanadische Vertretung für diese Zertifizierung ab, solange das Produkt auf dem kanadischen Markt angeboten wird. Keine Jahresgebühr, kein Verlängerungstermin, keine zweite Rechnung.

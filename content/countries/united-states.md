@@ -5,7 +5,7 @@ h1: Canadian Representative for manufacturers in the United States
 short: United States
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 5
 ---
 
@@ -67,6 +67,11 @@ No. The Company Number identifies the applicant to ISED; it does not appoint any
 ### How fast can we get the letter?
 
 Same business day once payment clears, in the same time zone as your East Coast team. There is no expedite fee because there is no slower option.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

@@ -26,7 +26,7 @@ Am selben Werktag (Eastern Time) erhalten Sie ein unterzeichnetes PDF auf Briefp
 
 ## Schritt 4: Wir bleiben für die Laufzeit hinterlegt
 
-Wir bleiben der kanadische Vertreter für diese Zertifizierung, solange das Produkt auf dem kanadischen Markt angeboten wird. Wendet sich ISED oder Ihre CB wegen des Produkts an uns, informieren wir Sie am selben Werktag und koordinieren die Antwort. Wird ein Prüfmuster angefordert, organisieren wir den Versand mit Ihnen. Neue Modelle oder geänderte Firmendaten melden Sie über das [Änderungsformular](/revise/).
+Wir bleiben der kanadische Vertreter für diese Zertifizierung, solange das Produkt auf dem kanadischen Markt angeboten wird. Wendet sich ISED oder Ihre CB wegen des Produkts an uns, informieren wir Sie am selben Werktag und koordinieren die Antwort. Wird ein Prüfmuster angefordert, organisieren wir den Versand mit Ihnen. Neue Modelle oder geänderte Firmendaten melden Sie über das [Änderungsformular](/revise/) – Änderungen sind kostenlos, ohne zeitliche Begrenzung.
 
 ## Zeitablauf in der Praxis
 

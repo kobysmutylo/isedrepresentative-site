@@ -5,7 +5,7 @@ h1: Canadian Representative for manufacturers in the United Kingdom
 short: United Kingdom
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 7
 ---
 
@@ -69,6 +69,11 @@ Only with a genuine Canadian place of business and a written acceptance of the d
 ### How long does the appointment last?
 
 For as long as the certified product is offered on the Canadian market. There is no fixed expiry in RSP-100 independent of that.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

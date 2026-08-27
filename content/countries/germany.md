@@ -5,12 +5,12 @@ h1: Canadian Representative for manufacturers in Germany and the European Union
 short: Germany and EU
 type: country
 date: 2026-08-20
-updated: 2026-08-26
+updated: 2026-08-27
 order: 6
 ---
 
 <div class="native" lang="de" markdown="1">
-**Zusammenfassung auf Deutsch.** Nach RSP-100 Abs. 4.1 der kanadischen Behörde ISED (früher Industry Canada) muss jeder Antragsteller mit Firmensitz außerhalb Kanadas für die IC-Zertifizierung (ISED-Funkzulassung) einen kanadischen Vertreter (Canadian Representative) benennen. Wir sind die Anwaltskanzlei Smutylo Law+ in Ottawa und übernehmen diese Rolle seit 2010 für ausländische Hersteller: US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird; unterzeichnetes Bestätigungsschreiben (PDF) am selben Werktag nach Zahlungseingang, direkt an Ihre Zertifizierungsstelle weiterleitbar. Das Formular ist auf Englisch; wir antworten auf Englisch. [Deutsche Seite](/de/) · [Jetzt anfordern](/quote/)
+**Zusammenfassung auf Deutsch.** Nach RSP-100 Abs. 4.1 der kanadischen Behörde ISED (früher Industry Canada) muss jeder Antragsteller mit Firmensitz außerhalb Kanadas für die IC-Zertifizierung (ISED-Funkzulassung) einen kanadischen Vertreter (Canadian Representative) benennen. Wir sind die Anwaltskanzlei Smutylo Law+ in Ottawa und übernehmen diese Rolle seit 2010 für ausländische Hersteller: US$ 499 je zertifiziertem Produkt, einmalig – wir bleiben Ihr kanadischer Vertreter, solange das Produkt auf dem kanadischen Markt angeboten wird; Änderungen des Schreibens sind unbegrenzt und kostenlos; unterzeichnetes Bestätigungsschreiben (PDF) am selben Werktag nach Zahlungseingang, direkt an Ihre Zertifizierungsstelle weiterleitbar. Das Formular ist auf Englisch; wir antworten auf Englisch. [Deutsche Seite](/de/) · [Jetzt anfordern](/quote/)
 </div>
 
 <div class="answer" markdown="1">
@@ -73,6 +73,11 @@ No. Models added under an existing IC number are covered by the existing letter.
 ### What happens if we stop selling the product in Canada?
 
 The obligation runs while the product is offered on the Canadian market. Tell us when a product is withdrawn and we will close the appointment for that certification.
+
+### Do you charge to add a model or correct the letter?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts: a new model or HVIN under the same IC number, a corrected legal name or address, or a reissued letter. A new IC certification number is a new certification at US$499.
+
 <!--/faq-->
 
 <div class="source" markdown="1">

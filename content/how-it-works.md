@@ -4,7 +4,7 @@ description: Four steps from quote form to signed RSP-100 attestation letter, us
 h1: How it works: from form to signed letter in one business day
 short: How it works
 type: howto
-updated: 2026-08-20
+updated: 2026-08-27
 ---
 
 <div class="answer" markdown="1">
@@ -25,7 +25,7 @@ The same business day, Eastern Time, you receive a signed PDF on Smutylo Law+ le
 
 ## Step 4: We remain on file for the term
 
-For as long as the product is offered on the Canadian market, we are the Canadian Representative for that certification. If ISED or your CB contacts us about the product we notify you the same business day and coordinate the response. If an audit sample is requested we arrange its delivery with you. If you add a model or change company details, use the [revision form](/revise/).
+For as long as the product is offered on the Canadian market, we are the Canadian Representative for that certification. If ISED or your CB contacts us about the product we notify you the same business day and coordinate the response. If an audit sample is requested we arrange its delivery with you. If you add a model or change company details, use the [revision form](/revise/) — revisions are free, with no time limit.
 
 ## Timing in practice
 

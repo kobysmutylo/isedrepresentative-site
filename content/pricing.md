@@ -18,7 +18,7 @@ updated: 2026-08-27
 - One IC certification number, all listed models, HVINs and PMNs
 - Signed attestation letter the same business day
 - ISED enquiry handling and audit sample coordination included
-- Free revisions within 90 days of issue
+- Revisions always free — no time limit, no fee
 - No renewal date, no second invoice
 
 <a class="btn btn-primary" href="/quote/">Order a letter</a>
@@ -34,7 +34,9 @@ Card payments through Stripe (Visa, Mastercard, American Express, and most regio
 
 ## Revisions
 
-Adding a model or HVIN to an existing certification, or correcting the applicant's details, is free within 90 days of issue. After 90 days a revision is treated as a new request at the standard fee. Use the [revision form](/revise/).
+Revisions to a letter we have issued are free, with no time limit and no fee. A new model or HVIN under the same certification, a corrected applicant name or address, a reissued letter — as many times as you need, for as long as the appointment lasts. Use the [revision form](/revise/); revised letters issue the same business day.
+
+The one boundary is the certification number. A revision covers changes under the same IC certification number. A new IC number is a new certification and needs its own appointment at US$499.
 
 There is nothing to renew. An appointment you have paid for continues for as long as the product is offered on the Canadian market, on the [terms of service](/terms/).
 
@@ -43,6 +45,10 @@ There is nothing to renew. An appointment you have paid for continues for as lon
 Our fee is the same for every client and every product, so there is nothing to negotiate and no reason to make you ask. It also lets your lab or CB put a firm number in their project quote.
 
 <!--faq-->
+### Do you charge for revisions?
+
+No. Revisions are free, with no time limit and no cap on how many you request, for as long as the appointment lasts. That covers added models and HVINs under the same IC number, corrected applicant details, and reissued letters. A new IC certification number is a new certification at US$499.
+
 ### Is there an annual fee or a renewal fee?
 
 No. US$499 is paid once per certified product and covers Canadian Representation for that certification for as long as the product is offered on the Canadian market. There is no annual fee, no renewal date and no second invoice.
