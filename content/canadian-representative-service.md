@@ -1,10 +1,10 @@
 ---
-title: ISED Canadian Representative Service | What Is Included | RSP-100 s. 4.1
+title: ISED Canadian Representative Service (IC Representative) | RSP-100 s. 4.1
 description: Exactly what our Canadian Representative service includes: the signed RSP-100 attestation letter, ISED enquiry handling and audit sample coordination, for as long as the product is on the Canadian market.
 h1: The Canadian Representative service, in full
 short: Service
 type: service
-updated: 2026-08-27
+updated: 2026-09-09
 ---
 
 <div class="answer" markdown="1">
