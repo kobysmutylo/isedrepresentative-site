@@ -5,7 +5,7 @@ h1: ISED certification in Canada: an overview for manufacturers outside Canada
 short: Certification process overview
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-09
 order: 10
 ---
 
@@ -25,7 +25,7 @@ The applicant (usually the manufacturer or brand owner), a test laboratory recog
 
 **1. Identify the applicable standards.** Your lab determines which RSS standards apply to each radio in the product and whether RSS-102 RF exposure evaluation is needed.
 
-**2. Obtain an ISED Company Number.** The applicant registers with ISED to obtain a company number, which forms the first part of every IC certification number the company is granted.
+**2. Obtain an ISED Company Number.** The applicant registers with ISED to obtain a company number, which forms the first part of every IC certification number the company is granted. How to look one up or apply: [ISED company number](/guides/ised-company-number/).
 
 **3. Test.** An ISED-recognized lab tests to the applicable RSS standards and produces a report. For products already tested to FCC rules much of the data is reusable; see [from FCC to ISED](/guides/fcc-to-ised/).
 
