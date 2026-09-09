@@ -407,7 +407,7 @@ def render(slug, meta, body_html, faqs):
 </div>
 <div>
 <p class="foot-h">Company</p>
-<ul><li><a href="/about/">About Koby Smutylo</a></li><li><a href="/clients/">Clients</a></li><li><a href="/case-examples/">Case examples</a></li><li><a href="/contact/">Contact</a></li><li><a href="/terms/">Terms of service</a></li><li><a href="/privacy/">Privacy</a></li><li><a href="https://lawyercorporation.ca/" rel="noopener">Smutylo Law+</a></li></ul>
+<ul><li><a href="/about/">About Koby Smutylo</a></li><li><a href="/clients/">Clients</a></li><li><a href="/case-examples/">Case examples</a></li><li><a href="/contact/">Contact</a></li><li><a href="/verify/">Verify a letter</a></li><li><a href="/terms/">Terms of service</a></li><li><a href="/privacy/">Privacy</a></li><li><a href="https://lawyercorporation.ca/" rel="noopener">Smutylo Law+</a></li></ul>
 </div>
 </div>
 <div class="wrap foot-legal"><p>© 2010–{dt.date.today().year} Smutylo Law+. ISED and Innovation, Science and Economic Development Canada are names of the Government of Canada; this site is an independent professional service and is not affiliated with ISED. Primary source: <a href="{RSP100}" rel="noopener">RSP-100, Issue 12</a>.</p></div>
