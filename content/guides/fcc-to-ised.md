@@ -1,11 +1,11 @@
 ---
-title: From FCC to ISED: Certifying a US-Approved Wireless Product for Canada
+title: Do I Need ISED Certification If I Have FCC? From FCC to ISED for Canada
 description: What changes when a product with FCC certification enters Canada: RSS standards vs FCC Part 15, the IC certification number, labelling, using a US FCB under the mutual recognition arrangement, and the Canadian Representative requirement.
 h1: From FCC to ISED: bringing a US-certified product into Canada
 short: FCC to ISED
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-09
 order: 09
 ---
 

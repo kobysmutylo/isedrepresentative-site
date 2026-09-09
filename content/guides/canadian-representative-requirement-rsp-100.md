@@ -5,7 +5,7 @@ h1: What RSP-100 section 4.1 requires of a Canadian Representative
 short: RSP-100 requirement
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-09
 order: 01
 ---
 
@@ -39,11 +39,11 @@ Canadian certification bodies, and foreign certification bodies recognized under
 
 ## Who can be the representative
 
-RSP-100 does not prescribe qualifications. Any person or entity with a genuine Canadian address who will accept the duties can serve. In practice the candidates are a Canadian subsidiary or affiliate, a Canadian distributor, a Canadian test laboratory, a consultancy, or a professional firm. The choice matters because the appointment must survive for years: a distributor relationship may end, a lab may be acquired, a consultant may retire. The comparison is set out in [representative vs certification body vs test lab](/guides/representative-vs-certification-body-vs-test-lab/) and [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
+RSP-100 does not prescribe qualifications. Any person or entity with a genuine Canadian address who will accept the duties can serve. In practice the candidates are a Canadian subsidiary or affiliate, a Canadian distributor, a Canadian test laboratory, a consultancy, or a professional firm. The choice matters because the appointment must survive for years: a distributor relationship may end, a lab may be acquired, a consultant may retire. The comparison is set out in [representative vs certification body vs test lab](/guides/representative-vs-certification-body-vs-test-lab/) and [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/); the steps are in [how to hire a Canadian Representative](/guides/how-to-appoint-a-canadian-representative/).
 
 ## Terminal equipment
 
-Terminal equipment registered under DC-01 rather than certified under RSP-100 is subject to an equivalent requirement for a Canadian contact (DC-01 section 6). The practical mechanics are the same.
+Terminal equipment registered under DC-01 rather than certified under RSP-100 is subject to an equivalent requirement (DC-01 section 6). The practical mechanics are the same; see [DC-01 terminal equipment](/guides/dc-01-terminal-equipment-canadian-representative/). Equipment that is only self-declared under ICES-003 has no such requirement: [ICES-003 SDoC](/guides/ices-003-sdoc-canadian-representative/).
 
 ## Older names for the same requirement
 

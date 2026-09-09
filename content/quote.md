@@ -4,7 +4,7 @@ description: Request an RSP-100 Canadian Representative attestation letter. US$4
 h1: Request your attestation letter
 short: Request
 type: page
-updated: 2026-08-20
+updated: 2026-09-09
 ---
 
 <div class="answer" markdown="1">
@@ -30,7 +30,7 @@ US$499 per certified product, paid once, covering the appointment for as long as
 <textarea id="address" name="address" required autocomplete="street-address"></textarea>
 <label for="cn">ISED Company Number</label>
 <input id="cn" name="ised_company_number" placeholder="Leave blank if not yet assigned">
-<p class="hint">If you do not have one, we explain how to obtain it when we confirm your request.</p>
+<p class="hint">Look yours up in <a href="https://sms-sgs.ic.gc.ca/equipmentSearch/searchCompanyNames?lang=en_CA" rel="noopener">ISED's company name search</a>. If you do not have one yet, leave it blank; <a href="/guides/ised-company-number/">how to get an ISED company number</a>.</p>
 <label for="country">Country</label>
 <input id="country" name="country" required autocomplete="country-name">
 </fieldset>

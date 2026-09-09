@@ -1,11 +1,11 @@
 ---
-title: Canadian Representative Attestation Letter: Required Fields and Sample Structure
-description: The fields a Canadian Representative attestation letter must contain for ISED certification bodies to accept it, why each one matters, and a sample structure. Based on letters accepted by CBs and FCBs since 2010.
+title: Canadian Representative Letter Sample and Template: Required Fields
+description: A sample structure and template for the ISED Canadian Representative attestation letter: the fields certification bodies require, why each one matters, and the mistakes that get letters rejected. Based on letters accepted by CBs and FCBs since 2010.
 h1: Attestation letter: required fields and sample structure
 short: Attestation letter fields
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-09
 order: 02
 ---
 

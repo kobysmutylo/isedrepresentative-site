@@ -4,7 +4,7 @@ description: Answers to the questions manufacturers, labs and certification bodi
 h1: ISED Canadian Representative: frequently asked questions
 short: FAQ
 type: faq
-updated: 2026-08-27
+updated: 2026-09-09
 ---
 
 <div class="answer" markdown="1">
@@ -32,7 +32,19 @@ Any applicant for ISED radio equipment certification whose company address is ou
 
 ### Does the requirement apply to terminal equipment as well as radio apparatus?
 
-Yes. Terminal equipment registered under DC-01 is subject to an equivalent Canadian contact requirement (DC-01 section 6). Tell us if your product is terminal equipment so the letter cites the right procedure.
+Yes. Terminal equipment registered under DC-01 is subject to an equivalent Canadian Representative requirement (DC-01 section 6). Tell us if your product is terminal equipment so the letter cites the right procedure. Guide: [DC-01 terminal equipment](/guides/dc-01-terminal-equipment-canadian-representative/).
+
+### Do I need a Canadian Representative for ICES-003 (SDoC) equipment?
+
+No. ICES-003 equipment is self-declared under ICES-Gen, which has no Canadian Representative provision. If the same product contains a certified radio, the representative is needed for that certification. Guide: [ICES-003 SDoC](/guides/ices-003-sdoc-canadian-representative/).
+
+### What is an ISED company number, and do I need one before ordering the letter?
+
+The company number is the identifier ISED assigns to a registered applicant; it is the first block of every IC certification number. You get one by registering a web account in ISED's Spectrum Management System, and you can look up an existing one with ISED's company name search. We can issue the letter before the number is assigned and reissue it free when it arrives. Full guide: [ISED company number](/guides/ised-company-number/).
+
+### How do I hire a Canadian Representative?
+
+Confirm your applicant address is outside Canada, choose a representative with a real Canadian place of business that accepts the section 4.1 duties for the life of the product, send it your legal name, address, company number and product details, and give the signed letter to your certification body. Step by step: [how to hire a Canadian Representative](/guides/how-to-appoint-a-canadian-representative/).
 
 ### Can my Canadian distributor or importer be the representative?
 
