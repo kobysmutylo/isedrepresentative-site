@@ -27,7 +27,7 @@ The applicant (usually the manufacturer or brand owner), a test laboratory recog
 
 **2. Obtain an ISED Company Number.** The applicant registers with ISED to obtain a company number, which forms the first part of every IC certification number the company is granted. How to look one up or apply: [ISED company number](/guides/ised-company-number/).
 
-**3. Test.** An ISED-recognized lab tests to the applicable RSS standards and produces a report. For products already tested to FCC rules much of the data is reusable; see [from FCC to ISED](/guides/fcc-to-ised/).
+**3. Test.** An ISED-recognized lab tests to the applicable RSS standards and produces a report. ISED's lists of recognized labs and certification bodies, and what to check on them, are in [how to choose a certification body and test lab](/guides/how-to-choose-an-ised-certification-body-and-test-lab/). For products already tested to FCC rules much of the data is reusable; see [from FCC to ISED](/guides/fcc-to-ised/).
 
 **4. Apply to a certification body.** The application (RSP-100's Application and Agreement for Certification Services) includes the test report, technical documentation, photographs, label artwork, user manual, and, for foreign applicants, the Canadian Representative's details and letter (RSP-100 section 4.1). See [attestation letter required fields](/guides/attestation-letter-required-fields/).
 

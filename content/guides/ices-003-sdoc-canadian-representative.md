@@ -21,6 +21,17 @@ The radio side is covered by the Radio Standards Specifications (RSS-247 for Wi-
 
 So a laptop with no radio is ICES-003 only and needs no representative. A laptop with Wi-Fi is ICES-003 for the digital portion and RSS-247 certification for the radio, and the foreign applicant for the certification needs a representative. The representative is appointed against the IC certification number, not the ICES declaration.
 
+## The three routes at a glance
+
+| | Radio apparatus (Category I) | Terminal equipment | Interference-causing equipment (ICES-003 etc.) |
+|---|---|---|---|
+| Procedure | RSP-100 certification | DC-01 declaration and registration | ICES-Gen Supplier's Declaration of Conformity |
+| Who decides compliance | A recognized certification body | The supplier declares; ISED registers | The supplier declares |
+| Public listing | Radio Equipment List (REL) | Telecommunication Apparatus Register (TAR) | None |
+| Identifier on the product | IC certification number and HVIN | ISED registration number and HVIN | "CAN ICES-003 (B) / NMB-003 (B)" style label |
+| Canadian Representative for a foreign applicant | Required, RSP-100 s. 4.1 | Required, DC-01 s. 6 | Not required; the responsible party is defined by activity |
+| Guide | [Process overview](/guides/ised-certification-process-overview/) | [DC-01 terminal equipment](/guides/dc-01-terminal-equipment-canadian-representative/) | This page |
+
 ## Who is the "responsible party" under ICES-Gen
 
 Some providers offer an "ICES-003 responsible party" or "SDoC representative" service. The phrase comes from ICES-Gen section 3.2, which defines the responsible party as "the party that is involved in one of the activities listed in article 4 of the Radiocommunication Act relative to a specific model of interference-causing equipment. These activities are: manufacture, importation, distribution, lease, offering for sale, and sale."
