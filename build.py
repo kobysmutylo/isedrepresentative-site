@@ -295,7 +295,7 @@ def schema_for(slug, meta, faqs, body_text):
     if faqs:
         graph.append({"@type": "FAQPage", "@id": SITE + slug + "#faq", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs]})
-    if t == "howto":
+    if t in ("howto", "guide"):
         steps = re.findall(r"<h2[^>]*>(Step \d+[^<]*)</h2>\s*<p>(.*?)</p>", body_text_html_cache[slug], re.S)
         if steps:
             graph.append({"@type": "HowTo", "@id": SITE + slug + "#howto", "name": meta.get("h1", meta["title"]),
