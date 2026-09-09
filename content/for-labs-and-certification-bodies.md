@@ -4,7 +4,7 @@ description: How laboratories and certification bodies refer foreign clients for
 h1: For test laboratories and certification bodies
 short: For labs and CBs
 type: page
-updated: 2026-08-27
+updated: 2026-09-09
 ---
 
 <div class="answer" markdown="1">
@@ -47,6 +47,10 @@ or as HTML:
 - [RSP-100 Canadian Representative checklist for certification bodies](/guides/rsp-100-checklist-for-certification-bodies/)
 - [Attestation letter required fields](/guides/attestation-letter-required-fields/)
 - [One representative letter per IC ID](/guides/one-representative-letter-per-ic-id/)
+
+## Verifying a letter
+
+If a letter naming Smutylo Law+ arrives with an application and you want to confirm it, use the [verification page](/verify/) or email us with the IC number in the subject line; we confirm within one business day.
 
 ## Contact
 

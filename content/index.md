@@ -1,6 +1,6 @@
 ---
 title: ISED Canadian Representative (IC Representative) | Same-Day Letter | $499
-description: Appoint a Canadian Representative for ISED wireless certification under RSP-100 s. 4.1. Ontario lawyer, since 2010. US$499 per certified product, for as long as it is on the Canadian market.
+description: Appoint a Canadian Representative for ISED wireless certification under RSP-100 s. 4.1. Independent Ontario law firm, not a lab or CB, since 2010. US$499 per certified product, paid once, no expiry, signed letter the same business day.
 h1: Canadian Representative for ISED wireless device certification
 type: page
 updated: 2026-09-09

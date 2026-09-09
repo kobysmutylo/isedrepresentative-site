@@ -48,6 +48,10 @@ Most US companies hit step 3 without warning, and it is the representative lette
 
 ISED's Class I and Class II permissive change framework in RSP-100 section 10 parallels the FCC's. A change filed with the FCC usually needs the equivalent filing with ISED, and a Class II change that keeps the IC number stays within the existing representative appointment.
 
+## The FCC U.S. agent is a separate appointment
+
+Since FCC 22-84, every applicant for FCC equipment authorization designates a U.S. agent for service of process under 47 CFR 2.911(d)(7). That appointment does not satisfy, and is not satisfied by, the ISED Canadian Representative; the two are compared in [FCC U.S. agent vs ISED Canadian Representative](/guides/fcc-us-agent-vs-ised-canadian-representative/).
+
 ## Modules
 
 A US-certified module used in a host needs its own ISED modular certification for the host to rely on it in Canada; FCC modular approval does not transfer. The module maker, if outside Canada, needs a Canadian Representative for that certification. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).

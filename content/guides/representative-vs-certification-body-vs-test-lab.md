@@ -5,7 +5,7 @@ h1: Canadian Representative, certification body, test laboratory: who does what
 short: Representative vs CB vs lab
 type: guide
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-09
 order: 06
 ---
 
@@ -46,6 +46,8 @@ A law firm does none of the other two jobs, so there is no conflict and labs and
 ## How the three work together in practice
 
 The lab finishes testing and the CB begins review. The CB asks the applicant for the representative's details and letter. The applicant orders the letter from us, we issue it the same business day, the applicant forwards it to the CB, and the CB completes the certificate. The lab's job is done; the CB's continues in the audit program; ours continues for the life of the product. If ISED or the CB later has a question, it comes to us and we bring in the applicant and, where needed, the lab.
+
+ISED's own lists of recognized certification bodies and laboratories, and what to check on them, are in [how to choose an ISED certification body and test lab](/guides/how-to-choose-an-ised-certification-body-and-test-lab/).
 
 <div class="source" markdown="1">
 **Sources.** [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), sections 4.1, 11 and 12. ISED's [Certification and Engineering Bureau](https://ised-isde.canada.ca/site/certification-engineering-bureau/en) pages on recognized certification bodies and testing laboratories.

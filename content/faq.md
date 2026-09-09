@@ -42,6 +42,10 @@ No. ICES-003 equipment is self-declared under ICES-Gen, which has no Canadian Re
 
 The company number is the identifier ISED assigns to a registered applicant; it is the first block of every IC certification number. You get one by registering a web account in ISED's Spectrum Management System, and you can look up an existing one with ISED's company name search. We can issue the letter before the number is assigned and reissue it free when it arrives. Full guide: [ISED company number](/guides/ised-company-number/).
 
+### Do I also need an FCC U.S. agent?
+
+For an FCC certification, yes: 47 CFR 2.911(d)(7) requires every applicant to designate an agent in the United States for service of process. It is a separate appointment under a different law, and we do not provide it. The two roles are compared in [FCC U.S. agent vs ISED Canadian Representative](/guides/fcc-us-agent-vs-ised-canadian-representative/).
+
 ### How do I hire a Canadian Representative?
 
 Confirm your applicant address is outside Canada, choose a representative with a real Canadian place of business that accepts the section 4.1 duties for the life of the product, send it your legal name, address, company number and product details, and give the signed letter to your certification body. Step by step: [how to hire a Canadian Representative](/guides/how-to-appoint-a-canadian-representative/).
@@ -81,6 +85,14 @@ Yes: added models, changed company names, corrected addresses and new HVINs are 
 ### Can you sign my certification body's own representative form instead?
 
 Yes, at no additional cost. Several CBs and FCBs prefer their own template.
+
+### Does a Canadian Representative letter expire?
+
+Ours does not. Some providers issue letters with a one-year or multi-year validity and invoice again at renewal; RSP-100 section 4.1 itself sets no term, it requires the appointment to last for as long as the product is offered in Canada. Our letter states the appointment on that basis, with no expiry date and no renewal. If your certification body asks for a fresh copy years later, we reissue it free.
+
+### How can a certification body verify your letter? Is a QR code required?
+
+By email, phone or the [verification page](/verify/); we confirm within one business day. No QR code, seal or blockchain device is required: RSP-100 prescribes no form for the letter beyond identifying the representative on the application. Our letters carry the firm's legal name, Ottawa address and the signatory, a Law Society of Ontario licensee who can be looked up in the Law Society's public directory.
 <!--/faq-->
 
 ## Duration and obligations
