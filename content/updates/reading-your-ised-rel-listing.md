@@ -5,7 +5,7 @@ h1: How to read your ISED Radio Equipment List entry — and what is not in it
 short: Reading the REL
 type: update
 date: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 <div class="answer" markdown="1">
@@ -20,7 +20,7 @@ There is one relief valve. An applicant can ask ISED for a deferred REL listing 
 
 ## Finding an entry
 
-The search page takes seven fields: HVIN, PMN, HMN, certification number, company name, company number, and equipment description. An advanced panel adds the radio standard (a pick-list from BETS-1 to RSS-310, with RSS-247 split into DFS and non-DFS), frequency range, occupied bandwidth, emission code and power. Company name is the forgiving search. Certification number is the exact one. The IC number itself is two parts joined by a hyphen — the company number ISED assigned you (four digits and a letter) and the product identifier your CB chose — so a search on the company number alone returns everything you have ever certified.
+The search page takes seven fields: HVIN, PMN, HMN, certification number, company name, company number, and equipment description. An advanced panel adds the radio standard (a pick-list from BETS-1 to RSS-310, with RSS-247 split into DFS and non-DFS), frequency range, occupied bandwidth, emission code and power. Company name is the forgiving search. Certification number is the exact one. The IC number itself is two parts joined by a hyphen — the [company number](/guides/ised-company-number/) ISED assigned you (four digits and a letter for older assignments, five digits for newer ones) and the product identifier your CB chose — so a search on the company number alone returns everything you have ever certified.
 
 Results come back grouped by company, sortable by HVIN, PMN, HMN, FVIN, certification number or approval date, with a CSV download. That CSV is the quickest way to reconcile the register against your own product list, and we suggest doing it once a year when you confirm to us which products are still on the Canadian market.
 
