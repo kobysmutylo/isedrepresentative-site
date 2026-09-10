@@ -5,7 +5,7 @@ h1: ISED certification in Canada: an overview for manufacturers outside Canada
 short: Certification process overview
 type: guide
 date: 2026-08-20
-updated: 2026-09-09
+updated: 2026-09-10
 order: 10
 ---
 
@@ -47,7 +47,7 @@ ISED and CBs audit certified products by requesting samples from the market or f
 
 ## Timelines and cost
 
-With test data in hand, CB review and certificate issue typically take one to three weeks depending on the CB's queue and the completeness of the file. Testing adds whatever the lab needs, usually concurrent with FCC or CE work. The Canadian Representative letter takes one business day and costs US$499 per certification. Lab and CB fees vary; ask them.
+With test data in hand, CB review and certificate issue typically take one to three weeks depending on the CB's queue and the completeness of the file. Testing adds whatever the lab needs, usually concurrent with FCC or CE work. The Canadian Representative letter takes one business day and costs US$499 per certification. Lab and CB fees vary; ask them. ISED's own fees and the published lab and CB ranges are set out in [what ISED certification costs in 2026](/guides/ised-certification-cost/).
 
 <div class="source" markdown="1">
 **Sources.** [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment); ISED [Certification and Engineering Bureau](https://ised-isde.canada.ca/site/certification-engineering-bureau/en) (Radio Equipment List, recognized CBs and labs, RSS standards index). This overview is general; confirm current standard issues and procedures with your lab and CB.
