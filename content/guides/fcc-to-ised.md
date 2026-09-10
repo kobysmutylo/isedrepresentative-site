@@ -5,7 +5,7 @@ h1: From FCC to ISED: bringing a US-certified product into Canada
 short: FCC to ISED
 type: guide
 date: 2026-08-20
-updated: 2026-09-09
+updated: 2026-09-10
 order: 09
 ---
 
@@ -19,7 +19,7 @@ US engineers usually know the Canadian regime as "IC certification" or "Industry
 
 ## What carries over and what does not
 
-**Test data, largely.** ISED's RSS standards are closely harmonized with the corresponding FCC rules for most unlicensed and licensed radio categories (RSS-247 alongside Part 15.247 for Wi-Fi and Bluetooth, RSS-210 for licence-exempt devices, RSS-130 and RSS-132/133/139 families for cellular bands, RSS-102 for RF exposure alongside the FCC's SAR and MPE requirements). A competent lab tests to both at the same time. Where Canadian limits or band plans differ, supplementary measurements are needed; your lab will know.
+**Test data, largely.** ISED's RSS standards are closely harmonized with the corresponding FCC rules for most unlicensed and licensed radio categories ([RSS-247](/guides/rss-247-wifi-bluetooth-certification-canada/) alongside Part 15.247 for Wi-Fi and Bluetooth, RSS-210 for licence-exempt devices, RSS-130 and RSS-132/133/139 families for cellular bands, RSS-102 for RF exposure alongside the FCC's SAR and MPE requirements). A competent lab tests to both at the same time. Where Canadian limits or band plans differ, supplementary measurements are needed; your lab will know.
 
 **The certification body, often.** Under the Canada–United States mutual recognition arrangement, ISED recognizes US-based foreign certification bodies (FCBs) to issue ISED certificates, and most US TCBs hold that recognition. The same FCB can issue the FCC grant and the ISED certificate from one test campaign.
 
