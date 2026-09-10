@@ -45,7 +45,7 @@ The identifiers on an ISED certificate come from RSP-100. The HVIN identifies th
 
 **RSP (Radio Standards Procedure).** ISED's procedural documents. **RSP-100** is the certification procedure for radio apparatus and broadcasting equipment; the current issue is Issue 12.
 
-**RSS (Radio Standards Specification).** The technical standards a radio must meet, for example RSS-247 for licence-exempt 2.4 GHz and 5 GHz devices, RSS-210 for other licence-exempt devices, RSS-130 and RSS-132 for cellular bands. **RSS-Gen** sets the general requirements common to all, including labelling and the REL listing rule in section 3.4.1.
+**RSS (Radio Standards Specification).** The technical standards a radio must meet, for example [RSS-247](/guides/rss-247-wifi-bluetooth-certification-canada/) for licence-exempt 2.4 GHz and 5 GHz devices, RSS-210 for other licence-exempt devices, RSS-130 and RSS-132 for cellular bands. **RSS-Gen** sets the general requirements common to all, including labelling and the REL listing rule in section 3.4.1.
 
 **ICES (Interference-Causing Equipment Standard).** Standards for the non-radio, emissions side of equipment. **ICES-003** covers information technology equipment; **ICES-Gen** is the general procedure. Compliance is by SDoC.
 
