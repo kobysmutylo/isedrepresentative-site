@@ -1,7 +1,7 @@
 ---
 title: How to Hire a Canadian Representative for ISED Certification
 description: How a manufacturer outside Canada appoints a Canadian Representative (IC or Industry Canada representative) for ISED wireless certification: who qualifies, what the letter must say, when to order it, what it costs, and how to switch.
-h1: How to hire a Canadian Representative for ISED certification
+h1: Hiring a Canadian Representative for ISED certification, step by step
 short: How to appoint a representative
 type: guide
 date: 2026-09-09
