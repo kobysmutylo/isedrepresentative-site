@@ -1,7 +1,7 @@
 ---
 title: Does Each IC ID Need a Separate Canadian Representative Letter?
 description: One Canadian Representative letter covers one IC certification number and every model, HVIN and PMN under it. When you need a new letter, how product families, modules, host integrators and permissive changes are treated.
-h1: Does each IC ID need a separate Canadian Representative letter?
+h1: One Canadian Representative letter per IC ID, or one for all?
 short: One letter per IC ID
 type: guide
 date: 2026-08-20
