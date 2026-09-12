@@ -1,7 +1,7 @@
 ---
 title: Do You Need a Canadian Representative for ICES-003 SDoC?
 description: ICES-003 digital apparatus is self-declared under ICES-Gen, not certified, and ICES-Gen has no Canadian Representative requirement. Who the "responsible party" is, what you must keep on file, and when a radio inside the product changes the answer.
-h1: Do you need a Canadian Representative for ICES-003 SDoC?
+h1: ICES-003 SDoC: is a Canadian Representative required?
 short: ICES-003 SDoC
 type: guide
 date: 2026-09-09
