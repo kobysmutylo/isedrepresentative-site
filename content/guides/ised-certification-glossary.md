@@ -39,7 +39,7 @@ The identifiers on an ISED certificate come from RSP-100. The HVIN identifies th
 
 **Test laboratory.** The ISED-recognized lab that measures the product against the applicable RSS. It does not certify.
 
-**Responsible party.** ICES-Gen section 3.2: the party involved in "manufacture, importation, distribution, lease, offering for sale, and sale" of interference-causing equipment. A status that follows the activity, not an appointment. See [ICES-003 SDoC](/guides/ices-003-sdoc-canadian-representative/).
+**Supplier (ICES-Gen).** Under ICES-Gen Issue 2, the person or entity located in Canada involved in "manufacture, importation, distribution, lease, offering for sale, and sale" of interference-causing equipment; Issue 1 called this the "responsible party". A status that follows the activity, not an appointment. See [ICES-Gen explained](/guides/ices-gen-explained/) and [ICES-003 SDoC](/guides/ices-003-sdoc-canadian-representative/).
 
 ## Documents and procedures
 
@@ -47,7 +47,7 @@ The identifiers on an ISED certificate come from RSP-100. The HVIN identifies th
 
 **RSS (Radio Standards Specification).** The technical standards a radio must meet, for example [RSS-247](/guides/rss-247-wifi-bluetooth-certification-canada/) for licence-exempt 2.4 GHz and 5 GHz devices, RSS-210 for other licence-exempt devices, RSS-130 and RSS-132 for cellular bands. **RSS-Gen** sets the general requirements common to all, including labelling and the REL listing rule in section 3.4.1.
 
-**ICES (Interference-Causing Equipment Standard).** Standards for the non-radio, emissions side of equipment. **ICES-003** covers information technology equipment; **ICES-Gen** is the general procedure. Compliance is by SDoC.
+**ICES (Interference-Causing Equipment Standard).** Standards for the non-radio, emissions side of equipment. **ICES-003** covers information technology equipment; **ICES-Gen** is the [general procedure](/guides/ices-gen-explained/). Compliance is by SDoC.
 
 **DC-01.** The procedure for declaration of conformity and registration of terminal equipment (equipment that connects to the public telephone network). Its section 6 carries the same Canadian Representative requirement as RSP-100 section 4.1. See [terminal equipment](/guides/dc-01-terminal-equipment-canadian-representative/).
 
