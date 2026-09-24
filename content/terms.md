@@ -3,7 +3,7 @@ title: Terms of Service | ISED Representative
 description: Terms governing the Canadian Representative service provided by Smutylo Law+ through ISEDRepresentative.com.
 h1: Terms of service
 type: page
-updated: 2026-08-27
+updated: 2026-09-24
 ---
 
 These terms govern the Canadian Representative service provided by Smutylo Law+ ("we", "us") through ISEDRepresentative.com to the applicant identified in an order ("you").
@@ -12,7 +12,11 @@ These terms govern the Canadian Representative service provided by Smutylo Law+ 
 
 On receipt of payment we will (a) issue a signed letter confirming our appointment as your Canadian Representative for the ISED certification identified in your order; (b) act as the Canadian point of contact for ISED and your certification body in respect of that certification, forwarding enquiries to you and relaying your responses; and (c) coordinate with you the delivery of audit samples requested by ISED.
 
-We do not test, certify, list or label products, provide technical compliance advice, act as importer of record, take possession of audit samples, or represent you in an enforcement, inspection or other proceeding, and we make no representation about your product's compliance.
+We do not test, certify, list or label products, provide technical compliance advice (other than a label and manual review under section 1A), act as importer of record, take possession of audit samples, or represent you in an enforcement, inspection or other proceeding, and we make no representation about your product's compliance.
+
+## 1A. Label and manual review (optional)
+
+If you order a label and manual review, we will review the label artwork, user-manual text and packaging artwork you supply against the labelling and user-information requirements of RSS-Gen and, where applicable, ICES-Gen and ICES-003, and against the product's entry in ISED's Radio Equipment List, and give you written comments. The fee is payable once per certification and includes one re-check of revised documents. The review is of the documents only. We do not examine or test the product, determine which standards apply to it or whether it meets their technical requirements, or translate text. Your certification body's determination governs. The review is not a certificate or warranty that the product or its labelling complies with any requirement, and you remain responsible for the product's labelling and user information.
 
 ## 2. Term
 
