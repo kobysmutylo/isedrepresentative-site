@@ -5,7 +5,7 @@ h1: How long must a Canadian Representative remain appointed?
 short: How long the appointment lasts
 type: guide
 date: 2026-08-20
-updated: 2026-08-27
+updated: 2026-09-24
 order: 03
 ---
 
@@ -44,7 +44,7 @@ The obligation ends when the product is no longer offered in Canada. Tell us and
 
 ## What happens if the representative disappears
 
-This is the real risk in the market. If a representative ceases to exist, is acquired, or simply stops answering, the applicant is offside section 4.1 the moment ISED sends an enquiry that goes unanswered. ISED can suspend or revoke a certificate for non-compliance with the procedure. Replacing a representative is a certification-body process (see [changing your Canadian Representative](/guides/changing-your-canadian-representative/)), and it is straightforward if you notice in time — but applicants rarely notice until the enquiry arrives.
+This is the real risk in the market. If a representative ceases to exist, is acquired, or simply stops answering, the applicant is offside section 4.1 the moment ISED sends an enquiry that goes unanswered. A certificate is a radio authorization under the Radiocommunication Act, and section 5(2) of the Act lets the Minister suspend or revoke it, after notice and an opportunity to respond, where the holder has contravened the Act, the regulations or the terms and conditions of the certificate. We set out that and the other consequences in [what happens if your radio product is not ISED-compliant](/guides/ised-non-compliance-penalties/). Replacing a representative is a certification-body process (see [changing your Canadian Representative](/guides/changing-your-canadian-representative/)), and it is straightforward if you notice in time — but applicants rarely notice until the enquiry arrives.
 
 A law firm's appointment has a structural advantage here. Law societies require lawyers to make arrangements for the continuity of client files, including on retirement, incapacity or death, and a firm's obligations to a client survive the departure of any individual lawyer. See [why a lawyer as your Canadian Representative](/guides/why-a-lawyer-as-your-canadian-representative/).
 
@@ -57,7 +57,7 @@ Utility meters, industrial sensors, medical devices and automotive modules commo
 A Class I or Class II permissive change under RSP-100 section 10 that keeps the same IC number stays within the existing appointment; tell us so the letter lists the new models. A new IC certification number is a new certification and needs its own appointment at US$499. See [one representative letter per IC ID](/guides/one-representative-letter-per-ic-id/).
 
 <div class="source" markdown="1">
-**Sources.** [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), section 4.1 (Canadian representative requirement and duration of the certification agreement), section 10 (modification of certified products), section 12 (certification retention and audits).
+**Sources.** [RSP-100, Issue 12](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-standards-procedures-rsp/rsp-100-certification-radio-apparatus-and-broadcasting-equipment), section 4.1 (Canadian representative requirement and duration of the certification agreement), section 10 (modification of certified products), section 12 (certification retention and audits). [Radiocommunication Act](https://laws-lois.justice.gc.ca/eng/acts/r-2/), section 5(2).
 </div>
 
 <!--faq-->
