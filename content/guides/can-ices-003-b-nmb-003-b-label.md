@@ -5,7 +5,7 @@ h1: CAN ICES-003(B)/NMB-003(B): what that label actually means
 short: CAN ICES-003(B) label
 type: guide
 date: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-24
 order: 16
 ---
 
@@ -33,7 +33,7 @@ A foreign manufacturer with no Canadian entity therefore has no ICES filing to m
 
 ## Where the label goes
 
-Section 6.3.3 of [ICES-Gen](/guides/ices-gen-explained/) puts the marking on the equipment itself. Three alternatives exist. Equipment measuring 2.5 cm or less may carry the marking in the user manual and on the packaging without asking anyone. Larger equipment may move the marking to the manual or packaging only with ISED's approval under section 6.3.2.1. And equipment with an integral display may use an electronic label under Annex B, subject to its access and durability conditions. If the product also has a radio, the IC certification number follows the labelling rules in RSS-Gen, which are similar but not identical, so a combined label needs to satisfy both.
+Section 6.3.3 of [ICES-Gen](/guides/ices-gen-explained/) puts the marking on the equipment itself. Three alternatives exist. Equipment measuring 2.5 cm or less may carry the marking in the user manual and on the packaging without asking anyone. Larger equipment may move the marking to the manual or packaging only with ISED's approval under section 6.3.2.1. And equipment with an integral display may use an electronic label under Annex B, subject to its access and durability conditions. If the product also has a radio, the IC certification number follows the labelling rules in RSS-Gen, which are similar but not identical, so a combined label needs to satisfy both. The RSS-Gen rules are set out in our guide to [Canadian labelling requirements for radio equipment](/guides/canadian-radio-equipment-labelling-requirements/).
 
 ## The radio inside is a different regime
 
