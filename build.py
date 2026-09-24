@@ -106,6 +106,9 @@ SERVICE_JSON = {
         {"@type": "Offer", "name": "Canadian Representative appointment, per certified product", "price": PRICE_PER,
          "priceCurrency": "USD", "url": SITE + "/pricing/", "availability": "https://schema.org/InStock",
          "description": "One payment per certified product. The appointment continues for as long as the product is offered on the Canadian market."},
+        {"@type": "Offer", "name": "Label and user manual review, per certification", "price": "249",
+         "priceCurrency": "USD", "url": SITE + "/label-and-manual-review/", "availability": "https://schema.org/InStock",
+         "description": "Document review of IC label, e-label, bilingual user-manual notices and REL match against RSS-Gen and ICES-Gen. One re-check included. Not testing or certification."},
     ],
 }
 
@@ -399,7 +402,7 @@ def render(slug, meta, body_html, faqs):
 </div>
 <div>
 <p class="foot-h">Service</p>
-<ul><li><a href="/canadian-representative-service/">Canadian Representative service</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/how-it-works/">How it works</a></li><li><a href="/quote/">Request your attestation letter</a></li><li><a href="/revise/">Revise an existing letter</a></li><li><a href="/for-labs-and-certification-bodies/">For labs and certification bodies</a></li></ul>
+<ul><li><a href="/canadian-representative-service/">Canadian Representative service</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/label-and-manual-review/">Label and manual review</a></li><li><a href="/how-it-works/">How it works</a></li><li><a href="/quote/">Request your attestation letter</a></li><li><a href="/revise/">Revise an existing letter</a></li><li><a href="/for-labs-and-certification-bodies/">For labs and certification bodies</a></li></ul>
 </div>
 <div>
 <p class="foot-h">Learn</p>
