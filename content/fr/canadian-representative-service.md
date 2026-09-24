@@ -35,7 +35,7 @@ Concrètement : une adresse canadienne et un interlocuteur canadien joignable au
 
 ## Ce qui n’est pas compris
 
-Les essais, le dépôt de la certification, l’inscription à la Nomenclature du matériel radio d’ISDE, l’examen de l’étiquetage ou les conseils techniques de conformité. Ce sont les tâches de votre laboratoire et de votre organisme de certification, avec lesquels nous collaborons.
+Les essais, le dépôt de la certification, l’inscription à la Nomenclature du matériel radio d’ISDE ou les conseils techniques de conformité. Ce sont les tâches de votre laboratoire et de votre organisme de certification, avec lesquels nous collaborons.
 
 ## Durée
 
