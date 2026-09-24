@@ -3,7 +3,7 @@ title: Pricing | ISED Canadian Representative | US$499 per Product
 description: US$499 per certified product, paid once. Canadian Representative for ISED certification for as long as the product is offered on the Canadian market.
 h1: Pricing
 type: pricing
-updated: 2026-08-27
+updated: 2026-09-24
 ---
 
 <div class="answer" markdown="1">
@@ -23,6 +23,10 @@ updated: 2026-08-27
 
 <a class="btn btn-primary" href="/quote/">Order a letter</a>
 </div>
+
+## Optional: label and manual review
+
+US$249 per IC certification number. We review your label artwork, user manual and packaging against RSS-Gen Issue 6, ICES-Gen and your REL listing, and send written comments with one re-check of revised files included. It is a document review. It is not testing or certification. Add it on the [request form](/quote/), or order it on its own. Details: [label and manual review](/label-and-manual-review/).
 
 ## Certifying several products a year?
 
