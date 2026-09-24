@@ -5,7 +5,7 @@ h1: Device labelling under RSS-Gen Issue 6: QR codes, small devices, e-labels
 short: Labelling changes
 type: update
 date: 2026-08-25
-updated: 2026-08-27
+updated: 2026-09-24
 ---
 
 <div class="answer" markdown="1">
@@ -28,7 +28,7 @@ The certification number, the "IC ID" formed from the applicant's Company Number
 
 ## What to check on your next production run
 
-Worth a short review with your compliance team: whether a QR-code or e-label approach now fits products where the physical label has been a squeeze; whether any "label on device" workarounds for small products can be replaced with the manual/packaging placement Issue 6 permits; and that artwork updates keep the certification number and bilingual notices intact. The one-year transition matters here: files under Issue 5 remain acceptable while it runs, so labelling changes can be aligned with your next certification cycle rather than retrofitted. Details are in the labelling section and annexes of the published standard; your certification body has the final word on a compliant label for your specific device.
+Worth a short review with your compliance team: whether a QR-code or e-label approach now fits products where the physical label has been a squeeze; whether any "label on device" workarounds for small products can be replaced with the manual/packaging placement Issue 6 permits; and that artwork updates keep the certification number and bilingual notices intact. The one-year transition matters here: files under Issue 5 remain acceptable while it runs, so labelling changes can be aligned with your next certification cycle rather than retrofitted. Details are in the labelling section and annexes of the published standard, and we walk through them in our guide to [Canadian labelling requirements for radio equipment](/guides/canadian-radio-equipment-labelling-requirements/); your certification body has the final word on a compliant label for your specific device.
 
 <!--faq-->
 ### Can I use a QR code instead of a printed label in Canada now?
@@ -41,4 +41,4 @@ Issue 6 permits very small devices to carry the label in the user manual or on t
 No re-labelling obligation arises from the revision itself for existing certified stock, and applications under Issue 5 remain acceptable during the one-year transition. Align label changes with your next certification or production cycle.
 <!--/faq-->
 
-Related: [RSS-Gen Issue 6 — the full picture and the transition](/updates/rss-gen-issue-6-published/) · [RSS-310 Issue 6 — receivers and Category II](/updates/rss-310-issue-6-category-ii-receivers/) · [The Canadian Representative service](/canadian-representative-service/).
+Related: [Canadian labelling requirements under RSS-Gen Issue 6](/guides/canadian-radio-equipment-labelling-requirements/) · [RSS-Gen Issue 6 — the full picture and the transition](/updates/rss-gen-issue-6-published/) · [RSS-310 Issue 6 — receivers and Category II](/updates/rss-310-issue-6-category-ii-receivers/) · [The Canadian Representative service](/canadian-representative-service/).
