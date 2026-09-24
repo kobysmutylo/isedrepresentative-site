@@ -4,7 +4,7 @@ description: Request an RSP-100 Canadian Representative attestation letter. US$4
 h1: Request your attestation letter
 short: Request
 type: page
-updated: 2026-09-09
+updated: 2026-09-24
 ---
 
 <div class="answer" markdown="1">
@@ -68,6 +68,7 @@ US$499 per certified product, paid once, covering the appointment for as long as
 <input id="cb" name="certification_body" placeholder="Helps us match their preferred template">
 <label for="more">Additional products or notes</label>
 <textarea id="more" name="notes" placeholder="List further certifications here, or attach details by reply email."></textarea>
+<label><input type="checkbox" name="label_review" value="yes" style="width:auto"> Add a label and manual review (US$249 per certification). We review your label, user manual and packaging against RSS-Gen before you print. <a href="/label-and-manual-review/">What it covers</a></label>
 </fieldset>
 
 <fieldset>
