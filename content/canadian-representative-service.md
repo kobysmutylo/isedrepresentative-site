@@ -4,7 +4,7 @@ description: What our Canadian Representative service includes: the signed RSP-1
 h1: The Canadian Representative service, in full
 short: Service
 type: service
-updated: 2026-09-09
+updated: 2026-09-24
 ---
 
 <div class="answer" markdown="1">
@@ -34,7 +34,7 @@ In practice that means a Canadian address and a reachable Canadian contact on th
 
 ## What is not included
 
-Testing, certification filing, listing in ISED's Radio Equipment List, labelling review, or technical compliance advice. Those are the jobs of your laboratory and certification body, and we work alongside both. Canadian legal advice beyond the representative role is available separately through [Smutylo Law+](https://lawyercorporation.ca/canadian-representative/) on normal terms.
+Testing, certification filing, listing in ISED's Radio Equipment List, or technical compliance advice. Those are the jobs of your laboratory and certification body, and we work alongside both. A review of your label artwork and user manual against RSS-Gen is available as an optional add-on at US$249 per certification; see [label and manual review](/label-and-manual-review/). Canadian legal advice beyond the representative role is available separately through [Smutylo Law+](https://lawyercorporation.ca/canadian-representative/) on normal terms.
 
 ## Term
 
