@@ -4,7 +4,7 @@ description: Answers to the questions manufacturers, labs and certification bodi
 h1: ISED Canadian Representative: frequently asked questions
 short: FAQ
 type: faq
-updated: 2026-09-09
+updated: 2026-09-24
 ---
 
 <div class="answer" markdown="1">
@@ -124,7 +124,7 @@ Tell us and your CB. A name change under the same legal entity is a letter revis
 <!--faq-->
 ### What does it cost?
 
-US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market. No other fees. See [pricing](/pricing/).
+US$499 per certified product, paid once, covering the appointment for as long as the product is offered on the Canadian market. There are no other fees for the appointment. The optional label and manual review is US$249 per certification. See [pricing](/pricing/).
 
 ### How do I pay?
 
@@ -133,6 +133,10 @@ Card via Stripe, or wire transfer. Purchase orders accepted, and several certifi
 ### Do you charge when ISED asks a question or requests a sample?
 
 No. That is part of the appointment.
+
+### Can you review my label and user manual before I print?
+
+Yes, as an optional add-on at US$249 per IC certification number. We check the IC label, e-label or QR code, the English and French user-manual notices, the ICES-003 marking and the match with your REL listing against RSS-Gen Issue 6 and ICES-Gen, and send written comments with one re-check included. It is a review of the documents you supply. It is not testing or certification, and your certification body has the final word. See [label and manual review](/label-and-manual-review/).
 <!--/faq-->
 
 ## About the provider
