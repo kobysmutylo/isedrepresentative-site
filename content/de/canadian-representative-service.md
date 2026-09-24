@@ -35,7 +35,7 @@ Praktisch heißt das: eine kanadische Anschrift und ein erreichbarer kanadischer
 
 ## Was nicht enthalten ist
 
-Prüfung, Einreichung der Zertifizierung, Eintragung in die Radio Equipment List von ISED, Kennzeichnungsprüfung oder technische Konformitätsberatung. Das sind Aufgaben Ihres Labors und Ihrer Zertifizierungsstelle; wir arbeiten mit beiden zusammen.
+Prüfung, Einreichung der Zertifizierung, Eintragung in die Radio Equipment List von ISED oder technische Konformitätsberatung. Das sind Aufgaben Ihres Labors und Ihrer Zertifizierungsstelle; wir arbeiten mit beiden zusammen.
 
 ## Laufzeit
 
