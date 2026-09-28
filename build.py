@@ -343,7 +343,7 @@ def render(slug, meta, body_html, faqs):
         ga = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA4}"></script>'
               f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{GA4}');"
               "document.addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;if(/^(mailto:|tel:)/.test(a.getAttribute('href')||'')||a.href.includes('/quote/'))gtag('event','contact_click',{link:a.href})});</script>")
-    cta = "" if slug in ("/quote/", "/contact/") else cta_html(lang)
+    cta = "" if slug in ("/quote/", "/contact/") else cta_html(lang, meta.get("cta", ""))
     hreflangs = hreflang_links(slug)
     switcher = lang_switcher(slug)
     form_note = f'<p class="formnote">{L["form_note"]}</p>' if (L["form_note"] and "/quote/" in body_html) else ""
@@ -432,7 +432,20 @@ def trust_html(lang):
     return f'<section class="trust" aria-label="Trust">{cells}</section>'
 
 
-def cta_html(lang):
+REVIEW_CTA = ('<aside class="cta"><h2>Printing labels for Canada?</h2>'
+              '<p>US$249 per IC certification number. We check your label artwork, e-label, bilingual '
+              'user-manual notices and packaging against RSS-Gen Issue 6, ICES-Gen and your Radio Equipment '
+              'List entry, and send written comments naming each gap and the section it comes from. One '
+              're-check of your revised files is included. It is a review of documents, not testing or '
+              'certification. Questions? Write to '
+              '<a href="mailto:info@isedrepresentative.com">info@isedrepresentative.com</a>.</p>'
+              '<p><a class="btn btn-primary" href="/label-and-manual-review/">See the label and manual review</a> '
+              '<a class="btn" href="/quote/">Order with an appointment</a></p></aside>')
+
+
+def cta_html(lang, kind=""):
+    if kind == "review" and lang == "en":
+        return REVIEW_CTA
     L = LANGS[lang]
     return (f'<aside class="cta"><h2>{L["cta_h"]}</h2><p>{L["cta_p"].format(per=PRICE_PER)}</p>'
             f'<p><a class="btn btn-primary" href="/quote/">{L["cta_btn"]}</a> <a class="btn" href="{localize("/pricing/", lang)}">{L["cta_price"]}</a></p></aside>')
