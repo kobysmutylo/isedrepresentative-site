@@ -1,12 +1,13 @@
 ---
-title: CAN ICES-003(B)/NMB-003(B): What the Label on Your Device Means
+title: CAN ICES-3(B)/NMB-3(B): What That Label on Your Device Means
 description: The CAN ICES-003(B)/NMB-003(B) marking (formerly CAN ICES-3(B)/NMB-3(B)) is Canada's digital-emissions declaration under ICES-003 and ICES-Gen. What Class A and Class B mean, who puts it there, what has to be on file, and when a radio inside changes the rules.
-h1: CAN ICES-003(B)/NMB-003(B): what that label actually means
+h1: CAN ICES-3(B)/NMB-3(B) and CAN ICES-003(B): what that label actually means
 short: CAN ICES-003(B) label
 type: guide
 date: 2026-09-10
 updated: 2026-09-24
 order: 16
+cta: review
 ---
 
 <div class="answer" markdown="1">
@@ -44,6 +45,12 @@ The certification is where a foreign applicant needs a [Canadian Representative]
 ## For US manufacturers
 
 ICES-003 is Canada's counterpart to FCC Part 15 Subpart B. Both are supplier declarations, both split Class A and Class B on the same residential logic, and ANSI C63.4 is an accepted test method on both sides, so a single test campaign often supports both markings. The paperwork differs: the FCC declaration carries the responsible party's US contact information in the manual, while Canada relies on the marking and the retained report. Our [FCC to ISED guide](/guides/fcc-to-ised/) covers the radio side, where the differences are larger.
+
+## Before you send the artwork to print
+
+The marking is one line on a label that usually carries several other things: the IC certification number for the radio inside, the HVIN, the model name that has to match the Radio Equipment List, and a user manual with notices that must appear in French as well as English. A gap in any of those is cheap to fix in a PDF and expensive to fix in a warehouse.
+
+We review label artwork, e-label screens, user manuals and packaging against RSS-Gen Issue 6, ICES-Gen and your REL listing, and send written comments naming each gap and the section it comes from. US$249 per IC certification number, one re-check of the revised files included. It is a review of documents; we do not test the product and we do not certify that it complies. See [the label and manual review](/label-and-manual-review/).
 
 <!--faq-->
 ### What does CAN ICES-003(B)/NMB-003(B) mean?
