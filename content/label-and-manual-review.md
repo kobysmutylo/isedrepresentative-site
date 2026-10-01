@@ -13,7 +13,7 @@ Before you print, we review your label artwork, user manual and packaging agains
 
 ## Why a label review is worth doing before you print
 
-Many Canadian labelling gaps start with FCC artwork carried over unchanged: an FCC ID and no IC number, a manual without the French notices, an HVIN that doesn't match the REL, or a QR code that links to a web page. The certification body may catch some of these, and the rest can surface after launch, when units are already in stock. A label that doesn't match the certification is one of the gaps covered in [the consequences of ISED non-compliance](/guides/ised-non-compliance-penalties/).
+Many Canadian labelling gaps start with FCC artwork carried over unchanged: an FCC ID and no IC number, a manual without the French notices, an HVIN that doesn't match the REL, or a QR code that links to a web page. If you would rather run the list yourself first, it is here: [nine checks before you print](/guides/label-and-manual-self-check/). The certification body may catch some of these, and the rest can surface after launch, when units are already in stock. A label that doesn't match the certification is one of the gaps covered in [the consequences of ISED non-compliance](/guides/ised-non-compliance-penalties/).
 
 ## What we check
 
