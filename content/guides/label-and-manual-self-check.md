@@ -5,7 +5,7 @@ h1: Nine checks before you print
 short: Label self-check
 type: guide
 date: 2026-10-01
-updated: 2026-10-02
+updated: 2026-10-06
 order: 18
 cta: review
 ---
@@ -54,7 +54,7 @@ In practice your certification body tells you first. Or it surfaces through an [
 
 Two of the nine account for most of what I see: the bilingual manual at item 6, and the half-taken small-device relief at item 9. Both are cheap to fix on a file and expensive to fix on a pallet.
 
-If you want the requirements in full rather than this list, they are in [labelling radio equipment for Canada under RSS-Gen Issue 6](/guides/canadian-radio-equipment-labelling-requirements/). Who has to be appointed in Canada, and for how long, is a separate question — that one is [RSP-100 section 4.1](/guides/canadian-representative-requirement-rsp-100/).
+If you want the requirements in full rather than this list, they are in [labelling radio equipment for Canada under RSS-Gen Issue 6](/guides/canadian-radio-equipment-labelling-requirements/). Who has to be appointed in Canada, and for how long, is a separate question — that one is [RSP-100 section 4.1](/guides/canadian-representative-requirement-rsp-100/). If the applicant’s address is outside Canada, that appointment is one we hold: US$499 per certified product, paid once, in place for as long as the product is offered on the Canadian market. No renewal, no second invoice. [What we charge](/pricing/) sets out that fee and the review fee together.
 
 <!--faq-->
 
