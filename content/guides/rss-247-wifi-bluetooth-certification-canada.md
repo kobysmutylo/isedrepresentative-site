@@ -5,12 +5,12 @@ h1: RSS-247: what it covers, what Issue 4 changed, and what you have to do
 short: RSS-247 explained
 type: guide
 date: 2026-09-10
-updated: 2026-09-10
+updated: 2026-10-19
 order: 17
 ---
 
 <div class="answer" markdown="1">
-RSS-247 is the Radio Standards Specification that Innovation, Science and Economic Development Canada applies to digital transmission systems, frequency-hopping systems and licence-exempt local area network devices in the 902&ndash;928 MHz, 2400&ndash;2483.5 MHz, 5150&ndash;5350 MHz and 5470&ndash;5895 MHz bands. In plain terms: Wi-Fi 4/5/6, Bluetooth, Zigbee, LoRa in the 915 MHz band, and most short-range consumer radios. Equipment under RSS-247 is Category I, which means it must be certified &mdash; a recognised certification body reviews the test report and issues an IC certification number &mdash; and an applicant with no address in Canada must appoint a [Canadian Representative](/canadian-representative-service/) under RSP-100 section 4.1 before the certificate is issued. The current version is Issue 4, published July 24, 2025; after the six-month transition ended on January 24, 2026, new applications must be assessed against Issue 4. Wi-Fi 6E and Wi-Fi 7 radios in the 5925&ndash;7125 MHz band are covered by a different standard, RSS-248.
+RSS-247 is the Radio Standards Specification that Innovation, Science and Economic Development Canada applies to digital transmission systems, frequency-hopping systems and licence-exempt local area network devices in the 902&ndash;928 MHz, 2400&ndash;2483.5 MHz, 5150&ndash;5350 MHz and 5470&ndash;5895 MHz bands. In plain terms: Wi-Fi 4/5/6, Bluetooth, Zigbee, LoRa in the 915 MHz band, and most short-range consumer radios. Equipment under RSS-247 is Category I, which means it must be certified &mdash; a recognised certification body reviews the test report and issues an IC certification number &mdash; and an applicant with no address in Canada must appoint a [Canadian Representative](/canadian-representative-service/) under RSP-100 section 4.1 before the certificate is issued. The current version is Issue 4, published July 24, 2025 and amended on October 8, 2026; after the six-month transition ended on January 24, 2026, new applications must be assessed against Issue 4. Wi-Fi 6E and Wi-Fi 7 radios in the 5925&ndash;7125 MHz band are covered by a different standard, RSS-248.
 </div>
 
 ## What RSS-247 actually is
@@ -23,7 +23,7 @@ The standard sets, for each band, the maximum conducted output power and e.i.r.p
 
 ISED published RSS-247 Issue 4 on July 24, 2025, replacing Issue 3 of August 2023, with a six-month transition period. From January 24, 2026, certification applications must be assessed against Issue 4. Equipment certified under Issue 3 before that date does not lose its certification; the change bites on new certifications and on modifications that require re-assessment.
 
-The changes that a manufacturer is most likely to notice, based on ISED's published text and the certification bodies' summaries, are these. The measurement procedures now reference ANSI C63.10-2020, the current US test method, which reduces the gap between an FCC test report and what a Canadian certification body will accept. The previous prohibition on operation in the 5600&ndash;5650 MHz band, which Canada had kept for weather-radar protection after the United States relaxed it, has been removed. Requirements for hybrid devices that combine digital-transmission and frequency-hopping modes have been clarified, and the reporting requirements around transmit power control and antenna gain have been tightened and simplified. None of these change who needs certification or who needs a representative; they change what the test report has to show. Confirm the specifics against the current issue on ISED's site before you rely on them, and expect your lab to have already done so.
+The changes that a manufacturer is most likely to notice, based on ISED's published text and the certification bodies' summaries, are these. The measurement procedures now reference ANSI C63.10-2020, the current US test method, which reduces the gap between an FCC test report and what a Canadian certification body will accept. The previous prohibition on operation in the 5600&ndash;5650 MHz band, which Canada had kept for weather-radar protection after the United States relaxed it, has been removed; a device operating there may demonstrate DFS compliance only through the ETSI EN 301 893 procedure, and [Amendment 1 of October 8, 2026](/updates/rss-247-amendment-1-dfs-5600-5650-mhz/) added the ETSI timing figures for that band to section 7.3.6.3 &mdash; a 10-minute channel availability check and a 1-second channel closing transmission time. Requirements for hybrid devices that combine digital-transmission and frequency-hopping modes have been clarified, and the reporting requirements around transmit power control and antenna gain have been tightened and simplified. None of these change who needs certification or who needs a representative; they change what the test report has to show. Confirm the specifics against the current issue on ISED's site before you rely on them, and expect your lab to have already done so.
 
 ## Who has to do what
 
@@ -54,7 +54,7 @@ Confirm which issue the test report was written to. A report to Issue 3, submitt
 RSS-247 is ISED's Radio Standards Specification for digital transmission systems, frequency-hopping systems and licence-exempt local area network devices operating in the 902&ndash;928 MHz, 2400&ndash;2483.5 MHz, 5150&ndash;5350 MHz and 5470&ndash;5895 MHz bands. It is the standard that applies to most Wi-Fi, Bluetooth, Zigbee and similar short-range radios sold in Canada.
 
 ### What is the current issue of RSS-247?
-Issue 4, published by ISED on July 24, 2025. A six-month transition period ended on January 24, 2026, after which certification applications are assessed against Issue 4. Issue 3, from August 2023, applied before that.
+Issue 4, published by ISED on July 24, 2025, with Amendment 1 of October 8, 2026. A six-month transition period ended on January 24, 2026, after which certification applications are assessed against Issue 4. Issue 3, from August 2023, applied before that.
 
 ### Does RSS-247 equipment need to be certified?
 Yes. RSS-247 equipment is Category I under RSP-100, which means it must be certified by a certification body recognised by ISED, receive an IC certification number and be listed in the Radio Equipment List before it can be imported, sold or distributed in Canada.
