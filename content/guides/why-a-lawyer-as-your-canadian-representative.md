@@ -23,7 +23,7 @@ The failure we are most often asked to fix is a representative that is no longer
 
 ## Confidentiality
 
-Your certification file contains product descriptions, model roadmaps, correspondence with ISED and, when an audit happens, test outcomes. Held by a law firm, that information sits in a relationship governed by the Law Society of Ontario's rules on confidentiality, which apply to the firm and everyone in it and do not expire when the engagement ends. A lab's or consultant's confidentiality is whatever the contract says.
+Your certification file contains product descriptions, model roadmaps, correspondence with ISED and, when an audit happens, test outcomes. Held by a law firm, that information sits in a relationship governed by the Law Society of Ontario's rules on confidentiality, which apply to the firm and everyone in it and do not expire when the engagement ends. A lab's or consultant's confidentiality is whatever the contract says. If someone asks ISED itself for your filings, a different regime applies; see [access to information requests for certification files](/guides/access-to-information-requests-certification-filings/).
 
 ## Independence
 

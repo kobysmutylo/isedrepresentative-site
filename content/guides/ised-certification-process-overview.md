@@ -43,7 +43,7 @@ In our experience the testing is rarely the problem. The delays come from the ad
 
 ## After certification
 
-ISED and CBs audit certified products by requesting samples from the market or from the certificate holder (RSP-100 section 12.2). The Canadian Representative receives the request and the applicant supplies and pays for the sample. See [ISED audit samples: who provides, who pays](/guides/ised-audit-samples-who-provides-who-pays/). Changes to the product go through Class I or Class II permissive changes or a new certification. A change of certificate holder is a transfer handled by the CB, and a new holder outside Canada needs its own representative; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/).
+ISED and CBs audit certified products by requesting samples from the market or from the certificate holder (RSP-100 section 12.2). The Canadian Representative receives the request and the applicant supplies and pays for the sample. See [ISED audit samples: who provides, who pays](/guides/ised-audit-samples-who-provides-who-pays/). Changes to the product go through Class I or Class II permissive changes or a new certification. A change of certificate holder is a transfer handled by the CB, and a new holder outside Canada needs its own representative; see [changing your Canadian Representative](/guides/changing-your-canadian-representative/). The certification file at ISED can also be the subject of an access to information request; see [when someone asks ISED for your certification filings](/guides/access-to-information-requests-certification-filings/).
 
 ## Timelines and cost
 
