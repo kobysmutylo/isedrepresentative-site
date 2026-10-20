@@ -1,5 +1,5 @@
 ---
-title: About Koby Smutylo | Ontario Lawyer, ISED Canadian Representative Since 2010
+title: About Koby Smutylo | ISED Canadian Representative Since 2010
 description: Koby Smutylo is a lawyer called to the Bar of Ontario in 2001 and principal of Smutylo Law+, Ottawa. He has served as Canadian Representative for foreign wireless manufacturers under RSP-100 since 2010.
 h1: About Koby Smutylo and Smutylo Law+
 short: About

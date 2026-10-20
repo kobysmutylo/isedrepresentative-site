@@ -1,5 +1,5 @@
 ---
-title: For Test Labs and Certification Bodies | Canadian Representative Referral Partner
+title: For Test Labs and CBs | Canadian Representative Referral Partner
 description: How laboratories and certification bodies refer foreign clients for the RSP-100 Canadian Representative letter: same-day turnaround, your own template signed, consolidated invoicing, and a ready-made link block for your Canadian market-access page.
 h1: For test laboratories and certification bodies
 short: For labs and CBs

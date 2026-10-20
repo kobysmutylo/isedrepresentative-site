@@ -1,5 +1,5 @@
 ---
-title: Clients | Manufacturers and Laboratories We Represent | ISED Representative
+title: Clients | Manufacturers and Labs We Represent in Canada
 description: Manufacturers and laboratories that use ISEDRepresentative.com as Canadian Representative for ISED certification, including Roku, Kamstrup, Bevi and Eurofins.
 h1: Clients
 type: page

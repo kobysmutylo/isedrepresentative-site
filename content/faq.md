@@ -1,5 +1,5 @@
 ---
-title: ISED Canadian Representative FAQ | Requirements, Letters, Duration, Audit Samples
+title: ISED Canadian Representative FAQ | Letters, Duration, Audits
 description: Answers to the questions manufacturers, labs and certification bodies ask about the ISED Canadian Representative requirement under RSP-100 s. 4.1: who needs one, what the letter must say, how long it lasts, audit samples, product families and more.
 h1: ISED Canadian Representative: frequently asked questions
 short: FAQ

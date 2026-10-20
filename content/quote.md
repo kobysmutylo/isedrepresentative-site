@@ -1,5 +1,5 @@
 ---
-title: Request Your ISED Canadian Representative Letter | US$499 | Same Business Day
+title: Request Your ISED Canadian Representative Letter | US$499
 description: Request an RSP-100 Canadian Representative attestation letter. US$499 per certified product, paid once. Koby Smutylo reviews every request personally and replies the same business day; nothing is charged until you confirm.
 h1: Request your attestation letter
 short: Request

@@ -1,5 +1,5 @@
 ---
-title: Revise an Existing Canadian Representative Letter | Add Models, Update Details
+title: Revise a Canadian Representative Letter | Add Models, Details
 description: Request a revision to an existing ISED Canadian Representative attestation letter: added models or HVINs, corrected company details, new IC number. Always free, no time limit.
 h1: Revise an existing attestation letter
 short: Revise a letter

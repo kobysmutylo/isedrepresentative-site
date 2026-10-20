@@ -1,5 +1,5 @@
 ---
-title: How It Works | Get an ISED Canadian Representative Letter in One Business Day
+title: How It Works | ISED Canadian Representative Letter in One Day
 description: Four steps from quote form to signed RSP-100 attestation letter, usually within hours. What to submit, how payment works, what you receive, and what happens for the rest of the appointment.
 h1: How it works: from form to signed letter in one business day
 short: How it works
