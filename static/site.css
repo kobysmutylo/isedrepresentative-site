@@ -140,3 +140,6 @@ button.btn{cursor:pointer;font:inherit;font-weight:600}
 .prose .personal p{margin:0 0 .6em}.prose .personal p:last-child{margin-bottom:0}
 @media(max-width:560px){.personal{flex-direction:column}}
 .cta p a{color:#fff;text-decoration:underline}
+
+.note{border-left:4px solid var(--navy);background:var(--tint);padding:16px 20px;margin:0 0 32px;border-radius:var(--radius)}
+.note p{margin:4px 0}
