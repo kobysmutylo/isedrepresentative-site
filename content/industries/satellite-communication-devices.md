@@ -1,5 +1,5 @@
 ---
-title: ISED Certification for Satellite Terminals and IoT | Canadian Representative
+title: ISED Certification for Satellite Terminals and IoT Devices
 description: What is specific about ISED certification for satellite phones, messengers, IoT terminals, VSAT and ESIM/ESAA terminals: RSS-170 and related standards, licensing versus certification, the GNSS exception, and the Canadian Representative requirement for foreign terminal makers.
 h1: Satellite communication devices: ISED certification and the Canadian Representative
 short: Satellite devices

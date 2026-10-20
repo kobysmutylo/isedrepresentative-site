@@ -1,5 +1,5 @@
 ---
-title: ISED Certification for Industrial IoT and Smart Metering | Canadian Representative
+title: ISED Certification for Industrial IoT and Smart Metering
 description: What is specific about ISED certification for industrial sensors, gateways, LoRaWAN and cellular IoT, and smart utility meters: RSS-247 and RSS-210 sub-GHz, RSS-130-series cellular, module-based designs, long field lives and the Canadian Representative requirement.
 h1: Industrial IoT and smart metering: ISED certification and the Canadian Representative
 short: Industrial IoT and metering

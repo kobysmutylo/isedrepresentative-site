@@ -1,5 +1,5 @@
 ---
-title: ISED Modular Certification for RF Modules | Canadian Representative for Module Makers
+title: ISED Modular Certification for RF Modules | Canadian Rep
 description: What is specific about ISED certification for Wi-Fi, Bluetooth, cellular, LoRa and UWB modules: RSP-100 section 8 modular approval, host integration conditions, why the module maker needs the Canadian Representative and integrators usually do not, and Class II permissive changes.
 h1: RF modules: ISED modular certification and the Canadian Representative
 short: RF modules

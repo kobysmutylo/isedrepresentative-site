@@ -1,5 +1,5 @@
 ---
-title: ISED Certification by Industry | Canadian Representative for Each Product Category
+title: ISED Certification by Industry | Canadian Representative
 description: What differs about ISED certification and the Canadian Representative requirement for smart home, wearables, medical, industrial IoT, automotive telematics, RF modules, security systems and satellite terminals.
 h1: ISED certification and the Canadian Representative, by industry
 short: Industries

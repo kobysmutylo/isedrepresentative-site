@@ -1,5 +1,5 @@
 ---
-title: ISED Certification for Automotive Telematics and V2X | Canadian Representative
+title: ISED Certification for Automotive Telematics and V2X
 description: What is specific about ISED certification for telematics control units, aftermarket trackers, keyless entry, tire-pressure sensors and V2X: multi-radio TCUs, RSS-130-series cellular, RSS-210 for short-range automotive radios, tier-supplier applicants and the Canadian Representative.
 h1: Automotive telematics: ISED certification and the Canadian Representative
 short: Automotive telematics

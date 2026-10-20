@@ -1,5 +1,5 @@
 ---
-title: ISED Certification for Wireless Medical Devices | Canadian Representative
+title: ISED Certification for Wireless Medical Devices in Canada
 description: How ISED radio certification interacts with Health Canada medical device licensing for wireless medical equipment, the MedRadio and WMTS bands (RSS-243, RSS-244), long service lives, and why the Canadian Representative appointment's duration matters.
 h1: Wireless medical devices: ISED certification and the Canadian Representative
 short: Medical devices

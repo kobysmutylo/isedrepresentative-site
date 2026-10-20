@@ -1,5 +1,5 @@
 ---
-title: ISED Certification for Wireless Security and Alarm Systems | Canadian Representative
+title: ISED Certification for Wireless Security and Alarm Systems
 description: What is specific about ISED certification for alarm panels, sensors, cameras, video doorbells, access control and cellular alarm communicators: RSS-210 periodic-transmission sensors, RSS-247 cameras, cellular communicators, and the Canadian Representative requirement.
 h1: Wireless security systems: ISED certification and the Canadian Representative
 short: Security systems
