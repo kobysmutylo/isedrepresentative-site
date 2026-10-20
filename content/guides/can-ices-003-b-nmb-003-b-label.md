@@ -5,13 +5,17 @@ h1: CAN ICES-3(B)/NMB-3(B) and CAN ICES-003(B): what that label actually means
 short: CAN ICES-003(B) label
 type: guide
 date: 2026-09-10
-updated: 2026-09-24
+updated: 2026-10-20
 order: 16
 cta: review
 ---
 
 <div class="answer" markdown="1">
 "CAN ICES-003(B)/NMB-003(B)" is a Canadian compliance marking, not a certification number. It says the manufacturer or importer declares that the product's digital circuitry meets the Class B (residential) emission limits in ISED's standard ICES-003, *Information Technology Equipment (Including Digital Apparatus)*. "NMB-003" is the same standard in French (*Norme sur le matériel brouilleur*). Nothing is filed with ISED and nothing appears in a public register; the label itself is the declaration. Older products carry the same declaration as "CAN ICES-3 (B)/NMB-3 (B)", the format used before Issue 7 of ICES-003 took effect. If the product also contains Wi-Fi, Bluetooth or cellular, that radio is certified separately and carries an IC certification number; the ICES marking does not cover it.
+</div>
+
+<div class="note" markdown="1">
+**Making the product rather than reading the label?** If it contains Wi-Fi, Bluetooth or cellular and your company is outside Canada, the radio's ISED certification needs a Canadian Representative. We provide the signed letter for US$499 per certified product, the same business day: [request your letter](/quote/). If you are about to print labels, we can [review the label and manual](/label-and-manual-review/) against ICES-Gen and RSS-Gen first (US$249).
 </div>
 
 ## Reading the marking, piece by piece

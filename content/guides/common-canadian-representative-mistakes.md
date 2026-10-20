@@ -1,5 +1,5 @@
 ---
-title: Common Canadian Representative Mistakes That Delay or Endanger ISED Certification
+title: Canadian Representative Mistakes That Delay ISED Certification
 description: The errors we see most often since 2010: ordering the letter too late, mismatched legal names, naming a representative that will not last, stale contacts, confusing renames with transfers, and integrators ordering letters they do not need.
 h1: Common Canadian Representative mistakes, and how to avoid them
 short: Common mistakes

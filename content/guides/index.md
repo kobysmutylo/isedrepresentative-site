@@ -1,5 +1,5 @@
 ---
-title: Guides to the ISED Canadian Representative Requirement | RSP-100 s. 4.1
+title: Guides to the ISED Canadian Representative Requirement
 description: Operational guides on the ISED Canadian Representative requirement, written by a lawyer who has held the role since 2010: the RSP-100 text, attestation letter fields, duration, audit samples, product families, and more.
 h1: Guides to the Canadian Representative requirement
 short: Guides

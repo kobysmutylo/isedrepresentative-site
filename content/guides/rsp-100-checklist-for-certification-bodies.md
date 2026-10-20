@@ -1,5 +1,5 @@
 ---
-title: RSP-100 Canadian Representative Checklist for Certification Bodies and FCBs
+title: RSP-100 Canadian Representative Checklist for CBs and FCBs
 description: A review checklist for CB and FCB staff processing applications from foreign applicants: when a Canadian Representative is required, what the letter must show, red flags, and what to record. Written for reviewers, usable by labs and applicants.
 h1: RSP-100 Canadian Representative checklist for certification bodies
 short: Checklist for CBs

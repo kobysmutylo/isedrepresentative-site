@@ -1,5 +1,5 @@
 ---
-title: The ISED Canadian Representative Requirement in RSP-100 Section 4.1, Explained
+title: The ISED Canadian Representative Requirement (RSP-100 s. 4.1)
 description: What RSP-100 section 4.1 actually says about the Canadian Representative, who it applies to, what the representative must do, and how certification bodies enforce it. With the full text quoted.
 h1: What RSP-100 section 4.1 requires of a Canadian Representative
 short: RSP-100 requirement

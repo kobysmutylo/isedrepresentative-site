@@ -1,5 +1,5 @@
 ---
-title: ISED Certification in Canada: Process Overview for Foreign Manufacturers
+title: ISED Certification Process: Overview for Foreign Manufacturers
 description: How ISED radio equipment certification works end to end for a manufacturer outside Canada: RSS standards, testing, certification bodies, the IC number and REL listing, labelling, the Canadian Representative, and post-certification audits.
 h1: ISED certification in Canada: an overview for manufacturers outside Canada
 short: Certification process overview

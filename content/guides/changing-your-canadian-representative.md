@@ -1,5 +1,5 @@
 ---
-title: Changing Your ISED Canadian Representative: Replacement, Transfer and Rename
+title: Changing Your ISED Canadian Representative: Transfer and Rename
 description: How to replace a Canadian Representative on an existing ISED certification, what to do when the certificate holder is renamed or the certificate is transferred, and how to avoid a gap in the appointment.
 h1: Changing your Canadian Representative
 short: Changing representative
