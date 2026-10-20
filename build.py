@@ -342,7 +342,8 @@ def render(slug, meta, body_html, faqs):
     if GA4:
         ga = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA4}"></script>'
               f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{GA4}');"
-              "document.addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;if(/^(mailto:|tel:)/.test(a.getAttribute('href')||'')||a.href.includes('/quote/'))gtag('event','contact_click',{link:a.href})});</script>")
+              "document.addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;if(/^(mailto:|tel:)/.test(a.getAttribute('href')||'')||a.href.includes('/quote/'))gtag('event','contact_click',{link:a.href})});"
+              "document.addEventListener('submit',e=>{const f=e.target;if(f&&f.querySelector('[name=form-name]'))gtag('event',f.getAttribute('name')==='order'?'generate_lead':'form_submit',{form_name:f.getAttribute('name')||'',page:location.pathname})});</script>")
     cta = "" if slug in ("/quote/", "/contact/") else cta_html(lang, meta.get("cta", ""))
     hreflangs = hreflang_links(slug)
     switcher = lang_switcher(slug)
