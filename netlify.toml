@@ -7,3 +7,9 @@
 
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
+
+# Serverless functions. deploy-succeeded.mjs pings IndexNow automatically
+# after every successful deploy for pages whose sitemap <lastmod> is recent.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
