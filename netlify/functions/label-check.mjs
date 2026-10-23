@@ -8,7 +8,10 @@
 // Photos are passed to the Anthropic API and not stored by this site.
 //
 // Environment variables (Netlify > Site configuration > Environment variables):
-//   ANTHROPIC_API_KEY  required
+//   ANTHROPIC_API_KEY  required. Netlify's AI Gateway injects this (with ANTHROPIC_BASE_URL)
+//                      automatically and bills usage to Netlify credits; set your own key
+//                      at project level to bill your Anthropic account instead.
+//   ANTHROPIC_BASE_URL optional, set by the AI Gateway; defaults to https://api.anthropic.com
 //   LABEL_MODEL        optional, default claude-sonnet-5-5
 //   LABEL_DAILY_CAP    optional, site-wide checks per UTC day, default 200
 //   LABEL_IP_CAP       optional, checks per IP per UTC day, default 8
@@ -21,6 +24,7 @@ import { seal } from '../lib/label-seal.mjs';
 export const config = { path: '/api/label-check' };
 
 const MODEL = process.env.LABEL_MODEL || 'claude-sonnet-5-5';
+const API_BASE = (process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.com').replace(/\/+$/, '');
 const DAILY_CAP = Number(process.env.LABEL_DAILY_CAP || 200);
 const IP_CAP = Number(process.env.LABEL_IP_CAP || 8);
 const MAX_IMAGES = 3;
@@ -147,7 +151,7 @@ export default async (req, context) => {
 
   let extraction;
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
+    const res = await fetch(`${API_BASE}/v1/messages`, {
       method: 'POST',
       headers: { 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
       body: JSON.stringify({
