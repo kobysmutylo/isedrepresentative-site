@@ -15,7 +15,7 @@
 //   LABEL_MODEL        optional, default claude-sonnet-5-5
 //   LABEL_DAILY_CAP    optional, site-wide checks per UTC day, default 200
 //   LABEL_IP_CAP       optional, checks per IP per UTC day, default 8
-//   LABEL_SECRET       optional, sealing secret (falls back to a hash of the API key)
+//   LABEL_SECRET       optional, sealing secret (otherwise a random secret kept in Netlify Blobs)
 
 import { getStore } from '@netlify/blobs';
 import { evaluate } from '../lib/label-rules.mjs';
@@ -187,5 +187,10 @@ export default async (req, context) => {
   if (!usable) return json(422, { error: 'We could not find a product label in the photo. Try a closer, well-lit photo taken straight on, with the whole label in frame.', extraction: { images: extraction.images } });
 
   const report = evaluate(extraction, answers);
-  return json(200, { summary: report.summary, sealed: seal(report) });
+  let sealed;
+  try { sealed = await seal(report); } catch (e) {
+    console.error('label-check: seal failed', e && e.message);
+    return json(500, { error: 'Something went wrong preparing your report. Please try again.' });
+  }
+  return json(200, { summary: report.summary, sealed });
 };
