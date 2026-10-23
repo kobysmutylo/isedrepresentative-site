@@ -28,7 +28,8 @@ export default async (req) => {
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return json(400, { error: 'Please enter a valid email address.' });
 
   let report;
-  try { report = unseal(body.sealed); } catch (e) {
+  try { report = await unseal(body.sealed); } catch (e) {
+    console.error('label-report: unseal failed', e && e.message);
     return json(400, { error: 'This result has expired. Please run the check again.' });
   }
 
