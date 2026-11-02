@@ -4,7 +4,7 @@ description: News and updates from ISED Representative: changes to RSP-100 and r
 h1: Updates
 short: Updates
 type: page
-updated: 2026-08-25
+updated: 2026-11-02
 ---
 
 <div class="answer" markdown="1">
